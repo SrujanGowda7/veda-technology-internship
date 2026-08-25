@@ -62,3 +62,9 @@ The cleaned dataset contains:
 ### Conclusion
 
 The raw Titanic dataset was successfully cleaned and prepared for further data analysis and machine learning. The cleaning process improved data consistency, completeness, and reliability.
+
+### Deployment and Rollback
+
+This task focuses on data cleaning and preprocessing using Python and Pandas. It does not involve deploying an application or service. Therefore, deployment configuration and application rollback evidence are not applicable to this project.
+
+The cleaned dataset and notebook are version-controlled in this public GitHub repository, allowing previous project versions to be reviewed through Git history if required.
