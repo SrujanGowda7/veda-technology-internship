@@ -1,4 +1,4 @@
-# Task 22 – A B Test Analysis
+# Task 22 – A/B Test Analysis
 
 ## Overview
 
@@ -123,3 +123,4 @@ Statistical significance indicates whether the observed difference is likely to 
 ## Conclusion
 
 This project demonstrates how A/B testing can be used to evaluate changes using both statistical evidence and practical impact. The Treatment group showed a statistically significant improvement in conversion rate compared with the Control group.
+
