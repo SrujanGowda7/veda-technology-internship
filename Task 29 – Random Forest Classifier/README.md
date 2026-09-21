@@ -125,4 +125,4 @@ In this task, a **Decision Tree** and **Random Forest** classifier were built us
 
 Their training and testing performance was compared, different numbers of trees were experimented with, and feature importance was analyzed.
 
-This task provided practical understanding of **ensemble learning, model comparison, overfitting, and feature importance**.
+This task provided practical understanding of **ensemble learning, model comparison, overfitting, and feature importance.
