@@ -1,0 +1,1001 @@
+Date,Visitor_ID,Source_Channel,Business_Area,Service,Customer_Type,Location,Inquiry_Type,Website_Visits,Application_Submitted,Inquiry_Submitted,Converted,Revenue,Response_Time_Hours,Satisfaction_Score,Status,Month,Customer_Cluster,Engagement_Score,Engagement_Level
+2026-01-01 00:00:00.000000000,VEDA0001,College Referral,Internship,Mobile App Development,Student,Pune,Service Pricing,5,0,1,0,0,8.01,1,Completed,2026-01,1,8,Low
+2026-01-01 06:29:11.351351351,VEDA0002,Direct,Internship,Data Analytics Training,Business,Chennai,Service Pricing,9,0,1,0,0,16.58,3,New,2026-01,1,12,Medium
+2026-01-01 12:58:22.702702702,VEDA0003,Google Search,Internship,Website Development,Individual,Other,Technical Consultation,11,1,1,0,0,1.47,4,Closed,2026-01,1,19,High
+2026-01-01 19:27:34.054054054,VEDA0004,Direct,Internship,Data Analytics Training,Student,Hyderabad,Technical Consultation,1,0,0,1,26294,17.77,5,Contacted,2026-01,2,1,Low
+2026-01-02 01:56:45.405405405,VEDA0005,Direct,Internship,Web Development Internship,Individual,Hyderabad,Service Pricing,3,0,1,0,0,25.75,2,Completed,2026-01,1,6,Low
+2026-01-02 08:25:56.756756756,VEDA0006,Instagram,Internship,Data Analytics Training,Student,Bengaluru,Internship Application,5,1,1,1,46638,41.91,1,In Progress,2026-01,2,13,Medium
+2026-01-02 14:55:08.108108108,VEDA0007,Google Search,Internship,SEO Services,Individual,Chennai,Technical Consultation,3,0,1,0,0,33.15,3,Contacted,2026-01,1,6,Low
+2026-01-02 21:24:19.459459459,VEDA0008,Google Search,Digital Services,Data Science Internship,Student,Other,General Inquiry,4,1,0,0,0,5.8,2,New,2026-01,0,9,Low
+2026-01-03 03:53:30.810810810,VEDA0009,Google Search,Internship,Web Development Internship,Student,Other,General Inquiry,14,0,1,0,0,7.52,1,New,2026-01,1,17,High
+2026-01-03 10:22:42.162162162,VEDA0010,Direct,Training,Mobile App Development,Business,Mysuru,Course Information,3,1,1,0,0,20.84,4,In Progress,2026-01,1,11,Medium
+2026-01-03 16:51:53.513513513,VEDA0011,College Referral,Training,Web Development Internship,Student,Bengaluru,Service Pricing,4,0,1,1,9991,9.8,4,Closed,2026-01,1,7,Low
+2026-01-03 23:21:04.864864864,VEDA0012,Google Search,Digital Services,Website Development,Startup,Bengaluru,Internship Application,14,1,1,1,12572,1.82,1,In Progress,2026-01,1,22,High
+2026-01-04 05:50:16.216216216,VEDA0013,WhatsApp,Internship,Python Training,Student,Other,Course Information,13,0,0,1,44066,38.74,3,Completed,2026-01,2,13,Medium
+2026-01-04 12:19:27.567567567,VEDA0014,Direct,Training,Mobile App Development,Individual,Other,Service Pricing,13,0,0,0,0,1.43,1,In Progress,2026-01,0,13,Medium
+2026-01-04 18:48:38.918918918,VEDA0015,Instagram,Digital Services,Digital Marketing,Individual,Pune,Technical Consultation,1,1,1,0,0,39.96,2,New,2026-01,1,9,Low
+2026-01-05 01:17:50.270270270,VEDA0016,College Referral,Digital Services,Web Development Internship,Individual,Pune,General Inquiry,12,0,1,0,0,7.34,2,Closed,2026-01,1,15,High
+2026-01-05 07:47:01.621621621,VEDA0017,WhatsApp,IT Services,Mobile App Development,Student,Pune,Internship Application,8,0,1,1,18493,46.8,4,Closed,2026-01,2,11,Medium
+2026-01-05 14:16:12.972972973,VEDA0018,WhatsApp,Internship,Mobile App Development,Student,Bengaluru,General Inquiry,4,0,0,0,0,29.18,1,In Progress,2026-01,0,4,Low
+2026-01-05 20:45:24.324324324,VEDA0019,Instagram,Internship,Mobile App Development,Student,Mysuru,Technical Consultation,7,1,0,0,0,35.41,4,Completed,2026-01,0,12,Medium
+2026-01-06 03:14:35.675675675,VEDA0020,College Referral,IT Services,Python Training,Student,Hyderabad,Service Pricing,2,0,0,0,0,5.75,3,New,2026-01,0,2,Low
+2026-01-06 09:43:47.027027027,VEDA0021,Direct,Digital Services,Digital Marketing,Individual,Pune,Technical Consultation,2,1,0,0,0,41.45,2,Contacted,2026-01,0,7,Low
+2026-01-06 16:12:58.378378378,VEDA0022,LinkedIn,Training,SEO Services,Business,Mysuru,Technical Consultation,6,0,1,0,0,40.36,5,Closed,2026-01,1,9,Low
+2026-01-06 22:42:09.729729729,VEDA0023,College Referral,Training,Data Analytics Training,Business,Chennai,General Inquiry,14,0,1,0,0,31.52,5,In Progress,2026-01,1,17,High
+2026-01-07 05:11:21.081081081,VEDA0024,Instagram,Internship,Mobile App Development,Startup,Pune,Internship Application,2,1,0,1,20340,24.36,1,Completed,2026-01,0,7,Low
+2026-01-07 11:40:32.432432432,VEDA0025,WhatsApp,IT Services,Data Science Internship,Startup,Hyderabad,Technical Consultation,6,1,0,1,15901,34.77,1,Completed,2026-01,0,11,Medium
+2026-01-07 18:09:43.783783783,VEDA0026,Direct,Internship,SEO Services,Individual,Chennai,General Inquiry,11,1,0,0,0,0.78,5,New,2026-01,0,16,High
+2026-01-08 00:38:55.135135135,VEDA0027,College Referral,Internship,Website Development,Student,Chennai,Internship Application,2,1,1,0,0,28.64,1,Closed,2026-01,1,10,Medium
+2026-01-08 07:08:06.486486486,VEDA0028,LinkedIn,Training,Python Training,Business,Hyderabad,Service Pricing,4,0,0,0,0,40.75,2,New,2026-01,0,4,Low
+2026-01-08 13:37:17.837837837,VEDA0029,LinkedIn,Training,Web Development Internship,Individual,Pune,Service Pricing,7,0,1,1,45324,17.45,3,Contacted,2026-01,2,10,Medium
+2026-01-08 20:06:29.189189189,VEDA0030,Google Search,Internship,Python Training,Individual,Bengaluru,Course Information,8,0,1,1,23820,5.64,3,Contacted,2026-01,2,11,Medium
+2026-01-09 02:35:40.540540540,VEDA0031,Google Search,Internship,Web Development Internship,Student,Hyderabad,General Inquiry,3,1,1,1,26060,20.49,4,Contacted,2026-01,2,11,Medium
+2026-01-09 09:04:51.891891891,VEDA0032,Instagram,IT Services,Python Training,Student,Hyderabad,Internship Application,14,1,1,1,33642,35.04,2,Completed,2026-01,2,22,High
+2026-01-09 15:34:03.243243243,VEDA0033,College Referral,Internship,Web Development Internship,Student,Hyderabad,Technical Consultation,13,0,1,0,0,5.6,1,Closed,2026-01,1,16,High
+2026-01-09 22:03:14.594594594,VEDA0034,College Referral,Training,Mobile App Development,Business,Chennai,Service Pricing,9,0,1,1,9150,10.29,1,New,2026-01,1,12,Medium
+2026-01-10 04:32:25.945945946,VEDA0035,WhatsApp,Internship,Data Analytics Training,Individual,Mysuru,Internship Application,2,0,0,0,0,7.51,4,New,2026-01,0,2,Low
+2026-01-10 11:01:37.297297297,VEDA0036,WhatsApp,Training,Web Development Internship,Student,Bengaluru,General Inquiry,8,1,1,0,0,38.36,4,Contacted,2026-01,1,16,High
+2026-01-10 17:30:48.648648648,VEDA0037,WhatsApp,Training,Digital Marketing,Business,Pune,Course Information,8,0,1,1,35525,3.49,1,Closed,2026-01,2,11,Medium
+2026-01-11 00:00:00.000000000,VEDA0038,Google Search,Internship,Web Development Internship,Student,Pune,Service Pricing,13,0,0,0,0,33.11,1,Closed,2026-01,0,13,Medium
+2026-01-11 06:29:11.351351351,VEDA0039,College Referral,Internship,Data Science Internship,Student,Mysuru,Internship Application,14,0,1,0,0,17.91,2,In Progress,2026-01,1,17,High
+2026-01-11 12:58:22.702702702,VEDA0040,College Referral,Internship,Web Development Internship,Student,Hyderabad,Internship Application,4,1,0,0,0,36.4,4,Closed,2026-01,0,9,Low
+2026-01-11 19:27:34.054054054,VEDA0041,LinkedIn,Internship,Data Science Internship,Startup,Bengaluru,Internship Application,1,1,1,0,0,46.31,2,Closed,2026-01,1,9,Low
+2026-01-12 01:56:45.405405405,VEDA0042,Google Search,Digital Services,Website Development,Business,Pune,General Inquiry,13,1,1,1,13807,5.94,1,New,2026-01,1,21,High
+2026-01-12 08:25:56.756756756,VEDA0043,Direct,Internship,Mobile App Development,Student,Other,General Inquiry,1,0,1,0,0,15.43,5,Closed,2026-01,1,4,Low
+2026-01-12 14:55:08.108108108,VEDA0044,Google Search,IT Services,Data Science Internship,Business,Pune,General Inquiry,2,0,1,0,0,38.98,5,Closed,2026-01,1,5,Low
+2026-01-12 21:24:19.459459459,VEDA0045,Direct,Internship,Data Analytics Training,Student,Hyderabad,Technical Consultation,14,1,1,0,0,13.14,1,New,2026-01,1,22,High
+2026-01-13 03:53:30.810810810,VEDA0046,LinkedIn,IT Services,SEO Services,Business,Other,Internship Application,12,1,1,0,0,10.72,4,Closed,2026-01,1,20,High
+2026-01-13 10:22:42.162162162,VEDA0047,Instagram,IT Services,Mobile App Development,Startup,Mysuru,Service Pricing,14,0,1,0,0,39.71,5,New,2026-01,1,17,High
+2026-01-13 16:51:53.513513513,VEDA0048,College Referral,Training,Data Science Internship,Startup,Bengaluru,General Inquiry,9,0,1,0,0,47.39,4,In Progress,2026-01,1,12,Medium
+2026-01-13 23:21:04.864864864,VEDA0049,LinkedIn,Training,Mobile App Development,Student,Mysuru,General Inquiry,13,0,1,0,0,26.95,5,Completed,2026-01,1,16,High
+2026-01-14 05:50:16.216216216,VEDA0050,College Referral,Training,Digital Marketing,Business,Mysuru,Internship Application,2,0,1,1,48006,13.71,4,New,2026-01,2,5,Low
+2026-01-14 12:19:27.567567567,VEDA0051,WhatsApp,Internship,Mobile App Development,Startup,Bengaluru,General Inquiry,2,1,1,1,42170,19.43,5,New,2026-01,2,10,Medium
+2026-01-14 18:48:38.918918919,VEDA0052,Instagram,Digital Services,Mobile App Development,Student,Bengaluru,Technical Consultation,6,0,1,0,0,8.58,4,Closed,2026-01,1,9,Low
+2026-01-15 01:17:50.270270270,VEDA0053,Instagram,Digital Services,Website Development,Startup,Pune,Technical Consultation,7,0,1,0,0,36.69,2,New,2026-01,1,10,Medium
+2026-01-15 07:47:01.621621621,VEDA0054,LinkedIn,Digital Services,Data Analytics Training,Student,Pune,General Inquiry,13,0,1,0,0,37.24,4,Contacted,2026-01,1,16,High
+2026-01-15 14:16:12.972972973,VEDA0055,Instagram,Internship,Python Training,Business,Bengaluru,Internship Application,7,0,0,1,37196,42.07,2,Contacted,2026-01,2,7,Low
+2026-01-15 20:45:24.324324324,VEDA0056,Direct,IT Services,Python Training,Student,Other,Internship Application,13,0,1,0,0,1.76,2,In Progress,2026-01,1,16,High
+2026-01-16 03:14:35.675675675,VEDA0057,Instagram,Digital Services,Data Science Internship,Startup,Chennai,Internship Application,9,0,1,1,8494,27.19,1,New,2026-01,1,12,Medium
+2026-01-16 09:43:47.027027027,VEDA0058,College Referral,Internship,Mobile App Development,Individual,Pune,Course Information,6,0,0,1,37723,10.68,2,Closed,2026-01,2,6,Low
+2026-01-16 16:12:58.378378378,VEDA0059,College Referral,Internship,Data Science Internship,Student,Chennai,General Inquiry,14,1,0,1,30877,16.69,3,Closed,2026-01,2,19,High
+2026-01-16 22:42:09.729729729,VEDA0060,College Referral,IT Services,Website Development,Student,Other,Internship Application,8,0,1,1,28981,37.79,2,Completed,2026-01,2,11,Medium
+2026-01-17 05:11:21.081081081,VEDA0061,College Referral,Training,Website Development,Student,Bengaluru,Technical Consultation,11,0,0,0,0,9.62,4,In Progress,2026-01,0,11,Medium
+2026-01-17 11:40:32.432432432,VEDA0062,Direct,Digital Services,Web Development Internship,Student,Other,Service Pricing,6,1,0,0,0,30.82,2,Closed,2026-01,0,11,Medium
+2026-01-17 18:09:43.783783783,VEDA0063,Google Search,Internship,Digital Marketing,Student,Pune,Service Pricing,2,1,1,1,10244,31.59,4,Completed,2026-01,1,10,Medium
+2026-01-18 00:38:55.135135135,VEDA0064,WhatsApp,IT Services,Website Development,Individual,Mysuru,Internship Application,1,1,1,0,0,45.82,4,Closed,2026-01,1,9,Low
+2026-01-18 07:08:06.486486486,VEDA0065,LinkedIn,Internship,Web Development Internship,Student,Bengaluru,Service Pricing,5,0,1,0,0,37.32,3,Completed,2026-01,1,8,Low
+2026-01-18 13:37:17.837837837,VEDA0066,College Referral,Internship,Data Analytics Training,Student,Hyderabad,Service Pricing,14,0,1,0,0,38.67,2,Contacted,2026-01,1,17,High
+2026-01-18 20:06:29.189189189,VEDA0067,Instagram,Internship,Data Science Internship,Startup,Chennai,Course Information,9,0,1,0,0,25.75,2,Contacted,2026-01,1,12,Medium
+2026-01-19 02:35:40.540540540,VEDA0068,College Referral,IT Services,SEO Services,Student,Other,Technical Consultation,8,0,0,1,2746,9.37,5,Closed,2026-01,0,8,Low
+2026-01-19 09:04:51.891891892,VEDA0069,Instagram,IT Services,Data Analytics Training,Business,Bengaluru,Technical Consultation,14,0,1,0,0,20.71,5,In Progress,2026-01,1,17,High
+2026-01-19 15:34:03.243243243,VEDA0070,WhatsApp,Training,Website Development,Business,Other,Course Information,13,1,1,0,0,26.6,1,New,2026-01,1,21,High
+2026-01-19 22:03:14.594594594,VEDA0071,WhatsApp,Training,Data Analytics Training,Individual,Bengaluru,Course Information,4,0,1,1,3696,32.72,4,In Progress,2026-01,1,7,Low
+2026-01-20 04:32:25.945945946,VEDA0072,WhatsApp,Digital Services,Data Analytics Training,Individual,Pune,Service Pricing,5,0,0,1,13012,29.37,3,In Progress,2026-01,0,5,Low
+2026-01-20 11:01:37.297297297,VEDA0073,Instagram,Training,Digital Marketing,Business,Pune,General Inquiry,13,1,1,0,0,19.21,5,New,2026-01,1,21,High
+2026-01-20 17:30:48.648648648,VEDA0074,College Referral,IT Services,Digital Marketing,Student,Pune,Service Pricing,5,0,0,0,0,13.1,2,Contacted,2026-01,0,5,Low
+2026-01-21 00:00:00.000000000,VEDA0075,WhatsApp,Training,Digital Marketing,Student,Other,Course Information,6,1,1,0,0,8.49,1,Contacted,2026-01,1,14,Medium
+2026-01-21 06:29:11.351351351,VEDA0076,Direct,Training,Data Analytics Training,Student,Hyderabad,Technical Consultation,3,1,0,0,0,33.46,3,New,2026-01,0,8,Low
+2026-01-21 12:58:22.702702702,VEDA0077,Instagram,Training,Website Development,Startup,Pune,Service Pricing,5,1,1,0,0,31.16,2,Completed,2026-01,1,13,Medium
+2026-01-21 19:27:34.054054054,VEDA0078,Instagram,Internship,SEO Services,Student,Bengaluru,General Inquiry,2,1,1,0,0,33.15,2,In Progress,2026-01,1,10,Medium
+2026-01-22 01:56:45.405405405,VEDA0079,College Referral,IT Services,Mobile App Development,Individual,Pune,Service Pricing,10,0,0,0,0,18.2,4,Closed,2026-01,0,10,Medium
+2026-01-22 08:25:56.756756756,VEDA0080,Instagram,Training,Data Analytics Training,Business,Mysuru,Internship Application,1,0,1,0,0,12.96,4,Contacted,2026-01,1,4,Low
+2026-01-22 14:55:08.108108108,VEDA0081,Instagram,Internship,Web Development Internship,Business,Pune,Service Pricing,11,1,1,0,0,36.59,5,Closed,2026-01,1,19,High
+2026-01-22 21:24:19.459459459,VEDA0082,WhatsApp,Digital Services,Website Development,Individual,Other,Course Information,1,1,1,0,0,37.25,5,New,2026-01,1,9,Low
+2026-01-23 03:53:30.810810810,VEDA0083,College Referral,Training,Data Analytics Training,Student,Hyderabad,Technical Consultation,10,0,1,0,0,22.14,2,Closed,2026-01,1,13,Medium
+2026-01-23 10:22:42.162162162,VEDA0084,WhatsApp,Training,SEO Services,Startup,Mysuru,Technical Consultation,7,1,1,1,21092,29.57,2,Closed,2026-01,2,15,High
+2026-01-23 16:51:53.513513513,VEDA0085,WhatsApp,Digital Services,Mobile App Development,Individual,Other,Course Information,2,0,1,0,0,18.24,5,In Progress,2026-01,1,5,Low
+2026-01-23 23:21:04.864864865,VEDA0086,College Referral,IT Services,Digital Marketing,Student,Other,Internship Application,4,1,0,0,0,33.84,5,New,2026-01,0,9,Low
+2026-01-24 05:50:16.216216216,VEDA0087,LinkedIn,Internship,Website Development,Student,Other,Course Information,5,0,0,0,0,40.2,2,Closed,2026-01,0,5,Low
+2026-01-24 12:19:27.567567567,VEDA0088,WhatsApp,Digital Services,Python Training,Business,Bengaluru,Service Pricing,7,0,0,1,8692,33.19,3,Contacted,2026-01,0,7,Low
+2026-01-24 18:48:38.918918919,VEDA0089,Direct,IT Services,Mobile App Development,Individual,Other,Course Information,2,1,1,0,0,24.85,2,New,2026-01,1,10,Medium
+2026-01-25 01:17:50.270270270,VEDA0090,Direct,Internship,Web Development Internship,Startup,Bengaluru,Course Information,14,0,0,0,0,22.29,3,Contacted,2026-01,0,14,Medium
+2026-01-25 07:47:01.621621621,VEDA0091,Instagram,Internship,Data Analytics Training,Business,Other,Internship Application,6,0,0,0,0,31.01,3,Completed,2026-01,0,6,Low
+2026-01-25 14:16:12.972972973,VEDA0092,Direct,IT Services,SEO Services,Individual,Chennai,Service Pricing,1,0,1,1,12721,32.79,2,Closed,2026-01,1,4,Low
+2026-01-25 20:45:24.324324324,VEDA0093,Instagram,IT Services,Python Training,Individual,Mysuru,General Inquiry,7,1,1,0,0,27.04,1,New,2026-01,1,15,High
+2026-01-26 03:14:35.675675675,VEDA0094,LinkedIn,Training,SEO Services,Student,Chennai,General Inquiry,9,1,1,0,0,30.18,5,Contacted,2026-01,1,17,High
+2026-01-26 09:43:47.027027027,VEDA0095,College Referral,Digital Services,Python Training,Student,Other,Technical Consultation,5,1,0,0,0,5.09,4,Closed,2026-01,0,10,Medium
+2026-01-26 16:12:58.378378378,VEDA0096,College Referral,IT Services,Website Development,Student,Mysuru,Course Information,5,1,1,0,0,45.71,2,In Progress,2026-01,1,13,Medium
+2026-01-26 22:42:09.729729729,VEDA0097,College Referral,Internship,Python Training,Startup,Mysuru,Technical Consultation,4,1,1,1,25151,38.06,3,Contacted,2026-01,2,12,Medium
+2026-01-27 05:11:21.081081081,VEDA0098,Direct,Internship,Web Development Internship,Individual,Hyderabad,Internship Application,3,0,1,1,1036,18.26,2,Contacted,2026-01,1,6,Low
+2026-01-27 11:40:32.432432432,VEDA0099,LinkedIn,Internship,Web Development Internship,Business,Chennai,General Inquiry,9,0,0,0,0,27.23,5,Completed,2026-01,0,9,Low
+2026-01-27 18:09:43.783783784,VEDA0100,Direct,IT Services,Data Science Internship,Student,Hyderabad,Course Information,5,1,1,0,0,2.75,3,In Progress,2026-01,1,13,Medium
+2026-01-28 00:38:55.135135135,VEDA0101,Direct,Internship,Web Development Internship,Individual,Mysuru,Internship Application,8,0,1,0,0,2.46,4,Completed,2026-01,1,11,Medium
+2026-01-28 07:08:06.486486486,VEDA0102,LinkedIn,Training,Mobile App Development,Individual,Bengaluru,Internship Application,9,0,0,0,0,12.41,4,In Progress,2026-01,0,9,Low
+2026-01-28 13:37:17.837837838,VEDA0103,LinkedIn,IT Services,Python Training,Individual,Mysuru,Course Information,5,0,1,0,0,33.26,4,Contacted,2026-01,1,8,Low
+2026-01-28 20:06:29.189189189,VEDA0104,LinkedIn,Digital Services,Web Development Internship,Startup,Hyderabad,Internship Application,10,0,1,0,0,40.98,1,Completed,2026-01,1,13,Medium
+2026-01-29 02:35:40.540540540,VEDA0105,LinkedIn,Internship,Website Development,Student,Chennai,Course Information,9,1,0,0,0,27.06,3,Closed,2026-01,0,14,Medium
+2026-01-29 09:04:51.891891892,VEDA0106,College Referral,Digital Services,SEO Services,Individual,Other,Course Information,2,0,1,0,0,25.78,3,In Progress,2026-01,1,5,Low
+2026-01-29 15:34:03.243243243,VEDA0107,Google Search,Internship,Digital Marketing,Student,Other,Service Pricing,9,1,0,1,37648,19.61,1,Contacted,2026-01,2,14,Medium
+2026-01-29 22:03:14.594594594,VEDA0108,Google Search,Digital Services,SEO Services,Student,Chennai,Technical Consultation,11,0,0,1,6932,8.18,3,New,2026-01,0,11,Medium
+2026-01-30 04:32:25.945945946,VEDA0109,LinkedIn,Internship,Data Science Internship,Student,Other,Internship Application,4,0,1,1,27470,6.12,1,In Progress,2026-01,2,7,Low
+2026-01-30 11:01:37.297297297,VEDA0110,Google Search,Training,SEO Services,Individual,Other,Internship Application,6,0,1,0,0,36.63,2,In Progress,2026-01,1,9,Low
+2026-01-30 17:30:48.648648648,VEDA0111,Google Search,IT Services,Python Training,Business,Hyderabad,Service Pricing,6,1,1,1,7333,44.56,5,Closed,2026-01,1,14,Medium
+2026-01-31 00:00:00.000000000,VEDA0112,LinkedIn,Internship,Data Science Internship,Individual,Chennai,Service Pricing,6,1,1,0,0,22.27,4,In Progress,2026-01,1,14,Medium
+2026-01-31 06:29:11.351351351,VEDA0113,Google Search,Internship,Python Training,Startup,Pune,Service Pricing,2,1,0,0,0,31.82,1,In Progress,2026-01,0,7,Low
+2026-01-31 12:58:22.702702702,VEDA0114,Direct,IT Services,Website Development,Individual,Bengaluru,General Inquiry,7,1,1,1,6067,43.94,1,Closed,2026-01,1,15,High
+2026-01-31 19:27:34.054054054,VEDA0115,Instagram,IT Services,Data Science Internship,Individual,Bengaluru,General Inquiry,13,1,1,0,0,4.78,1,Closed,2026-01,1,21,High
+2026-02-01 01:56:45.405405405,VEDA0116,Instagram,IT Services,Data Analytics Training,Student,Other,General Inquiry,6,1,1,0,0,37.1,2,Completed,2026-02,1,14,Medium
+2026-02-01 08:25:56.756756757,VEDA0117,LinkedIn,IT Services,Mobile App Development,Student,Bengaluru,Course Information,11,1,1,0,0,29.8,1,Contacted,2026-02,1,19,High
+2026-02-01 14:55:08.108108108,VEDA0118,College Referral,Training,Mobile App Development,Student,Chennai,Internship Application,14,1,1,0,0,28.94,5,Contacted,2026-02,1,22,High
+2026-02-01 21:24:19.459459459,VEDA0119,LinkedIn,Internship,Python Training,Student,Chennai,Technical Consultation,1,0,1,0,0,14.4,5,Completed,2026-02,1,4,Low
+2026-02-02 03:53:30.810810811,VEDA0120,College Referral,Internship,SEO Services,Student,Mysuru,Course Information,2,0,1,0,0,32.98,4,Contacted,2026-02,1,5,Low
+2026-02-02 10:22:42.162162162,VEDA0121,Instagram,Internship,Digital Marketing,Student,Mysuru,Internship Application,7,1,0,1,8887,38.25,2,In Progress,2026-02,0,12,Medium
+2026-02-02 16:51:53.513513513,VEDA0122,LinkedIn,Digital Services,Digital Marketing,Student,Bengaluru,Internship Application,1,1,1,0,0,5.86,5,Completed,2026-02,1,9,Low
+2026-02-02 23:21:04.864864865,VEDA0123,WhatsApp,Training,Data Analytics Training,Business,Pune,Service Pricing,1,0,0,0,0,25.84,3,Completed,2026-02,0,1,Low
+2026-02-03 05:50:16.216216216,VEDA0124,Direct,Training,Data Science Internship,Student,Mysuru,Service Pricing,1,1,0,0,0,5.31,3,Contacted,2026-02,0,6,Low
+2026-02-03 12:19:27.567567567,VEDA0125,Google Search,Training,Data Analytics Training,Student,Mysuru,Course Information,8,1,0,0,0,41.95,3,New,2026-02,0,13,Medium
+2026-02-03 18:48:38.918918919,VEDA0126,College Referral,Digital Services,Data Analytics Training,Student,Chennai,Service Pricing,4,0,1,1,36497,24.61,1,Contacted,2026-02,2,7,Low
+2026-02-04 01:17:50.270270270,VEDA0127,WhatsApp,Internship,SEO Services,Individual,Pune,Internship Application,4,1,1,0,0,38.88,1,New,2026-02,1,12,Medium
+2026-02-04 07:47:01.621621621,VEDA0128,Google Search,Training,Digital Marketing,Student,Other,Service Pricing,13,0,1,0,0,17.98,3,Completed,2026-02,1,16,High
+2026-02-04 14:16:12.972972973,VEDA0129,Google Search,Training,Data Science Internship,Student,Bengaluru,General Inquiry,2,0,1,0,0,6.44,4,New,2026-02,1,5,Low
+2026-02-04 20:45:24.324324324,VEDA0130,LinkedIn,IT Services,Website Development,Individual,Mysuru,Service Pricing,11,0,1,0,0,2.47,4,In Progress,2026-02,1,14,Medium
+2026-02-05 03:14:35.675675675,VEDA0131,Google Search,Internship,SEO Services,Student,Pune,Internship Application,11,0,0,0,0,13.87,1,Closed,2026-02,0,11,Medium
+2026-02-05 09:43:47.027027027,VEDA0132,Direct,Digital Services,Data Analytics Training,Student,Pune,Course Information,11,1,0,0,0,12.1,3,New,2026-02,0,16,High
+2026-02-05 16:12:58.378378378,VEDA0133,WhatsApp,Digital Services,Data Analytics Training,Student,Bengaluru,Technical Consultation,1,0,1,0,0,27.12,4,Closed,2026-02,1,4,Low
+2026-02-05 22:42:09.729729730,VEDA0134,Google Search,Training,Website Development,Student,Pune,Service Pricing,12,0,1,0,0,1.53,1,In Progress,2026-02,1,15,High
+2026-02-06 05:11:21.081081081,VEDA0135,LinkedIn,IT Services,Data Analytics Training,Student,Pune,Internship Application,10,0,1,0,0,25.23,3,Closed,2026-02,1,13,Medium
+2026-02-06 11:40:32.432432432,VEDA0136,Direct,Digital Services,Data Analytics Training,Student,Pune,Technical Consultation,9,0,1,0,0,19.11,2,In Progress,2026-02,1,12,Medium
+2026-02-06 18:09:43.783783784,VEDA0137,Instagram,IT Services,Data Analytics Training,Startup,Mysuru,Technical Consultation,7,0,0,1,17958,27.91,3,Closed,2026-02,0,7,Low
+2026-02-07 00:38:55.135135135,VEDA0138,WhatsApp,Internship,Mobile App Development,Individual,Bengaluru,General Inquiry,4,1,1,0,0,33.86,3,Closed,2026-02,1,12,Medium
+2026-02-07 07:08:06.486486486,VEDA0139,Google Search,Training,SEO Services,Individual,Pune,Technical Consultation,12,0,1,1,20251,30.62,5,Contacted,2026-02,2,15,High
+2026-02-07 13:37:17.837837838,VEDA0140,LinkedIn,IT Services,Web Development Internship,Student,Pune,Internship Application,6,1,1,0,0,47.27,5,New,2026-02,1,14,Medium
+2026-02-07 20:06:29.189189189,VEDA0141,Instagram,Training,SEO Services,Business,Mysuru,Internship Application,14,1,0,0,0,7.07,2,Closed,2026-02,0,19,High
+2026-02-08 02:35:40.540540540,VEDA0142,Instagram,IT Services,Website Development,Student,Bengaluru,Service Pricing,2,0,1,0,0,20.91,2,Completed,2026-02,1,5,Low
+2026-02-08 09:04:51.891891892,VEDA0143,College Referral,Digital Services,Data Analytics Training,Student,Chennai,Service Pricing,7,1,1,0,0,20.68,3,Contacted,2026-02,1,15,High
+2026-02-08 15:34:03.243243243,VEDA0144,Direct,Digital Services,SEO Services,Individual,Mysuru,Service Pricing,2,0,0,0,0,20.31,4,New,2026-02,0,2,Low
+2026-02-08 22:03:14.594594594,VEDA0145,Google Search,Training,Mobile App Development,Student,Bengaluru,Technical Consultation,10,0,1,0,0,32.03,2,Contacted,2026-02,1,13,Medium
+2026-02-09 04:32:25.945945946,VEDA0146,LinkedIn,Internship,Digital Marketing,Student,Pune,Technical Consultation,8,0,1,0,0,23.77,3,New,2026-02,1,11,Medium
+2026-02-09 11:01:37.297297297,VEDA0147,College Referral,Digital Services,Website Development,Individual,Bengaluru,General Inquiry,8,0,1,0,0,25.08,1,In Progress,2026-02,1,11,Medium
+2026-02-09 17:30:48.648648648,VEDA0148,Direct,Digital Services,Python Training,Business,Bengaluru,Service Pricing,1,0,1,0,0,21.04,5,Closed,2026-02,1,4,Low
+2026-02-10 00:00:00.000000000,VEDA0149,College Referral,Internship,SEO Services,Student,Other,Course Information,13,1,1,0,0,47.61,4,Completed,2026-02,1,21,High
+2026-02-10 06:29:11.351351351,VEDA0150,WhatsApp,Digital Services,Python Training,Startup,Bengaluru,General Inquiry,8,0,1,0,0,44.56,3,Contacted,2026-02,1,11,Medium
+2026-02-10 12:58:22.702702702,VEDA0151,Direct,Digital Services,Data Analytics Training,Business,Chennai,Course Information,2,1,0,0,0,15.12,1,Contacted,2026-02,0,7,Low
+2026-02-10 19:27:34.054054054,VEDA0152,Direct,Training,Mobile App Development,Student,Bengaluru,Technical Consultation,6,0,0,0,0,5.8,5,Contacted,2026-02,0,6,Low
+2026-02-11 01:56:45.405405405,VEDA0153,Google Search,Training,Mobile App Development,Student,Chennai,General Inquiry,13,1,0,0,0,40.39,1,Contacted,2026-02,0,18,High
+2026-02-11 08:25:56.756756757,VEDA0154,Direct,Training,SEO Services,Student,Pune,General Inquiry,1,0,1,1,11222,47.87,3,Closed,2026-02,1,4,Low
+2026-02-11 14:55:08.108108108,VEDA0155,College Referral,Internship,Website Development,Student,Chennai,Internship Application,5,0,1,1,24949,14.4,2,New,2026-02,2,8,Low
+2026-02-11 21:24:19.459459459,VEDA0156,Direct,Internship,Website Development,Student,Pune,Technical Consultation,11,0,1,0,0,17.49,5,Closed,2026-02,1,14,Medium
+2026-02-12 03:53:30.810810811,VEDA0157,Google Search,IT Services,Mobile App Development,Business,Pune,Technical Consultation,7,0,1,0,0,45.23,1,In Progress,2026-02,1,10,Medium
+2026-02-12 10:22:42.162162162,VEDA0158,Google Search,Internship,Website Development,Startup,Chennai,General Inquiry,13,0,1,0,0,34.28,2,Closed,2026-02,1,16,High
+2026-02-12 16:51:53.513513513,VEDA0159,WhatsApp,Internship,Mobile App Development,Individual,Mysuru,Technical Consultation,10,1,1,1,38374,14.54,4,Closed,2026-02,2,18,High
+2026-02-12 23:21:04.864864865,VEDA0160,College Referral,Training,SEO Services,Student,Hyderabad,General Inquiry,1,0,0,0,0,28.1,3,In Progress,2026-02,0,1,Low
+2026-02-13 05:50:16.216216216,VEDA0161,Instagram,Training,Web Development Internship,Startup,Bengaluru,Internship Application,2,1,1,0,0,45.35,3,Closed,2026-02,1,10,Medium
+2026-02-13 12:19:27.567567567,VEDA0162,Instagram,Digital Services,Mobile App Development,Business,Other,General Inquiry,7,1,1,1,30655,39.06,5,New,2026-02,2,15,High
+2026-02-13 18:48:38.918918919,VEDA0163,Direct,Internship,Python Training,Startup,Hyderabad,Technical Consultation,6,1,1,0,0,35.74,1,Completed,2026-02,1,14,Medium
+2026-02-14 01:17:50.270270270,VEDA0164,WhatsApp,Internship,Website Development,Student,Bengaluru,Technical Consultation,3,0,1,0,0,35.51,4,In Progress,2026-02,1,6,Low
+2026-02-14 07:47:01.621621621,VEDA0165,LinkedIn,IT Services,Mobile App Development,Individual,Bengaluru,General Inquiry,14,0,1,0,0,8.96,5,Contacted,2026-02,1,17,High
+2026-02-14 14:16:12.972972973,VEDA0166,Direct,Training,Mobile App Development,Student,Pune,General Inquiry,10,1,0,0,0,39.67,5,New,2026-02,0,15,High
+2026-02-14 20:45:24.324324324,VEDA0167,WhatsApp,Internship,SEO Services,Student,Bengaluru,General Inquiry,2,1,1,1,44225,13.62,1,Completed,2026-02,2,10,Medium
+2026-02-15 03:14:35.675675675,VEDA0168,College Referral,Training,Website Development,Student,Other,Service Pricing,10,0,1,1,18199,44.69,4,New,2026-02,2,13,Medium
+2026-02-15 09:43:47.027027027,VEDA0169,College Referral,Internship,Web Development Internship,Individual,Bengaluru,Technical Consultation,4,0,1,0,0,17.82,1,New,2026-02,1,7,Low
+2026-02-15 16:12:58.378378378,VEDA0170,College Referral,Internship,SEO Services,Individual,Chennai,Technical Consultation,3,0,1,0,0,41.24,3,Contacted,2026-02,1,6,Low
+2026-02-15 22:42:09.729729730,VEDA0171,College Referral,Training,Web Development Internship,Student,Hyderabad,Service Pricing,7,1,1,0,0,13.15,2,Completed,2026-02,1,15,High
+2026-02-16 05:11:21.081081081,VEDA0172,College Referral,Training,Digital Marketing,Student,Chennai,General Inquiry,8,1,1,0,0,24.94,3,New,2026-02,1,16,High
+2026-02-16 11:40:32.432432432,VEDA0173,WhatsApp,Digital Services,SEO Services,Student,Other,Internship Application,2,0,1,0,0,5.58,3,Contacted,2026-02,1,5,Low
+2026-02-16 18:09:43.783783784,VEDA0174,WhatsApp,Training,Website Development,Student,Bengaluru,General Inquiry,10,1,1,0,0,31.86,5,In Progress,2026-02,1,18,High
+2026-02-17 00:38:55.135135135,VEDA0175,Google Search,Training,Data Science Internship,Student,Other,General Inquiry,7,1,1,0,0,40.21,3,Contacted,2026-02,1,15,High
+2026-02-17 07:08:06.486486486,VEDA0176,Instagram,IT Services,Website Development,Student,Pune,Service Pricing,8,0,1,0,0,34.63,4,Closed,2026-02,1,11,Medium
+2026-02-17 13:37:17.837837838,VEDA0177,College Referral,Internship,Website Development,Startup,Chennai,Technical Consultation,6,1,1,0,0,25.35,3,Contacted,2026-02,1,14,Medium
+2026-02-17 20:06:29.189189189,VEDA0178,LinkedIn,IT Services,Web Development Internship,Student,Chennai,General Inquiry,6,1,1,0,0,2.64,4,Contacted,2026-02,1,14,Medium
+2026-02-18 02:35:40.540540540,VEDA0179,WhatsApp,Internship,Web Development Internship,Student,Mysuru,Technical Consultation,10,0,0,0,0,44.84,1,Contacted,2026-02,0,10,Medium
+2026-02-18 09:04:51.891891892,VEDA0180,LinkedIn,Digital Services,Website Development,Student,Bengaluru,Course Information,1,1,1,0,0,34.01,5,New,2026-02,1,9,Low
+2026-02-18 15:34:03.243243243,VEDA0181,LinkedIn,Internship,Website Development,Business,Pune,Technical Consultation,4,0,0,0,0,35.93,4,Completed,2026-02,0,4,Low
+2026-02-18 22:03:14.594594594,VEDA0182,LinkedIn,Training,Website Development,Individual,Chennai,Internship Application,14,0,1,0,0,38.25,3,Contacted,2026-02,1,17,High
+2026-02-19 04:32:25.945945946,VEDA0183,Google Search,Internship,Web Development Internship,Individual,Chennai,Internship Application,1,0,0,0,0,36.02,5,Contacted,2026-02,0,1,Low
+2026-02-19 11:01:37.297297297,VEDA0184,WhatsApp,Digital Services,Website Development,Student,Pune,General Inquiry,4,0,0,0,0,21.45,5,Closed,2026-02,0,4,Low
+2026-02-19 17:30:48.648648648,VEDA0185,LinkedIn,Training,Website Development,Individual,Other,Technical Consultation,2,0,0,0,0,35.35,4,Closed,2026-02,0,2,Low
+2026-02-20 00:00:00.000000000,VEDA0186,College Referral,Training,Digital Marketing,Student,Other,General Inquiry,11,0,0,0,0,30.19,4,In Progress,2026-02,0,11,Medium
+2026-02-20 06:29:11.351351351,VEDA0187,Direct,Internship,Data Analytics Training,Individual,Bengaluru,Service Pricing,13,1,0,0,0,41.07,2,In Progress,2026-02,0,18,High
+2026-02-20 12:58:22.702702702,VEDA0188,LinkedIn,IT Services,Data Science Internship,Business,Mysuru,Internship Application,5,0,1,1,29488,38.62,2,Closed,2026-02,2,8,Low
+2026-02-20 19:27:34.054054054,VEDA0189,Google Search,Internship,Python Training,Individual,Chennai,General Inquiry,10,1,1,0,0,2.47,5,Completed,2026-02,1,18,High
+2026-02-21 01:56:45.405405405,VEDA0190,WhatsApp,Digital Services,Data Science Internship,Business,Mysuru,Service Pricing,14,0,1,0,0,18.5,2,In Progress,2026-02,1,17,High
+2026-02-21 08:25:56.756756757,VEDA0191,Google Search,Internship,Data Analytics Training,Startup,Other,General Inquiry,9,1,1,0,0,2.15,3,Completed,2026-02,1,17,High
+2026-02-21 14:55:08.108108108,VEDA0192,LinkedIn,Internship,Python Training,Student,Other,Technical Consultation,11,1,0,0,0,5.35,1,Closed,2026-02,0,16,High
+2026-02-21 21:24:19.459459459,VEDA0193,WhatsApp,Internship,SEO Services,Business,Hyderabad,Technical Consultation,12,0,1,0,0,29.07,5,In Progress,2026-02,1,15,High
+2026-02-22 03:53:30.810810811,VEDA0194,Direct,Training,Website Development,Student,Bengaluru,Technical Consultation,10,1,0,0,0,42.01,1,Contacted,2026-02,0,15,High
+2026-02-22 10:22:42.162162162,VEDA0195,LinkedIn,Training,Data Analytics Training,Individual,Hyderabad,Technical Consultation,3,0,0,0,0,6.19,2,Closed,2026-02,0,3,Low
+2026-02-22 16:51:53.513513514,VEDA0196,Google Search,Internship,Digital Marketing,Student,Hyderabad,Course Information,8,1,1,0,0,21.93,4,In Progress,2026-02,1,16,High
+2026-02-22 23:21:04.864864865,VEDA0197,Instagram,IT Services,SEO Services,Student,Hyderabad,Service Pricing,3,0,0,0,0,43.77,5,Completed,2026-02,0,3,Low
+2026-02-23 05:50:16.216216216,VEDA0198,College Referral,Training,Website Development,Student,Bengaluru,Service Pricing,6,1,1,0,0,39.18,2,Completed,2026-02,1,14,Medium
+2026-02-23 12:19:27.567567568,VEDA0199,Google Search,Training,Web Development Internship,Student,Bengaluru,Technical Consultation,4,1,1,1,26146,25.18,3,In Progress,2026-02,2,12,Medium
+2026-02-23 18:48:38.918918919,VEDA0200,WhatsApp,Training,Mobile App Development,Student,Pune,Course Information,8,0,1,0,0,37.15,5,Completed,2026-02,1,11,Medium
+2026-02-24 01:17:50.270270270,VEDA0201,LinkedIn,Training,Data Analytics Training,Individual,Mysuru,Technical Consultation,11,0,1,1,47103,25.33,5,In Progress,2026-02,2,14,Medium
+2026-02-24 07:47:01.621621622,VEDA0202,College Referral,Training,Web Development Internship,Student,Mysuru,Course Information,6,1,0,0,0,8.01,4,In Progress,2026-02,0,11,Medium
+2026-02-24 14:16:12.972972973,VEDA0203,LinkedIn,Internship,Data Analytics Training,Student,Pune,Technical Consultation,8,0,1,0,0,6.42,5,Completed,2026-02,1,11,Medium
+2026-02-24 20:45:24.324324324,VEDA0204,WhatsApp,Internship,Digital Marketing,Individual,Pune,Internship Application,1,0,0,0,0,9.45,4,New,2026-02,0,1,Low
+2026-02-25 03:14:35.675675676,VEDA0205,LinkedIn,Digital Services,Data Analytics Training,Student,Other,Internship Application,6,0,1,0,0,17.17,2,Contacted,2026-02,1,9,Low
+2026-02-25 09:43:47.027027027,VEDA0206,Instagram,Digital Services,Web Development Internship,Startup,Hyderabad,General Inquiry,1,0,0,1,44907,44.7,3,Closed,2026-02,2,1,Low
+2026-02-25 16:12:58.378378378,VEDA0207,College Referral,Training,Digital Marketing,Individual,Pune,Technical Consultation,1,1,1,1,1347,38.48,3,Contacted,2026-02,1,9,Low
+2026-02-25 22:42:09.729729730,VEDA0208,College Referral,Internship,Python Training,Startup,Chennai,Service Pricing,8,0,1,0,0,21.06,5,Closed,2026-02,1,11,Medium
+2026-02-26 05:11:21.081081081,VEDA0209,WhatsApp,IT Services,Data Science Internship,Individual,Mysuru,General Inquiry,7,0,1,1,38211,23.92,5,Closed,2026-02,2,10,Medium
+2026-02-26 11:40:32.432432432,VEDA0210,Instagram,Training,Website Development,Student,Pune,Internship Application,3,1,1,0,0,13.12,2,Contacted,2026-02,1,11,Medium
+2026-02-26 18:09:43.783783784,VEDA0211,Google Search,Internship,Data Analytics Training,Individual,Chennai,Technical Consultation,6,1,1,0,0,33.96,4,In Progress,2026-02,1,14,Medium
+2026-02-27 00:38:55.135135135,VEDA0212,LinkedIn,Internship,Website Development,Student,Chennai,General Inquiry,9,0,1,1,7869,38.63,3,Completed,2026-02,1,12,Medium
+2026-02-27 07:08:06.486486487,VEDA0213,Direct,IT Services,Mobile App Development,Student,Chennai,Technical Consultation,7,0,1,1,29082,11.85,4,New,2026-02,2,10,Medium
+2026-02-27 13:37:17.837837838,VEDA0214,LinkedIn,IT Services,Web Development Internship,Startup,Other,Internship Application,12,1,0,0,0,2.49,2,New,2026-02,0,17,High
+2026-02-27 20:06:29.189189189,VEDA0215,LinkedIn,Internship,Website Development,Student,Other,General Inquiry,3,1,1,1,29979,30.13,3,New,2026-02,2,11,Medium
+2026-02-28 02:35:40.540540541,VEDA0216,Google Search,Internship,Web Development Internship,Startup,Chennai,Internship Application,14,0,0,1,20422,27.22,3,Contacted,2026-02,0,14,Medium
+2026-02-28 09:04:51.891891892,VEDA0217,LinkedIn,Internship,Website Development,Startup,Other,Course Information,14,0,0,1,36613,19.6,1,Contacted,2026-02,2,14,Medium
+2026-02-28 15:34:03.243243243,VEDA0218,Instagram,IT Services,Data Science Internship,Business,Hyderabad,Internship Application,13,0,1,1,23993,31.08,2,In Progress,2026-02,2,16,High
+2026-02-28 22:03:14.594594595,VEDA0219,Instagram,Internship,Data Science Internship,Business,Chennai,Technical Consultation,6,0,1,1,13386,26.65,2,New,2026-02,1,9,Low
+2026-03-01 04:32:25.945945946,VEDA0220,College Referral,Internship,Digital Marketing,Student,Hyderabad,Service Pricing,11,0,1,0,0,12.4,1,In Progress,2026-03,1,14,Medium
+2026-03-01 11:01:37.297297297,VEDA0221,WhatsApp,IT Services,Data Science Internship,Student,Hyderabad,Internship Application,4,1,0,1,46213,19.39,4,New,2026-03,2,9,Low
+2026-03-01 17:30:48.648648649,VEDA0222,Direct,Internship,Digital Marketing,Individual,Chennai,Service Pricing,14,0,1,0,0,20.84,1,Contacted,2026-03,1,17,High
+2026-03-02 00:00:00.000000000,VEDA0223,LinkedIn,IT Services,Data Science Internship,Student,Mysuru,Course Information,13,1,0,1,12159,42.31,2,Completed,2026-03,0,18,High
+2026-03-02 06:29:11.351351351,VEDA0224,LinkedIn,Internship,Data Science Internship,Individual,Chennai,General Inquiry,3,0,0,0,0,46.14,4,Completed,2026-03,0,3,Low
+2026-03-02 12:58:22.702702703,VEDA0225,Google Search,Internship,Data Science Internship,Startup,Chennai,General Inquiry,9,1,0,0,0,42.92,3,Completed,2026-03,0,14,Medium
+2026-03-02 19:27:34.054054054,VEDA0226,WhatsApp,Internship,Web Development Internship,Individual,Other,Service Pricing,10,1,1,0,0,34.66,1,Completed,2026-03,1,18,High
+2026-03-03 01:56:45.405405405,VEDA0227,Instagram,IT Services,Data Analytics Training,Student,Chennai,General Inquiry,2,0,1,0,0,28.29,4,Closed,2026-03,1,5,Low
+2026-03-03 08:25:56.756756757,VEDA0228,Direct,Digital Services,Digital Marketing,Student,Mysuru,Internship Application,1,0,0,0,0,33.24,4,New,2026-03,0,1,Low
+2026-03-03 14:55:08.108108108,VEDA0229,College Referral,Digital Services,Website Development,Student,Other,Service Pricing,14,0,1,1,21044,45.11,4,Completed,2026-03,2,17,High
+2026-03-03 21:24:19.459459460,VEDA0230,Instagram,Training,Data Science Internship,Student,Bengaluru,Technical Consultation,2,1,0,1,34836,12.37,1,Closed,2026-03,2,7,Low
+2026-03-04 03:53:30.810810811,VEDA0231,WhatsApp,IT Services,Web Development Internship,Business,Bengaluru,Internship Application,7,1,1,0,0,25.92,3,Closed,2026-03,1,15,High
+2026-03-04 10:22:42.162162162,VEDA0232,College Referral,Internship,Web Development Internship,Student,Hyderabad,Internship Application,10,0,1,1,15706,33.26,4,Closed,2026-03,1,13,Medium
+2026-03-04 16:51:53.513513514,VEDA0233,Google Search,Internship,Web Development Internship,Student,Hyderabad,Internship Application,1,0,1,1,6974,32.76,1,In Progress,2026-03,1,4,Low
+2026-03-04 23:21:04.864864865,VEDA0234,Google Search,Digital Services,Digital Marketing,Student,Mysuru,Technical Consultation,6,0,1,0,0,12.48,2,In Progress,2026-03,1,9,Low
+2026-03-05 05:50:16.216216216,VEDA0235,LinkedIn,Internship,Data Analytics Training,Individual,Pune,Course Information,14,1,1,0,0,28.37,1,Closed,2026-03,1,22,High
+2026-03-05 12:19:27.567567568,VEDA0236,WhatsApp,Internship,Digital Marketing,Individual,Bengaluru,General Inquiry,7,0,1,1,2950,38.31,1,Completed,2026-03,1,10,Medium
+2026-03-05 18:48:38.918918919,VEDA0237,Direct,Internship,Website Development,Student,Hyderabad,Service Pricing,9,0,1,0,0,23.07,1,New,2026-03,1,12,Medium
+2026-03-06 01:17:50.270270270,VEDA0238,College Referral,Internship,Data Analytics Training,Student,Bengaluru,Course Information,14,0,1,1,11411,38.18,4,Contacted,2026-03,1,17,High
+2026-03-06 07:47:01.621621622,VEDA0239,Instagram,Internship,Python Training,Student,Mysuru,Service Pricing,8,0,1,1,22695,17.59,1,In Progress,2026-03,2,11,Medium
+2026-03-06 14:16:12.972972973,VEDA0240,WhatsApp,Training,SEO Services,Student,Mysuru,General Inquiry,6,1,0,1,47156,45.09,2,Completed,2026-03,2,11,Medium
+2026-03-06 20:45:24.324324324,VEDA0241,WhatsApp,Training,Web Development Internship,Individual,Pune,Technical Consultation,3,0,1,0,0,25.86,4,Completed,2026-03,1,6,Low
+2026-03-07 03:14:35.675675676,VEDA0242,Google Search,Digital Services,Digital Marketing,Individual,Pune,Internship Application,8,1,1,0,0,28.81,2,Contacted,2026-03,1,16,High
+2026-03-07 09:43:47.027027027,VEDA0243,LinkedIn,IT Services,Python Training,Student,Other,Internship Application,7,0,0,0,0,1.99,5,Contacted,2026-03,0,7,Low
+2026-03-07 16:12:58.378378378,VEDA0244,LinkedIn,Internship,Mobile App Development,Student,Mysuru,Technical Consultation,3,0,1,0,0,8.59,1,Completed,2026-03,1,6,Low
+2026-03-07 22:42:09.729729730,VEDA0245,College Referral,Internship,Digital Marketing,Business,Hyderabad,Course Information,9,1,1,0,0,30.56,4,Contacted,2026-03,1,17,High
+2026-03-08 05:11:21.081081081,VEDA0246,Google Search,Training,Data Science Internship,Student,Bengaluru,Course Information,12,1,1,0,0,20.44,4,Completed,2026-03,1,20,High
+2026-03-08 11:40:32.432432432,VEDA0247,WhatsApp,Training,SEO Services,Individual,Chennai,Service Pricing,2,1,1,0,0,24.64,1,Contacted,2026-03,1,10,Medium
+2026-03-08 18:09:43.783783784,VEDA0248,Direct,Internship,Data Science Internship,Student,Pune,Technical Consultation,3,0,1,1,9562,3.49,3,Contacted,2026-03,1,6,Low
+2026-03-09 00:38:55.135135135,VEDA0249,Google Search,IT Services,Data Analytics Training,Student,Chennai,Course Information,2,0,1,0,0,40.12,3,Completed,2026-03,1,5,Low
+2026-03-09 07:08:06.486486487,VEDA0250,College Referral,Training,SEO Services,Student,Hyderabad,Technical Consultation,13,1,1,0,0,37.76,2,Closed,2026-03,1,21,High
+2026-03-09 13:37:17.837837838,VEDA0251,College Referral,Training,Digital Marketing,Individual,Pune,General Inquiry,1,0,1,0,0,9.3,1,Completed,2026-03,1,4,Low
+2026-03-09 20:06:29.189189189,VEDA0252,Google Search,Training,Website Development,Business,Chennai,Internship Application,4,0,1,0,0,30.63,1,New,2026-03,1,7,Low
+2026-03-10 02:35:40.540540541,VEDA0253,College Referral,Internship,Python Training,Student,Hyderabad,Internship Application,5,1,1,0,0,39.37,5,Contacted,2026-03,1,13,Medium
+2026-03-10 09:04:51.891891892,VEDA0254,Google Search,Digital Services,Website Development,Student,Bengaluru,Internship Application,13,1,1,1,32738,30.94,3,In Progress,2026-03,2,21,High
+2026-03-10 15:34:03.243243243,VEDA0255,Instagram,IT Services,Digital Marketing,Student,Hyderabad,Technical Consultation,6,1,1,0,0,15.24,3,Contacted,2026-03,1,14,Medium
+2026-03-10 22:03:14.594594595,VEDA0256,Google Search,Internship,Data Analytics Training,Student,Other,Technical Consultation,5,1,1,0,0,31.67,1,New,2026-03,1,13,Medium
+2026-03-11 04:32:25.945945946,VEDA0257,Google Search,Digital Services,Data Science Internship,Student,Pune,Service Pricing,1,1,0,0,0,10.5,2,In Progress,2026-03,0,6,Low
+2026-03-11 11:01:37.297297297,VEDA0258,College Referral,Training,SEO Services,Student,Mysuru,Internship Application,3,0,0,1,12966,15.62,1,In Progress,2026-03,0,3,Low
+2026-03-11 17:30:48.648648649,VEDA0259,College Referral,Digital Services,Website Development,Startup,Bengaluru,Service Pricing,1,0,1,1,18732,11.9,2,Completed,2026-03,1,4,Low
+2026-03-12 00:00:00.000000000,VEDA0260,LinkedIn,IT Services,Digital Marketing,Student,Chennai,Internship Application,11,1,1,1,6289,26.95,3,Closed,2026-03,1,19,High
+2026-03-12 06:29:11.351351351,VEDA0261,LinkedIn,Training,Website Development,Student,Pune,Service Pricing,5,0,0,1,21012,5.64,5,Completed,2026-03,0,5,Low
+2026-03-12 12:58:22.702702703,VEDA0262,Instagram,Internship,Digital Marketing,Business,Mysuru,Service Pricing,5,0,0,1,19812,44.83,4,In Progress,2026-03,0,5,Low
+2026-03-12 19:27:34.054054054,VEDA0263,LinkedIn,Internship,Data Science Internship,Student,Hyderabad,General Inquiry,12,0,0,1,36801,16.34,3,In Progress,2026-03,2,12,Medium
+2026-03-13 01:56:45.405405405,VEDA0264,Google Search,Training,SEO Services,Business,Mysuru,Service Pricing,11,0,1,0,0,10.9,2,Closed,2026-03,1,14,Medium
+2026-03-13 08:25:56.756756757,VEDA0265,College Referral,IT Services,Python Training,Student,Pune,Technical Consultation,13,1,0,0,0,24.09,1,Contacted,2026-03,0,18,High
+2026-03-13 14:55:08.108108108,VEDA0266,LinkedIn,Internship,Data Science Internship,Business,Pune,Service Pricing,6,0,1,0,0,13.66,3,Closed,2026-03,1,9,Low
+2026-03-13 21:24:19.459459460,VEDA0267,LinkedIn,Internship,Website Development,Individual,Other,Internship Application,8,0,1,0,0,25.91,5,Completed,2026-03,1,11,Medium
+2026-03-14 03:53:30.810810811,VEDA0268,Instagram,Digital Services,Python Training,Startup,Other,Service Pricing,10,0,1,0,0,17.05,2,Contacted,2026-03,1,13,Medium
+2026-03-14 10:22:42.162162162,VEDA0269,WhatsApp,Digital Services,Digital Marketing,Business,Mysuru,Course Information,12,1,1,0,0,6.77,1,Completed,2026-03,1,20,High
+2026-03-14 16:51:53.513513514,VEDA0270,Instagram,Training,Python Training,Student,Hyderabad,Internship Application,1,0,0,1,4621,13.13,4,Closed,2026-03,0,1,Low
+2026-03-14 23:21:04.864864865,VEDA0271,Google Search,Internship,Digital Marketing,Business,Mysuru,Course Information,4,0,1,1,33442,21.33,2,Contacted,2026-03,2,7,Low
+2026-03-15 05:50:16.216216216,VEDA0272,College Referral,Internship,Data Science Internship,Student,Pune,Internship Application,10,1,1,0,0,1.94,1,Closed,2026-03,1,18,High
+2026-03-15 12:19:27.567567568,VEDA0273,Instagram,Internship,Website Development,Student,Pune,Technical Consultation,11,0,1,0,0,37.11,4,New,2026-03,1,14,Medium
+2026-03-15 18:48:38.918918919,VEDA0274,LinkedIn,Digital Services,Data Analytics Training,Student,Chennai,Technical Consultation,1,0,1,1,30486,30.04,1,In Progress,2026-03,2,4,Low
+2026-03-16 01:17:50.270270270,VEDA0275,College Referral,Internship,Website Development,Individual,Other,Technical Consultation,9,0,1,0,0,29.06,4,Contacted,2026-03,1,12,Medium
+2026-03-16 07:47:01.621621622,VEDA0276,College Referral,Training,Digital Marketing,Student,Chennai,Course Information,11,0,0,1,18110,26.44,4,In Progress,2026-03,0,11,Medium
+2026-03-16 14:16:12.972972973,VEDA0277,LinkedIn,Internship,Web Development Internship,Individual,Bengaluru,General Inquiry,7,1,1,0,0,28.54,4,New,2026-03,1,15,High
+2026-03-16 20:45:24.324324324,VEDA0278,Instagram,Training,SEO Services,Individual,Pune,Internship Application,7,0,0,0,0,44.9,1,Contacted,2026-03,0,7,Low
+2026-03-17 03:14:35.675675676,VEDA0279,LinkedIn,IT Services,Mobile App Development,Startup,Chennai,Technical Consultation,12,1,1,0,0,0.91,4,In Progress,2026-03,1,20,High
+2026-03-17 09:43:47.027027027,VEDA0280,WhatsApp,Digital Services,Data Analytics Training,Startup,Mysuru,Internship Application,5,0,0,1,20199,2.77,2,In Progress,2026-03,0,5,Low
+2026-03-17 16:12:58.378378378,VEDA0281,College Referral,Internship,Python Training,Student,Other,Course Information,7,0,0,0,0,9.6,5,Contacted,2026-03,0,7,Low
+2026-03-17 22:42:09.729729730,VEDA0282,Direct,Internship,Data Analytics Training,Student,Other,General Inquiry,12,1,1,0,0,8.45,5,In Progress,2026-03,1,20,High
+2026-03-18 05:11:21.081081081,VEDA0283,Direct,Internship,SEO Services,Student,Hyderabad,Course Information,2,0,0,0,0,9.11,4,In Progress,2026-03,0,2,Low
+2026-03-18 11:40:32.432432432,VEDA0284,Google Search,Digital Services,Python Training,Student,Mysuru,Internship Application,14,0,1,0,0,32.42,5,Contacted,2026-03,1,17,High
+2026-03-18 18:09:43.783783784,VEDA0285,LinkedIn,Digital Services,SEO Services,Student,Hyderabad,General Inquiry,13,0,0,1,25260,22.33,5,In Progress,2026-03,0,13,Medium
+2026-03-19 00:38:55.135135135,VEDA0286,LinkedIn,Training,Python Training,Student,Chennai,General Inquiry,4,0,0,1,47733,47.61,4,In Progress,2026-03,2,4,Low
+2026-03-19 07:08:06.486486487,VEDA0287,Google Search,IT Services,Data Analytics Training,Student,Bengaluru,Course Information,14,1,1,0,0,11.28,4,Completed,2026-03,1,22,High
+2026-03-19 13:37:17.837837838,VEDA0288,Google Search,IT Services,Python Training,Business,Mysuru,Technical Consultation,14,0,1,0,0,15.26,2,Completed,2026-03,1,17,High
+2026-03-19 20:06:29.189189189,VEDA0289,Google Search,Internship,Python Training,Individual,Mysuru,Internship Application,7,1,1,0,0,47.25,3,New,2026-03,1,15,High
+2026-03-20 02:35:40.540540541,VEDA0290,College Referral,Digital Services,Web Development Internship,Student,Mysuru,Service Pricing,3,1,0,1,25174,40.01,1,Completed,2026-03,2,8,Low
+2026-03-20 09:04:51.891891892,VEDA0291,WhatsApp,Training,Website Development,Individual,Hyderabad,Service Pricing,2,0,1,1,22957,22.82,4,Completed,2026-03,2,5,Low
+2026-03-20 15:34:03.243243243,VEDA0292,LinkedIn,Training,Website Development,Student,Chennai,Course Information,10,0,1,0,0,26.84,4,New,2026-03,1,13,Medium
+2026-03-20 22:03:14.594594595,VEDA0293,College Referral,Training,Mobile App Development,Student,Mysuru,Internship Application,2,0,1,1,30881,40.55,5,In Progress,2026-03,2,5,Low
+2026-03-21 04:32:25.945945946,VEDA0294,Google Search,Internship,Mobile App Development,Individual,Mysuru,Internship Application,13,1,1,0,0,23.35,2,In Progress,2026-03,1,21,High
+2026-03-21 11:01:37.297297297,VEDA0295,LinkedIn,Internship,Digital Marketing,Student,Other,Course Information,1,0,1,1,19298,10.29,5,Completed,2026-03,2,4,Low
+2026-03-21 17:30:48.648648649,VEDA0296,College Referral,IT Services,Digital Marketing,Student,Bengaluru,Internship Application,5,1,1,1,15340,39.85,4,New,2026-03,1,13,Medium
+2026-03-22 00:00:00.000000000,VEDA0297,WhatsApp,Internship,Digital Marketing,Business,Other,Technical Consultation,12,0,1,1,34356,26.04,4,In Progress,2026-03,2,15,High
+2026-03-22 06:29:11.351351351,VEDA0298,College Referral,IT Services,Web Development Internship,Business,Other,Course Information,6,1,1,1,36999,7.77,5,Closed,2026-03,2,14,Medium
+2026-03-22 12:58:22.702702703,VEDA0299,WhatsApp,Internship,Mobile App Development,Individual,Bengaluru,Technical Consultation,6,0,1,0,0,24.52,4,Contacted,2026-03,1,9,Low
+2026-03-22 19:27:34.054054054,VEDA0300,Google Search,Training,SEO Services,Individual,Chennai,Internship Application,9,1,0,1,4838,20.13,3,Contacted,2026-03,0,14,Medium
+2026-03-23 01:56:45.405405405,VEDA0301,WhatsApp,Internship,Digital Marketing,Individual,Other,Course Information,4,0,1,0,0,42.15,1,Contacted,2026-03,1,7,Low
+2026-03-23 08:25:56.756756757,VEDA0302,LinkedIn,Training,Digital Marketing,Student,Chennai,Internship Application,1,0,1,0,0,6.49,1,Completed,2026-03,1,4,Low
+2026-03-23 14:55:08.108108108,VEDA0303,Google Search,IT Services,Data Analytics Training,Student,Other,Course Information,6,0,0,0,0,42.07,1,Contacted,2026-03,0,6,Low
+2026-03-23 21:24:19.459459460,VEDA0304,LinkedIn,Internship,Data Science Internship,Student,Pune,Internship Application,5,0,0,1,11247,24.83,3,Contacted,2026-03,0,5,Low
+2026-03-24 03:53:30.810810811,VEDA0305,Direct,Training,SEO Services,Student,Bengaluru,Technical Consultation,10,1,0,0,0,19.71,4,Closed,2026-03,0,15,High
+2026-03-24 10:22:42.162162162,VEDA0306,Instagram,Training,Digital Marketing,Individual,Other,Technical Consultation,6,0,0,0,0,8.19,5,In Progress,2026-03,0,6,Low
+2026-03-24 16:51:53.513513514,VEDA0307,WhatsApp,IT Services,Digital Marketing,Student,Pune,Internship Application,3,0,1,0,0,33.79,2,Closed,2026-03,1,6,Low
+2026-03-24 23:21:04.864864865,VEDA0308,Instagram,Digital Services,Digital Marketing,Business,Hyderabad,Course Information,2,1,1,0,0,44.52,4,Completed,2026-03,1,10,Medium
+2026-03-25 05:50:16.216216216,VEDA0309,Instagram,IT Services,Data Science Internship,Business,Pune,Service Pricing,6,0,1,0,0,18.33,3,Contacted,2026-03,1,9,Low
+2026-03-25 12:19:27.567567568,VEDA0310,WhatsApp,Internship,Data Science Internship,Startup,Mysuru,Technical Consultation,13,0,0,1,30058,11.98,3,In Progress,2026-03,2,13,Medium
+2026-03-25 18:48:38.918918919,VEDA0311,Google Search,Internship,Web Development Internship,Individual,Other,Technical Consultation,1,1,1,1,40551,26.86,1,Contacted,2026-03,2,9,Low
+2026-03-26 01:17:50.270270270,VEDA0312,Direct,Internship,SEO Services,Business,Pune,Service Pricing,7,0,1,0,0,38.32,4,Contacted,2026-03,1,10,Medium
+2026-03-26 07:47:01.621621622,VEDA0313,LinkedIn,Training,Web Development Internship,Student,Chennai,Internship Application,7,1,1,1,29371,0.68,1,Completed,2026-03,2,15,High
+2026-03-26 14:16:12.972972973,VEDA0314,College Referral,Internship,Python Training,Startup,Hyderabad,Course Information,10,0,1,1,4822,30.49,2,Contacted,2026-03,1,13,Medium
+2026-03-26 20:45:24.324324324,VEDA0315,LinkedIn,Training,Data Science Internship,Student,Other,Internship Application,13,0,0,0,0,28.83,1,New,2026-03,0,13,Medium
+2026-03-27 03:14:35.675675676,VEDA0316,College Referral,Training,Data Analytics Training,Startup,Mysuru,General Inquiry,7,1,1,1,37157,15.61,2,In Progress,2026-03,2,15,High
+2026-03-27 09:43:47.027027027,VEDA0317,LinkedIn,Internship,Mobile App Development,Student,Pune,Technical Consultation,12,1,1,1,6914,21.94,3,In Progress,2026-03,1,20,High
+2026-03-27 16:12:58.378378378,VEDA0318,WhatsApp,IT Services,Data Analytics Training,Business,Hyderabad,General Inquiry,11,0,1,0,0,12.23,1,New,2026-03,1,14,Medium
+2026-03-27 22:42:09.729729730,VEDA0319,Direct,Internship,Mobile App Development,Business,Other,Technical Consultation,10,1,1,0,0,38.02,1,Completed,2026-03,1,18,High
+2026-03-28 05:11:21.081081081,VEDA0320,College Referral,Internship,Data Science Internship,Student,Hyderabad,Technical Consultation,1,0,0,1,4688,30.64,5,Contacted,2026-03,0,1,Low
+2026-03-28 11:40:32.432432432,VEDA0321,Google Search,IT Services,Data Science Internship,Student,Mysuru,General Inquiry,4,0,1,0,0,25.8,3,Contacted,2026-03,1,7,Low
+2026-03-28 18:09:43.783783784,VEDA0322,LinkedIn,Training,Data Science Internship,Business,Pune,General Inquiry,13,1,1,0,0,19.14,5,In Progress,2026-03,1,21,High
+2026-03-29 00:38:55.135135135,VEDA0323,LinkedIn,IT Services,Web Development Internship,Student,Hyderabad,Internship Application,7,0,0,0,0,14.34,2,Completed,2026-03,0,7,Low
+2026-03-29 07:08:06.486486487,VEDA0324,College Referral,Training,SEO Services,Business,Hyderabad,General Inquiry,11,0,1,0,0,39.58,2,Completed,2026-03,1,14,Medium
+2026-03-29 13:37:17.837837838,VEDA0325,Google Search,Internship,Mobile App Development,Individual,Bengaluru,Internship Application,9,1,0,1,30677,21.94,3,Completed,2026-03,2,14,Medium
+2026-03-29 20:06:29.189189189,VEDA0326,Google Search,IT Services,SEO Services,Student,Hyderabad,Internship Application,5,1,0,0,0,24.32,2,Contacted,2026-03,0,10,Medium
+2026-03-30 02:35:40.540540541,VEDA0327,WhatsApp,IT Services,Web Development Internship,Student,Bengaluru,Internship Application,13,0,0,0,0,25.24,3,Completed,2026-03,0,13,Medium
+2026-03-30 09:04:51.891891892,VEDA0328,WhatsApp,IT Services,Web Development Internship,Student,Pune,Technical Consultation,2,0,0,0,0,21.8,2,New,2026-03,0,2,Low
+2026-03-30 15:34:03.243243243,VEDA0329,WhatsApp,Internship,Website Development,Startup,Other,Technical Consultation,7,1,1,0,0,12.66,4,Closed,2026-03,1,15,High
+2026-03-30 22:03:14.594594595,VEDA0330,WhatsApp,Training,Data Analytics Training,Student,Other,General Inquiry,10,1,0,0,0,6.22,1,Completed,2026-03,0,15,High
+2026-03-31 04:32:25.945945946,VEDA0331,WhatsApp,Training,Data Analytics Training,Individual,Pune,Technical Consultation,1,1,0,0,0,5.18,4,Closed,2026-03,0,6,Low
+2026-03-31 11:01:37.297297297,VEDA0332,WhatsApp,Internship,Python Training,Student,Pune,General Inquiry,7,0,1,1,33849,36.48,3,Contacted,2026-03,2,10,Medium
+2026-03-31 17:30:48.648648649,VEDA0333,Direct,Digital Services,Digital Marketing,Individual,Chennai,Technical Consultation,6,0,1,0,0,11.12,3,Completed,2026-03,1,9,Low
+2026-04-01 00:00:00.000000000,VEDA0334,Google Search,Internship,Web Development Internship,Business,Pune,Course Information,7,0,1,0,0,3.14,4,In Progress,2026-04,1,10,Medium
+2026-04-01 06:29:11.351351351,VEDA0335,WhatsApp,Digital Services,Mobile App Development,Business,Hyderabad,Course Information,14,1,1,0,0,38.38,1,Contacted,2026-04,1,22,High
+2026-04-01 12:58:22.702702703,VEDA0336,Google Search,Training,Website Development,Student,Other,General Inquiry,13,1,1,0,0,7.82,1,New,2026-04,1,21,High
+2026-04-01 19:27:34.054054054,VEDA0337,Google Search,Internship,Website Development,Startup,Mysuru,Technical Consultation,10,1,0,0,0,30.19,5,New,2026-04,0,15,High
+2026-04-02 01:56:45.405405405,VEDA0338,Instagram,Training,Digital Marketing,Startup,Other,Technical Consultation,3,1,1,0,0,16.59,2,Closed,2026-04,1,11,Medium
+2026-04-02 08:25:56.756756757,VEDA0339,Direct,Digital Services,SEO Services,Individual,Bengaluru,Internship Application,3,0,0,1,49268,6.51,5,Closed,2026-04,2,3,Low
+2026-04-02 14:55:08.108108108,VEDA0340,WhatsApp,IT Services,Digital Marketing,Business,Other,Service Pricing,7,0,1,0,0,20.19,1,In Progress,2026-04,1,10,Medium
+2026-04-02 21:24:19.459459460,VEDA0341,LinkedIn,IT Services,Digital Marketing,Student,Chennai,General Inquiry,13,0,0,1,32159,1.2,4,In Progress,2026-04,2,13,Medium
+2026-04-03 03:53:30.810810811,VEDA0342,College Referral,IT Services,Digital Marketing,Student,Pune,Service Pricing,2,0,1,0,0,40.45,2,New,2026-04,1,5,Low
+2026-04-03 10:22:42.162162162,VEDA0343,LinkedIn,IT Services,Data Analytics Training,Business,Pune,Service Pricing,1,0,1,1,37366,24.89,4,Completed,2026-04,2,4,Low
+2026-04-03 16:51:53.513513514,VEDA0344,Direct,Digital Services,Web Development Internship,Student,Other,General Inquiry,9,0,1,0,0,7.11,5,New,2026-04,1,12,Medium
+2026-04-03 23:21:04.864864865,VEDA0345,College Referral,Internship,Python Training,Startup,Mysuru,Technical Consultation,9,1,0,0,0,11.76,3,New,2026-04,0,14,Medium
+2026-04-04 05:50:16.216216216,VEDA0346,Direct,Training,Web Development Internship,Business,Mysuru,General Inquiry,7,1,1,0,0,21.78,4,In Progress,2026-04,1,15,High
+2026-04-04 12:19:27.567567568,VEDA0347,Google Search,Internship,SEO Services,Student,Chennai,Service Pricing,7,0,1,0,0,9.47,5,Closed,2026-04,1,10,Medium
+2026-04-04 18:48:38.918918919,VEDA0348,College Referral,Digital Services,Data Science Internship,Business,Bengaluru,Technical Consultation,3,0,1,0,0,13.26,5,In Progress,2026-04,1,6,Low
+2026-04-05 01:17:50.270270270,VEDA0349,Google Search,Digital Services,Digital Marketing,Student,Other,Course Information,10,0,0,1,16367,25.88,5,In Progress,2026-04,0,10,Medium
+2026-04-05 07:47:01.621621622,VEDA0350,LinkedIn,Internship,Web Development Internship,Individual,Pune,General Inquiry,2,1,1,0,0,40.05,3,In Progress,2026-04,1,10,Medium
+2026-04-05 14:16:12.972972973,VEDA0351,LinkedIn,IT Services,SEO Services,Individual,Other,General Inquiry,11,1,1,0,0,19.59,3,New,2026-04,1,19,High
+2026-04-05 20:45:24.324324324,VEDA0352,College Referral,Digital Services,Data Science Internship,Business,Chennai,Technical Consultation,7,1,1,1,36367,34.56,3,Completed,2026-04,2,15,High
+2026-04-06 03:14:35.675675676,VEDA0353,College Referral,Internship,Data Science Internship,Student,Hyderabad,Course Information,9,0,1,0,0,42.14,2,New,2026-04,1,12,Medium
+2026-04-06 09:43:47.027027027,VEDA0354,WhatsApp,Training,Digital Marketing,Student,Hyderabad,Course Information,1,0,1,1,37621,10.77,3,Contacted,2026-04,2,4,Low
+2026-04-06 16:12:58.378378378,VEDA0355,Direct,Digital Services,Python Training,Individual,Chennai,Technical Consultation,13,0,1,0,0,38.84,3,In Progress,2026-04,1,16,High
+2026-04-06 22:42:09.729729730,VEDA0356,WhatsApp,Internship,Mobile App Development,Startup,Pune,Internship Application,14,1,1,0,0,36.48,3,In Progress,2026-04,1,22,High
+2026-04-07 05:11:21.081081081,VEDA0357,Direct,IT Services,Data Analytics Training,Individual,Chennai,General Inquiry,4,1,1,0,0,17.45,4,Contacted,2026-04,1,12,Medium
+2026-04-07 11:40:32.432432433,VEDA0358,WhatsApp,Internship,Web Development Internship,Student,Pune,General Inquiry,6,1,0,0,0,47.5,3,In Progress,2026-04,0,11,Medium
+2026-04-07 18:09:43.783783784,VEDA0359,Google Search,Digital Services,Data Science Internship,Student,Mysuru,Service Pricing,7,0,1,0,0,12.97,2,In Progress,2026-04,1,10,Medium
+2026-04-08 00:38:55.135135135,VEDA0360,College Referral,Digital Services,Web Development Internship,Student,Chennai,Technical Consultation,10,1,0,1,17498,12.6,5,In Progress,2026-04,0,15,High
+2026-04-08 07:08:06.486486487,VEDA0361,LinkedIn,Digital Services,Mobile App Development,Startup,Pune,Service Pricing,7,1,0,0,0,37.18,4,Contacted,2026-04,0,12,Medium
+2026-04-08 13:37:17.837837838,VEDA0362,Direct,Training,Data Analytics Training,Student,Chennai,Service Pricing,10,0,1,0,0,21.15,1,New,2026-04,1,13,Medium
+2026-04-08 20:06:29.189189189,VEDA0363,Direct,Digital Services,Mobile App Development,Student,Chennai,Course Information,2,0,0,1,26568,16.21,3,In Progress,2026-04,2,2,Low
+2026-04-09 02:35:40.540540541,VEDA0364,LinkedIn,Digital Services,Data Analytics Training,Business,Pune,General Inquiry,14,1,1,0,0,8.99,5,Completed,2026-04,1,22,High
+2026-04-09 09:04:51.891891892,VEDA0365,WhatsApp,Internship,Website Development,Student,Pune,Service Pricing,4,0,1,1,40695,36.85,5,Contacted,2026-04,2,7,Low
+2026-04-09 15:34:03.243243243,VEDA0366,Direct,Digital Services,Data Analytics Training,Business,Bengaluru,Course Information,5,1,1,1,31099,37.85,4,Closed,2026-04,2,13,Medium
+2026-04-09 22:03:14.594594595,VEDA0367,Google Search,Internship,Digital Marketing,Individual,Chennai,Technical Consultation,14,1,1,1,25364,27.41,1,Contacted,2026-04,2,22,High
+2026-04-10 04:32:25.945945946,VEDA0368,College Referral,Training,Python Training,Startup,Hyderabad,Service Pricing,12,1,1,1,41639,45.97,2,New,2026-04,2,20,High
+2026-04-10 11:01:37.297297297,VEDA0369,LinkedIn,Internship,Mobile App Development,Student,Chennai,General Inquiry,1,1,0,0,0,15.61,5,Contacted,2026-04,0,6,Low
+2026-04-10 17:30:48.648648649,VEDA0370,College Referral,Internship,Data Science Internship,Student,Chennai,Service Pricing,1,1,1,0,0,10.93,5,Closed,2026-04,1,9,Low
+2026-04-11 00:00:00.000000000,VEDA0371,Direct,Internship,Digital Marketing,Startup,Pune,Technical Consultation,10,1,1,1,4676,32.68,5,Completed,2026-04,1,18,High
+2026-04-11 06:29:11.351351351,VEDA0372,Direct,IT Services,Website Development,Startup,Chennai,Service Pricing,3,0,1,0,0,36.52,5,Closed,2026-04,1,6,Low
+2026-04-11 12:58:22.702702703,VEDA0373,LinkedIn,Internship,Python Training,Startup,Other,General Inquiry,10,0,1,0,0,11.18,4,Contacted,2026-04,1,13,Medium
+2026-04-11 19:27:34.054054054,VEDA0374,Google Search,IT Services,Web Development Internship,Student,Chennai,Course Information,3,0,1,1,31048,4.14,1,Closed,2026-04,2,6,Low
+2026-04-12 01:56:45.405405405,VEDA0375,Instagram,Internship,Digital Marketing,Startup,Other,General Inquiry,12,1,0,0,0,39.0,5,Contacted,2026-04,0,17,High
+2026-04-12 08:25:56.756756757,VEDA0376,LinkedIn,Internship,Mobile App Development,Startup,Hyderabad,Course Information,8,0,1,1,3036,46.88,2,Completed,2026-04,1,11,Medium
+2026-04-12 14:55:08.108108108,VEDA0377,Instagram,Training,SEO Services,Individual,Pune,Internship Application,9,0,1,1,36814,31.12,2,Completed,2026-04,2,12,Medium
+2026-04-12 21:24:19.459459460,VEDA0378,WhatsApp,IT Services,SEO Services,Startup,Chennai,General Inquiry,14,0,0,1,17924,13.7,3,New,2026-04,0,14,Medium
+2026-04-13 03:53:30.810810811,VEDA0379,Instagram,Internship,Data Science Internship,Startup,Other,General Inquiry,11,1,1,1,33844,47.84,5,Completed,2026-04,2,19,High
+2026-04-13 10:22:42.162162162,VEDA0380,Google Search,IT Services,Data Analytics Training,Individual,Other,Technical Consultation,12,1,1,1,49648,42.93,5,In Progress,2026-04,2,20,High
+2026-04-13 16:51:53.513513514,VEDA0381,WhatsApp,Digital Services,Data Science Internship,Student,Other,Service Pricing,1,1,1,1,17407,24.89,5,Closed,2026-04,1,9,Low
+2026-04-13 23:21:04.864864865,VEDA0382,Instagram,IT Services,SEO Services,Student,Mysuru,Course Information,14,0,0,0,0,39.7,5,Closed,2026-04,0,14,Medium
+2026-04-14 05:50:16.216216216,VEDA0383,WhatsApp,Internship,Web Development Internship,Student,Bengaluru,Course Information,11,1,0,0,0,39.25,5,Contacted,2026-04,0,16,High
+2026-04-14 12:19:27.567567568,VEDA0384,Instagram,Internship,Website Development,Student,Hyderabad,Technical Consultation,2,1,1,1,24052,44.9,2,Completed,2026-04,2,10,Medium
+2026-04-14 18:48:38.918918919,VEDA0385,Google Search,Digital Services,Website Development,Student,Chennai,Technical Consultation,10,0,0,1,5267,40.44,1,New,2026-04,0,10,Medium
+2026-04-15 01:17:50.270270270,VEDA0386,Instagram,Internship,Mobile App Development,Student,Mysuru,Service Pricing,2,1,1,0,0,31.07,1,New,2026-04,1,10,Medium
+2026-04-15 07:47:01.621621622,VEDA0387,Instagram,Digital Services,Website Development,Student,Chennai,Service Pricing,4,0,1,0,0,29.44,3,New,2026-04,1,7,Low
+2026-04-15 14:16:12.972972974,VEDA0388,Instagram,Training,Mobile App Development,Student,Chennai,General Inquiry,2,1,1,0,0,22.7,2,In Progress,2026-04,1,10,Medium
+2026-04-15 20:45:24.324324324,VEDA0389,LinkedIn,Digital Services,Digital Marketing,Startup,Pune,Internship Application,7,0,1,0,0,30.26,5,Completed,2026-04,1,10,Medium
+2026-04-16 03:14:35.675675676,VEDA0390,LinkedIn,IT Services,Mobile App Development,Business,Pune,Service Pricing,13,0,1,1,2485,38.27,1,New,2026-04,1,16,High
+2026-04-16 09:43:47.027027028,VEDA0391,LinkedIn,Digital Services,Digital Marketing,Student,Pune,Technical Consultation,9,1,0,1,15713,46.53,4,In Progress,2026-04,0,14,Medium
+2026-04-16 16:12:58.378378378,VEDA0392,Google Search,Training,Mobile App Development,Business,Mysuru,Service Pricing,7,0,0,0,0,22.7,4,Closed,2026-04,0,7,Low
+2026-04-16 22:42:09.729729730,VEDA0393,WhatsApp,IT Services,SEO Services,Individual,Chennai,Course Information,12,0,1,0,0,27.75,4,Contacted,2026-04,1,15,High
+2026-04-17 05:11:21.081081082,VEDA0394,Direct,Training,SEO Services,Student,Bengaluru,Internship Application,6,1,1,0,0,21.63,5,Completed,2026-04,1,14,Medium
+2026-04-17 11:40:32.432432432,VEDA0395,Instagram,Training,Data Analytics Training,Student,Hyderabad,General Inquiry,10,0,1,1,37263,32.25,5,Completed,2026-04,2,13,Medium
+2026-04-17 18:09:43.783783784,VEDA0396,Instagram,IT Services,Digital Marketing,Individual,Pune,Course Information,1,1,1,0,0,30.42,3,Closed,2026-04,1,9,Low
+2026-04-18 00:38:55.135135136,VEDA0397,Google Search,Digital Services,Python Training,Startup,Pune,Course Information,11,0,1,0,0,1.35,3,Completed,2026-04,1,14,Medium
+2026-04-18 07:08:06.486486486,VEDA0398,Instagram,Digital Services,Digital Marketing,Startup,Chennai,Internship Application,10,1,0,0,0,26.21,3,Completed,2026-04,0,15,High
+2026-04-18 13:37:17.837837838,VEDA0399,LinkedIn,IT Services,Mobile App Development,Student,Chennai,General Inquiry,9,1,0,0,0,4.7,4,Completed,2026-04,0,14,Medium
+2026-04-18 20:06:29.189189190,VEDA0400,Direct,Training,Mobile App Development,Student,Mysuru,Technical Consultation,5,0,0,0,0,1.75,5,Completed,2026-04,0,5,Low
+2026-04-19 02:35:40.540540540,VEDA0401,College Referral,Training,Python Training,Student,Mysuru,General Inquiry,11,1,1,0,0,38.08,4,In Progress,2026-04,1,19,High
+2026-04-19 09:04:51.891891892,VEDA0402,Instagram,IT Services,Data Science Internship,Student,Pune,Service Pricing,5,1,1,0,0,12.79,3,In Progress,2026-04,1,13,Medium
+2026-04-19 15:34:03.243243244,VEDA0403,LinkedIn,Internship,Mobile App Development,Student,Chennai,Course Information,6,1,1,0,0,16.68,5,Contacted,2026-04,1,14,Medium
+2026-04-19 22:03:14.594594594,VEDA0404,College Referral,Internship,Data Analytics Training,Student,Bengaluru,Service Pricing,9,1,1,0,0,3.54,2,Completed,2026-04,1,17,High
+2026-04-20 04:32:25.945945946,VEDA0405,Direct,Training,Website Development,Startup,Hyderabad,Technical Consultation,13,1,1,1,37843,9.03,1,Closed,2026-04,2,21,High
+2026-04-20 11:01:37.297297298,VEDA0406,College Referral,Internship,Website Development,Business,Chennai,Service Pricing,8,0,1,1,25882,36.87,1,New,2026-04,2,11,Medium
+2026-04-20 17:30:48.648648648,VEDA0407,LinkedIn,Internship,Web Development Internship,Student,Chennai,General Inquiry,8,0,0,1,18502,23.94,3,Contacted,2026-04,0,8,Low
+2026-04-21 00:00:00.000000000,VEDA0408,WhatsApp,Internship,Web Development Internship,Business,Other,Service Pricing,14,1,1,1,49053,42.33,4,New,2026-04,2,22,High
+2026-04-21 06:29:11.351351352,VEDA0409,WhatsApp,Internship,Website Development,Student,Mysuru,Technical Consultation,8,0,1,0,0,19.37,2,New,2026-04,1,11,Medium
+2026-04-21 12:58:22.702702702,VEDA0410,College Referral,Internship,Website Development,Student,Hyderabad,Technical Consultation,1,0,0,0,0,13.26,5,Completed,2026-04,0,1,Low
+2026-04-21 19:27:34.054054054,VEDA0411,Google Search,Digital Services,SEO Services,Student,Pune,Technical Consultation,1,0,1,0,0,17.01,4,Closed,2026-04,1,4,Low
+2026-04-22 01:56:45.405405406,VEDA0412,College Referral,Training,Data Analytics Training,Individual,Chennai,General Inquiry,8,0,1,1,25762,34.36,3,New,2026-04,2,11,Medium
+2026-04-22 08:25:56.756756756,VEDA0413,Instagram,Training,Python Training,Business,Pune,Technical Consultation,5,0,0,1,1784,26.86,4,New,2026-04,0,5,Low
+2026-04-22 14:55:08.108108108,VEDA0414,Instagram,IT Services,Web Development Internship,Individual,Chennai,Course Information,9,1,1,0,0,43.45,3,Contacted,2026-04,1,17,High
+2026-04-22 21:24:19.459459460,VEDA0415,WhatsApp,Internship,SEO Services,Student,Pune,Technical Consultation,2,0,1,0,0,29.1,1,Closed,2026-04,1,5,Low
+2026-04-23 03:53:30.810810810,VEDA0416,Google Search,Digital Services,SEO Services,Individual,Hyderabad,Service Pricing,9,0,0,0,0,23.92,1,Closed,2026-04,0,9,Low
+2026-04-23 10:22:42.162162162,VEDA0417,LinkedIn,IT Services,Python Training,Student,Mysuru,Service Pricing,12,1,1,1,32127,37.82,4,New,2026-04,2,20,High
+2026-04-23 16:51:53.513513514,VEDA0418,Instagram,Internship,SEO Services,Business,Hyderabad,Service Pricing,14,1,0,0,0,45.51,2,Closed,2026-04,0,19,High
+2026-04-23 23:21:04.864864864,VEDA0419,WhatsApp,Training,Digital Marketing,Individual,Other,General Inquiry,8,0,1,0,0,17.4,5,Contacted,2026-04,1,11,Medium
+2026-04-24 05:50:16.216216216,VEDA0420,Direct,Digital Services,Data Analytics Training,Student,Bengaluru,Service Pricing,9,0,0,0,0,12.37,3,Contacted,2026-04,0,9,Low
+2026-04-24 12:19:27.567567568,VEDA0421,WhatsApp,Digital Services,Website Development,Individual,Mysuru,General Inquiry,4,1,1,0,0,29.77,5,Contacted,2026-04,1,12,Medium
+2026-04-24 18:48:38.918918920,VEDA0422,Instagram,Training,Mobile App Development,Individual,Hyderabad,General Inquiry,1,1,1,1,5746,24.2,1,Completed,2026-04,1,9,Low
+2026-04-25 01:17:50.270270270,VEDA0423,Instagram,IT Services,Python Training,Student,Other,Technical Consultation,1,1,0,0,0,47.49,2,New,2026-04,0,6,Low
+2026-04-25 07:47:01.621621622,VEDA0424,WhatsApp,Internship,Website Development,Individual,Bengaluru,Course Information,5,1,1,1,45070,22.46,2,Closed,2026-04,2,13,Medium
+2026-04-25 14:16:12.972972974,VEDA0425,LinkedIn,Digital Services,Website Development,Student,Other,Technical Consultation,2,1,1,0,0,4.03,5,Contacted,2026-04,1,10,Medium
+2026-04-25 20:45:24.324324324,VEDA0426,College Referral,Internship,Data Science Internship,Startup,Chennai,Technical Consultation,14,0,1,1,23063,46.93,1,New,2026-04,2,17,High
+2026-04-26 03:14:35.675675676,VEDA0427,Instagram,Digital Services,Digital Marketing,Startup,Chennai,General Inquiry,8,1,1,1,7200,40.57,5,New,2026-04,1,16,High
+2026-04-26 09:43:47.027027028,VEDA0428,WhatsApp,IT Services,Python Training,Startup,Pune,General Inquiry,10,0,1,0,0,8.97,4,Completed,2026-04,1,13,Medium
+2026-04-26 16:12:58.378378378,VEDA0429,WhatsApp,IT Services,SEO Services,Individual,Mysuru,Service Pricing,11,1,0,0,0,43.47,2,Closed,2026-04,0,16,High
+2026-04-26 22:42:09.729729730,VEDA0430,Google Search,Training,Mobile App Development,Individual,Chennai,Service Pricing,5,1,0,1,14410,16.68,2,Closed,2026-04,0,10,Medium
+2026-04-27 05:11:21.081081082,VEDA0431,College Referral,Internship,Python Training,Student,Other,Technical Consultation,5,0,1,0,0,18.41,4,Contacted,2026-04,1,8,Low
+2026-04-27 11:40:32.432432432,VEDA0432,Direct,Internship,SEO Services,Startup,Mysuru,Internship Application,2,0,1,1,4598,43.55,1,Contacted,2026-04,1,5,Low
+2026-04-27 18:09:43.783783784,VEDA0433,LinkedIn,Internship,Website Development,Student,Chennai,Internship Application,7,0,1,1,11564,25.68,2,New,2026-04,1,10,Medium
+2026-04-28 00:38:55.135135136,VEDA0434,Direct,Internship,Mobile App Development,Student,Pune,Service Pricing,13,0,1,1,46516,7.04,3,Closed,2026-04,2,16,High
+2026-04-28 07:08:06.486486486,VEDA0435,College Referral,IT Services,SEO Services,Student,Hyderabad,Internship Application,8,1,1,0,0,18.03,3,Closed,2026-04,1,16,High
+2026-04-28 13:37:17.837837838,VEDA0436,College Referral,Training,Data Analytics Training,Student,Pune,Service Pricing,10,0,1,0,0,34.8,1,Contacted,2026-04,1,13,Medium
+2026-04-28 20:06:29.189189190,VEDA0437,College Referral,Internship,SEO Services,Individual,Bengaluru,General Inquiry,13,1,0,0,0,8.77,4,In Progress,2026-04,0,18,High
+2026-04-29 02:35:40.540540540,VEDA0438,Direct,Digital Services,Data Science Internship,Student,Chennai,Technical Consultation,1,0,0,0,0,28.54,5,New,2026-04,0,1,Low
+2026-04-29 09:04:51.891891892,VEDA0439,College Referral,Digital Services,Digital Marketing,Startup,Bengaluru,Course Information,2,1,1,1,11265,33.53,1,Closed,2026-04,1,10,Medium
+2026-04-29 15:34:03.243243244,VEDA0440,WhatsApp,Digital Services,Website Development,Student,Bengaluru,Technical Consultation,10,1,1,1,10705,16.83,5,Completed,2026-04,1,18,High
+2026-04-29 22:03:14.594594594,VEDA0441,Direct,Digital Services,SEO Services,Student,Other,Service Pricing,4,1,1,0,0,33.46,1,Completed,2026-04,1,12,Medium
+2026-04-30 04:32:25.945945946,VEDA0442,College Referral,Internship,Digital Marketing,Individual,Mysuru,Service Pricing,5,0,0,1,15298,42.5,3,In Progress,2026-04,0,5,Low
+2026-04-30 11:01:37.297297298,VEDA0443,WhatsApp,Training,Web Development Internship,Student,Other,Technical Consultation,13,1,1,0,0,22.93,4,Contacted,2026-04,1,21,High
+2026-04-30 17:30:48.648648648,VEDA0444,Google Search,IT Services,Web Development Internship,Student,Chennai,Service Pricing,2,0,1,0,0,18.69,3,Contacted,2026-04,1,5,Low
+2026-05-01 00:00:00.000000000,VEDA0445,College Referral,IT Services,Digital Marketing,Startup,Bengaluru,Internship Application,1,0,0,1,47104,12.43,4,Contacted,2026-05,2,1,Low
+2026-05-01 06:29:11.351351352,VEDA0446,Direct,Internship,Digital Marketing,Student,Hyderabad,Internship Application,9,0,1,1,41934,29.2,5,Completed,2026-05,2,12,Medium
+2026-05-01 12:58:22.702702702,VEDA0447,Instagram,IT Services,Data Science Internship,Startup,Bengaluru,Service Pricing,14,0,1,0,0,42.29,1,Contacted,2026-05,1,17,High
+2026-05-01 19:27:34.054054054,VEDA0448,College Referral,Internship,Data Analytics Training,Student,Hyderabad,Service Pricing,1,1,1,1,7050,15.92,2,Completed,2026-05,1,9,Low
+2026-05-02 01:56:45.405405406,VEDA0449,Instagram,Internship,Website Development,Student,Other,Internship Application,13,0,1,0,0,19.32,2,In Progress,2026-05,1,16,High
+2026-05-02 08:25:56.756756756,VEDA0450,WhatsApp,Training,Python Training,Startup,Other,Service Pricing,4,1,1,0,0,19.81,4,New,2026-05,1,12,Medium
+2026-05-02 14:55:08.108108108,VEDA0451,Google Search,Training,Data Science Internship,Student,Mysuru,Service Pricing,2,1,0,0,0,27.14,4,Closed,2026-05,0,7,Low
+2026-05-02 21:24:19.459459460,VEDA0452,LinkedIn,Training,Data Analytics Training,Student,Bengaluru,Technical Consultation,11,0,0,1,9484,11.35,3,In Progress,2026-05,0,11,Medium
+2026-05-03 03:53:30.810810810,VEDA0453,Google Search,Internship,Digital Marketing,Student,Pune,Course Information,4,1,1,0,0,39.56,2,Completed,2026-05,1,12,Medium
+2026-05-03 10:22:42.162162162,VEDA0454,College Referral,Digital Services,Python Training,Student,Other,Internship Application,8,0,1,0,0,14.54,3,In Progress,2026-05,1,11,Medium
+2026-05-03 16:51:53.513513514,VEDA0455,Instagram,Internship,Digital Marketing,Startup,Other,Technical Consultation,8,0,0,0,0,34.0,5,Closed,2026-05,0,8,Low
+2026-05-03 23:21:04.864864864,VEDA0456,Instagram,Internship,Digital Marketing,Student,Mysuru,Course Information,11,0,1,1,22827,24.88,2,New,2026-05,2,14,Medium
+2026-05-04 05:50:16.216216216,VEDA0457,Direct,Digital Services,Web Development Internship,Startup,Hyderabad,Service Pricing,12,1,1,0,0,28.33,5,Closed,2026-05,1,20,High
+2026-05-04 12:19:27.567567568,VEDA0458,Instagram,Digital Services,Web Development Internship,Business,Mysuru,Service Pricing,9,1,1,0,0,9.03,1,Completed,2026-05,1,17,High
+2026-05-04 18:48:38.918918920,VEDA0459,Direct,Digital Services,Python Training,Student,Bengaluru,Technical Consultation,13,0,0,0,0,35.41,3,Closed,2026-05,0,13,Medium
+2026-05-05 01:17:50.270270270,VEDA0460,WhatsApp,IT Services,Data Science Internship,Business,Chennai,Service Pricing,11,0,1,0,0,9.46,4,In Progress,2026-05,1,14,Medium
+2026-05-05 07:47:01.621621622,VEDA0461,LinkedIn,IT Services,Web Development Internship,Student,Chennai,General Inquiry,12,1,0,0,0,5.89,2,Contacted,2026-05,0,17,High
+2026-05-05 14:16:12.972972974,VEDA0462,College Referral,Training,Website Development,Business,Hyderabad,Technical Consultation,5,0,1,0,0,26.47,3,In Progress,2026-05,1,8,Low
+2026-05-05 20:45:24.324324324,VEDA0463,Direct,Internship,Digital Marketing,Student,Other,Course Information,7,1,1,1,16447,34.19,4,Completed,2026-05,1,15,High
+2026-05-06 03:14:35.675675676,VEDA0464,LinkedIn,Training,Mobile App Development,Individual,Hyderabad,Technical Consultation,3,1,1,0,0,2.88,1,New,2026-05,1,11,Medium
+2026-05-06 09:43:47.027027028,VEDA0465,Instagram,Training,SEO Services,Student,Other,Internship Application,10,0,0,1,8971,3.8,2,Closed,2026-05,0,10,Medium
+2026-05-06 16:12:58.378378378,VEDA0466,Instagram,Internship,Python Training,Student,Other,Technical Consultation,4,1,0,0,0,38.63,5,New,2026-05,0,9,Low
+2026-05-06 22:42:09.729729730,VEDA0467,LinkedIn,IT Services,Python Training,Individual,Chennai,Service Pricing,10,0,1,0,0,38.93,1,Completed,2026-05,1,13,Medium
+2026-05-07 05:11:21.081081082,VEDA0468,Instagram,Training,Web Development Internship,Startup,Hyderabad,Service Pricing,9,1,1,0,0,12.15,4,Closed,2026-05,1,17,High
+2026-05-07 11:40:32.432432432,VEDA0469,WhatsApp,Internship,Data Science Internship,Student,Mysuru,General Inquiry,10,1,1,1,24446,29.72,2,In Progress,2026-05,2,18,High
+2026-05-07 18:09:43.783783784,VEDA0470,WhatsApp,Internship,Digital Marketing,Student,Other,General Inquiry,10,0,1,1,39108,21.55,2,In Progress,2026-05,2,13,Medium
+2026-05-08 00:38:55.135135136,VEDA0471,LinkedIn,IT Services,Website Development,Startup,Pune,General Inquiry,14,0,1,0,0,30.55,1,Completed,2026-05,1,17,High
+2026-05-08 07:08:06.486486486,VEDA0472,Direct,Internship,Data Science Internship,Individual,Pune,Course Information,12,1,0,0,0,41.49,2,Closed,2026-05,0,17,High
+2026-05-08 13:37:17.837837838,VEDA0473,Direct,Digital Services,Data Analytics Training,Business,Mysuru,General Inquiry,1,1,0,0,0,4.29,4,In Progress,2026-05,0,6,Low
+2026-05-08 20:06:29.189189190,VEDA0474,LinkedIn,Training,Data Analytics Training,Startup,Pune,Course Information,2,0,0,0,0,37.45,1,Completed,2026-05,0,2,Low
+2026-05-09 02:35:40.540540540,VEDA0475,Direct,Training,Mobile App Development,Business,Bengaluru,General Inquiry,5,1,0,0,0,23.92,5,Completed,2026-05,0,10,Medium
+2026-05-09 09:04:51.891891892,VEDA0476,Direct,Training,Web Development Internship,Startup,Other,Course Information,3,0,1,0,0,27.3,1,New,2026-05,1,6,Low
+2026-05-09 15:34:03.243243244,VEDA0477,WhatsApp,Digital Services,Web Development Internship,Student,Mysuru,Technical Consultation,2,0,1,1,3429,31.56,1,In Progress,2026-05,1,5,Low
+2026-05-09 22:03:14.594594594,VEDA0478,Direct,Internship,Web Development Internship,Student,Hyderabad,Technical Consultation,1,1,1,0,0,44.32,5,Closed,2026-05,1,9,Low
+2026-05-10 04:32:25.945945946,VEDA0479,Google Search,IT Services,Mobile App Development,Startup,Other,Service Pricing,10,0,0,0,0,3.19,4,In Progress,2026-05,0,10,Medium
+2026-05-10 11:01:37.297297298,VEDA0480,College Referral,Training,Data Analytics Training,Individual,Mysuru,Course Information,3,1,0,0,0,1.9,3,In Progress,2026-05,0,8,Low
+2026-05-10 17:30:48.648648648,VEDA0481,Instagram,Internship,Data Science Internship,Student,Chennai,Internship Application,1,0,0,0,0,8.97,3,In Progress,2026-05,0,1,Low
+2026-05-11 00:00:00.000000000,VEDA0482,Google Search,Digital Services,Mobile App Development,Student,Hyderabad,Service Pricing,12,1,0,0,0,47.36,5,Completed,2026-05,0,17,High
+2026-05-11 06:29:11.351351352,VEDA0483,Direct,IT Services,Mobile App Development,Business,Chennai,Technical Consultation,1,0,1,0,0,34.47,4,Contacted,2026-05,1,4,Low
+2026-05-11 12:58:22.702702702,VEDA0484,WhatsApp,IT Services,Data Science Internship,Individual,Other,Course Information,12,0,1,0,0,29.7,2,Contacted,2026-05,1,15,High
+2026-05-11 19:27:34.054054054,VEDA0485,LinkedIn,Digital Services,Web Development Internship,Student,Hyderabad,General Inquiry,1,1,0,0,0,2.73,5,New,2026-05,0,6,Low
+2026-05-12 01:56:45.405405406,VEDA0486,Direct,Digital Services,Website Development,Student,Pune,Internship Application,8,0,0,0,0,42.26,3,In Progress,2026-05,0,8,Low
+2026-05-12 08:25:56.756756756,VEDA0487,WhatsApp,IT Services,Data Science Internship,Student,Mysuru,Technical Consultation,3,0,0,0,0,39.11,4,Contacted,2026-05,0,3,Low
+2026-05-12 14:55:08.108108108,VEDA0488,College Referral,Digital Services,Data Analytics Training,Student,Other,Service Pricing,11,0,0,0,0,32.08,1,New,2026-05,0,11,Medium
+2026-05-12 21:24:19.459459460,VEDA0489,Direct,IT Services,Python Training,Student,Bengaluru,Course Information,1,0,1,0,0,16.61,4,Completed,2026-05,1,4,Low
+2026-05-13 03:53:30.810810810,VEDA0490,LinkedIn,IT Services,Digital Marketing,Student,Hyderabad,Internship Application,7,1,0,0,0,3.85,4,In Progress,2026-05,0,12,Medium
+2026-05-13 10:22:42.162162162,VEDA0491,WhatsApp,IT Services,Python Training,Startup,Hyderabad,Course Information,10,0,1,0,0,28.05,3,Closed,2026-05,1,13,Medium
+2026-05-13 16:51:53.513513514,VEDA0492,WhatsApp,IT Services,SEO Services,Student,Other,General Inquiry,3,1,1,0,0,34.69,3,Completed,2026-05,1,11,Medium
+2026-05-13 23:21:04.864864864,VEDA0493,WhatsApp,Internship,SEO Services,Startup,Other,Service Pricing,8,0,1,0,0,4.98,2,New,2026-05,1,11,Medium
+2026-05-14 05:50:16.216216216,VEDA0494,College Referral,Digital Services,Mobile App Development,Business,Chennai,Course Information,4,0,1,0,0,30.6,2,Completed,2026-05,1,7,Low
+2026-05-14 12:19:27.567567568,VEDA0495,Direct,Digital Services,Digital Marketing,Student,Pune,Technical Consultation,4,0,1,0,0,14.1,5,Closed,2026-05,1,7,Low
+2026-05-14 18:48:38.918918920,VEDA0496,College Referral,Internship,Python Training,Individual,Chennai,Service Pricing,5,0,0,0,0,36.8,1,Completed,2026-05,0,5,Low
+2026-05-15 01:17:50.270270270,VEDA0497,Instagram,Digital Services,Website Development,Student,Chennai,Technical Consultation,6,0,1,1,24402,26.13,2,New,2026-05,2,9,Low
+2026-05-15 07:47:01.621621622,VEDA0498,Instagram,Internship,Web Development Internship,Business,Pune,Course Information,7,1,1,0,0,6.63,3,Closed,2026-05,1,15,High
+2026-05-15 14:16:12.972972974,VEDA0499,Direct,Internship,Data Analytics Training,Student,Bengaluru,Service Pricing,14,1,0,0,0,25.51,4,Closed,2026-05,0,19,High
+2026-05-15 20:45:24.324324324,VEDA0500,College Referral,IT Services,SEO Services,Individual,Chennai,Technical Consultation,14,0,1,0,0,19.3,5,Completed,2026-05,1,17,High
+2026-05-16 03:14:35.675675676,VEDA0501,LinkedIn,Internship,Website Development,Individual,Chennai,General Inquiry,4,0,1,0,0,9.07,2,Closed,2026-05,1,7,Low
+2026-05-16 09:43:47.027027028,VEDA0502,WhatsApp,IT Services,Data Analytics Training,Student,Hyderabad,General Inquiry,8,0,1,1,31916,40.47,4,Completed,2026-05,2,11,Medium
+2026-05-16 16:12:58.378378378,VEDA0503,WhatsApp,Digital Services,Data Analytics Training,Student,Pune,Course Information,13,0,0,0,0,1.02,4,In Progress,2026-05,0,13,Medium
+2026-05-16 22:42:09.729729730,VEDA0504,Direct,Training,Web Development Internship,Individual,Mysuru,Service Pricing,6,0,0,1,44978,15.33,2,Closed,2026-05,2,6,Low
+2026-05-17 05:11:21.081081082,VEDA0505,Instagram,Internship,Digital Marketing,Startup,Bengaluru,Internship Application,14,0,1,0,0,1.1,1,Completed,2026-05,1,17,High
+2026-05-17 11:40:32.432432432,VEDA0506,Instagram,Internship,Mobile App Development,Student,Bengaluru,Service Pricing,1,0,0,0,0,5.06,1,In Progress,2026-05,0,1,Low
+2026-05-17 18:09:43.783783784,VEDA0507,WhatsApp,IT Services,Python Training,Individual,Pune,General Inquiry,1,0,1,1,14864,14.61,5,Closed,2026-05,1,4,Low
+2026-05-18 00:38:55.135135136,VEDA0508,Direct,Digital Services,Web Development Internship,Student,Other,Technical Consultation,9,0,1,0,0,3.08,1,In Progress,2026-05,1,12,Medium
+2026-05-18 07:08:06.486486486,VEDA0509,College Referral,IT Services,Website Development,Startup,Other,Internship Application,10,0,0,0,0,28.84,5,Closed,2026-05,0,10,Medium
+2026-05-18 13:37:17.837837838,VEDA0510,Instagram,Internship,Mobile App Development,Student,Hyderabad,Course Information,6,0,1,1,8043,4.63,3,New,2026-05,1,9,Low
+2026-05-18 20:06:29.189189190,VEDA0511,College Referral,IT Services,Website Development,Business,Hyderabad,Internship Application,10,0,1,0,0,33.83,2,New,2026-05,1,13,Medium
+2026-05-19 02:35:40.540540540,VEDA0512,Instagram,Training,Mobile App Development,Student,Pune,Course Information,8,0,0,0,0,3.0,4,Completed,2026-05,0,8,Low
+2026-05-19 09:04:51.891891892,VEDA0513,Instagram,IT Services,Digital Marketing,Student,Hyderabad,Internship Application,13,0,1,0,0,3.32,5,Contacted,2026-05,1,16,High
+2026-05-19 15:34:03.243243244,VEDA0514,Google Search,Internship,SEO Services,Student,Bengaluru,Course Information,7,0,1,0,0,15.0,1,New,2026-05,1,10,Medium
+2026-05-19 22:03:14.594594594,VEDA0515,Instagram,IT Services,Website Development,Student,Bengaluru,Course Information,12,0,1,1,31868,43.09,5,Contacted,2026-05,2,15,High
+2026-05-20 04:32:25.945945946,VEDA0516,LinkedIn,Training,Web Development Internship,Individual,Mysuru,Internship Application,6,0,1,1,27309,30.97,5,In Progress,2026-05,2,9,Low
+2026-05-20 11:01:37.297297298,VEDA0517,Direct,Digital Services,Mobile App Development,Student,Other,Internship Application,4,0,1,0,0,37.08,1,In Progress,2026-05,1,7,Low
+2026-05-20 17:30:48.648648648,VEDA0518,Direct,Internship,Mobile App Development,Startup,Pune,Course Information,7,0,1,0,0,7.22,1,Contacted,2026-05,1,10,Medium
+2026-05-21 00:00:00.000000000,VEDA0519,College Referral,IT Services,Data Analytics Training,Student,Chennai,General Inquiry,9,0,1,0,0,40.12,2,Completed,2026-05,1,12,Medium
+2026-05-21 06:29:11.351351352,VEDA0520,Instagram,Digital Services,Data Analytics Training,Student,Other,Internship Application,14,1,1,0,0,0.89,4,Closed,2026-05,1,22,High
+2026-05-21 12:58:22.702702702,VEDA0521,LinkedIn,Internship,Data Science Internship,Student,Chennai,Service Pricing,11,0,1,1,19643,10.62,2,Contacted,2026-05,2,14,Medium
+2026-05-21 19:27:34.054054054,VEDA0522,College Referral,Digital Services,Website Development,Student,Mysuru,Technical Consultation,10,0,1,0,0,29.76,2,Contacted,2026-05,1,13,Medium
+2026-05-22 01:56:45.405405406,VEDA0523,Google Search,IT Services,Data Analytics Training,Student,Mysuru,Course Information,10,1,0,0,0,18.32,1,Contacted,2026-05,0,15,High
+2026-05-22 08:25:56.756756756,VEDA0524,College Referral,Internship,Data Science Internship,Student,Hyderabad,Course Information,14,0,1,1,24880,47.25,1,Contacted,2026-05,2,17,High
+2026-05-22 14:55:08.108108108,VEDA0525,College Referral,Internship,SEO Services,Student,Mysuru,Technical Consultation,7,0,1,1,20043,1.94,4,Contacted,2026-05,2,10,Medium
+2026-05-22 21:24:19.459459460,VEDA0526,Instagram,IT Services,SEO Services,Student,Mysuru,General Inquiry,1,1,0,0,0,47.93,5,Completed,2026-05,0,6,Low
+2026-05-23 03:53:30.810810810,VEDA0527,Google Search,Internship,Data Analytics Training,Individual,Chennai,Technical Consultation,10,1,1,0,0,30.12,2,New,2026-05,1,18,High
+2026-05-23 10:22:42.162162162,VEDA0528,College Referral,Training,Website Development,Individual,Hyderabad,Internship Application,9,0,0,0,0,27.04,4,Closed,2026-05,0,9,Low
+2026-05-23 16:51:53.513513514,VEDA0529,LinkedIn,Internship,Mobile App Development,Student,Mysuru,Technical Consultation,13,0,0,1,11302,3.33,2,New,2026-05,0,13,Medium
+2026-05-23 23:21:04.864864864,VEDA0530,LinkedIn,IT Services,Python Training,Student,Other,Course Information,4,0,1,0,0,13.48,5,Contacted,2026-05,1,7,Low
+2026-05-24 05:50:16.216216216,VEDA0531,Direct,Internship,Digital Marketing,Business,Mysuru,Technical Consultation,3,0,1,0,0,44.42,2,New,2026-05,1,6,Low
+2026-05-24 12:19:27.567567568,VEDA0532,Google Search,Digital Services,Website Development,Individual,Hyderabad,Service Pricing,4,1,0,0,0,17.33,3,Completed,2026-05,0,9,Low
+2026-05-24 18:48:38.918918920,VEDA0533,Google Search,Digital Services,Digital Marketing,Individual,Pune,Internship Application,4,0,1,0,0,31.93,4,In Progress,2026-05,1,7,Low
+2026-05-25 01:17:50.270270270,VEDA0534,Direct,Digital Services,Web Development Internship,Student,Hyderabad,Technical Consultation,13,0,1,0,0,47.98,1,New,2026-05,1,16,High
+2026-05-25 07:47:01.621621622,VEDA0535,College Referral,IT Services,SEO Services,Startup,Chennai,Course Information,10,1,0,1,7158,13.0,2,Closed,2026-05,0,15,High
+2026-05-25 14:16:12.972972974,VEDA0536,Google Search,Internship,Data Analytics Training,Startup,Pune,Internship Application,11,1,1,1,6806,27.86,4,Completed,2026-05,1,19,High
+2026-05-25 20:45:24.324324324,VEDA0537,LinkedIn,IT Services,Data Analytics Training,Individual,Other,Course Information,2,0,1,1,21738,33.58,4,In Progress,2026-05,2,5,Low
+2026-05-26 03:14:35.675675676,VEDA0538,LinkedIn,Internship,Digital Marketing,Business,Bengaluru,General Inquiry,14,1,1,0,0,8.32,2,Completed,2026-05,1,22,High
+2026-05-26 09:43:47.027027028,VEDA0539,Instagram,Internship,Mobile App Development,Student,Hyderabad,Service Pricing,12,0,1,1,10474,7.56,1,Contacted,2026-05,1,15,High
+2026-05-26 16:12:58.378378378,VEDA0540,Google Search,Internship,Digital Marketing,Student,Chennai,General Inquiry,14,1,1,1,17997,22.17,1,In Progress,2026-05,1,22,High
+2026-05-26 22:42:09.729729730,VEDA0541,College Referral,Training,Web Development Internship,Startup,Other,Service Pricing,1,0,0,0,0,18.83,2,Closed,2026-05,0,1,Low
+2026-05-27 05:11:21.081081082,VEDA0542,Direct,IT Services,Mobile App Development,Startup,Pune,Technical Consultation,12,0,0,0,0,34.43,4,In Progress,2026-05,0,12,Medium
+2026-05-27 11:40:32.432432432,VEDA0543,Direct,IT Services,Web Development Internship,Student,Other,Internship Application,10,0,1,0,0,3.8,1,Closed,2026-05,1,13,Medium
+2026-05-27 18:09:43.783783784,VEDA0544,College Referral,Training,Python Training,Student,Hyderabad,Technical Consultation,12,0,1,1,10004,46.68,2,Contacted,2026-05,1,15,High
+2026-05-28 00:38:55.135135136,VEDA0545,WhatsApp,Internship,SEO Services,Student,Mysuru,Service Pricing,1,0,0,0,0,1.18,2,Closed,2026-05,0,1,Low
+2026-05-28 07:08:06.486486486,VEDA0546,Instagram,Digital Services,Data Analytics Training,Student,Hyderabad,Service Pricing,13,1,1,1,26792,29.06,2,Completed,2026-05,2,21,High
+2026-05-28 13:37:17.837837838,VEDA0547,Direct,Training,Data Analytics Training,Startup,Bengaluru,Service Pricing,14,1,1,0,0,27.23,4,New,2026-05,1,22,High
+2026-05-28 20:06:29.189189190,VEDA0548,Google Search,Training,Python Training,Individual,Hyderabad,Course Information,8,0,0,1,8232,6.9,1,Completed,2026-05,0,8,Low
+2026-05-29 02:35:40.540540540,VEDA0549,Instagram,Internship,Data Science Internship,Student,Pune,Internship Application,14,0,0,0,0,7.67,4,Completed,2026-05,0,14,Medium
+2026-05-29 09:04:51.891891892,VEDA0550,Google Search,IT Services,SEO Services,Student,Pune,Technical Consultation,2,0,0,1,17052,38.15,3,In Progress,2026-05,0,2,Low
+2026-05-29 15:34:03.243243244,VEDA0551,LinkedIn,IT Services,Mobile App Development,Student,Hyderabad,Technical Consultation,12,1,1,0,0,42.66,1,Contacted,2026-05,1,20,High
+2026-05-29 22:03:14.594594594,VEDA0552,Instagram,Internship,Python Training,Student,Pune,General Inquiry,10,1,0,1,6913,13.94,4,New,2026-05,0,15,High
+2026-05-30 04:32:25.945945946,VEDA0553,Direct,Internship,Mobile App Development,Individual,Mysuru,Service Pricing,5,1,1,0,0,21.3,1,Closed,2026-05,1,13,Medium
+2026-05-30 11:01:37.297297298,VEDA0554,Instagram,IT Services,Digital Marketing,Business,Other,Service Pricing,12,1,1,0,0,17.36,3,In Progress,2026-05,1,20,High
+2026-05-30 17:30:48.648648648,VEDA0555,Instagram,IT Services,Website Development,Startup,Hyderabad,Service Pricing,4,0,1,0,0,3.95,5,Contacted,2026-05,1,7,Low
+2026-05-31 00:00:00.000000000,VEDA0556,Instagram,Internship,Data Analytics Training,Student,Mysuru,Technical Consultation,8,0,0,0,0,32.48,2,New,2026-05,0,8,Low
+2026-05-31 06:29:11.351351352,VEDA0557,WhatsApp,Digital Services,Mobile App Development,Business,Other,General Inquiry,2,1,1,0,0,39.7,4,Completed,2026-05,1,10,Medium
+2026-05-31 12:58:22.702702702,VEDA0558,Instagram,Internship,Web Development Internship,Startup,Other,Course Information,10,1,1,0,0,14.98,3,Contacted,2026-05,1,18,High
+2026-05-31 19:27:34.054054054,VEDA0559,Google Search,Training,Mobile App Development,Startup,Mysuru,Internship Application,9,0,1,1,1319,47.53,3,Contacted,2026-05,1,12,Medium
+2026-06-01 01:56:45.405405406,VEDA0560,LinkedIn,Digital Services,Website Development,Student,Chennai,Course Information,7,0,1,0,0,4.1,1,Contacted,2026-06,1,10,Medium
+2026-06-01 08:25:56.756756756,VEDA0561,College Referral,Training,SEO Services,Student,Hyderabad,Technical Consultation,13,1,1,0,0,31.94,1,Completed,2026-06,1,21,High
+2026-06-01 14:55:08.108108108,VEDA0562,Instagram,IT Services,Data Analytics Training,Student,Other,Service Pricing,7,0,1,0,0,21.79,2,Closed,2026-06,1,10,Medium
+2026-06-01 21:24:19.459459460,VEDA0563,Direct,Training,Digital Marketing,Student,Other,Internship Application,1,0,0,0,0,21.71,1,In Progress,2026-06,0,1,Low
+2026-06-02 03:53:30.810810810,VEDA0564,Instagram,Internship,Python Training,Student,Pune,Technical Consultation,14,1,0,1,5791,22.24,4,Closed,2026-06,0,19,High
+2026-06-02 10:22:42.162162162,VEDA0565,Direct,Digital Services,Digital Marketing,Student,Other,Technical Consultation,12,0,0,0,0,12.79,4,New,2026-06,0,12,Medium
+2026-06-02 16:51:53.513513514,VEDA0566,Google Search,Training,Website Development,Student,Mysuru,Technical Consultation,2,0,1,1,1329,34.49,4,In Progress,2026-06,1,5,Low
+2026-06-02 23:21:04.864864864,VEDA0567,Direct,Digital Services,Data Analytics Training,Startup,Other,Internship Application,4,1,0,0,0,34.77,5,New,2026-06,0,9,Low
+2026-06-03 05:50:16.216216216,VEDA0568,College Referral,Internship,Mobile App Development,Student,Chennai,Internship Application,4,1,0,0,0,13.91,4,Completed,2026-06,0,9,Low
+2026-06-03 12:19:27.567567568,VEDA0569,LinkedIn,Internship,SEO Services,Student,Hyderabad,General Inquiry,11,1,1,1,24126,40.18,1,Closed,2026-06,2,19,High
+2026-06-03 18:48:38.918918920,VEDA0570,Direct,Internship,Data Science Internship,Business,Hyderabad,General Inquiry,14,0,0,0,0,15.55,1,Contacted,2026-06,0,14,Medium
+2026-06-04 01:17:50.270270270,VEDA0571,Direct,IT Services,SEO Services,Business,Other,Course Information,3,0,0,0,0,34.94,4,In Progress,2026-06,0,3,Low
+2026-06-04 07:47:01.621621622,VEDA0572,LinkedIn,Training,Data Science Internship,Startup,Bengaluru,Internship Application,7,1,0,0,0,6.25,3,Contacted,2026-06,0,12,Medium
+2026-06-04 14:16:12.972972974,VEDA0573,College Referral,Digital Services,Web Development Internship,Business,Bengaluru,Internship Application,12,0,1,1,6703,8.51,3,New,2026-06,1,15,High
+2026-06-04 20:45:24.324324324,VEDA0574,Instagram,Training,SEO Services,Individual,Mysuru,Internship Application,8,0,1,0,0,15.5,3,Contacted,2026-06,1,11,Medium
+2026-06-05 03:14:35.675675676,VEDA0575,Direct,Digital Services,Data Analytics Training,Business,Bengaluru,General Inquiry,2,1,1,0,0,28.71,2,Contacted,2026-06,1,10,Medium
+2026-06-05 09:43:47.027027028,VEDA0576,LinkedIn,Internship,Data Science Internship,Student,Mysuru,Technical Consultation,4,0,1,0,0,31.16,5,Completed,2026-06,1,7,Low
+2026-06-05 16:12:58.378378378,VEDA0577,Google Search,Digital Services,Python Training,Student,Pune,Service Pricing,14,0,1,0,0,19.33,4,Completed,2026-06,1,17,High
+2026-06-05 22:42:09.729729730,VEDA0578,LinkedIn,IT Services,Data Analytics Training,Student,Mysuru,General Inquiry,3,0,1,1,24804,4.2,2,Closed,2026-06,2,6,Low
+2026-06-06 05:11:21.081081082,VEDA0579,Google Search,IT Services,Python Training,Student,Bengaluru,Internship Application,2,0,1,0,0,18.25,3,New,2026-06,1,5,Low
+2026-06-06 11:40:32.432432432,VEDA0580,College Referral,Digital Services,SEO Services,Student,Other,General Inquiry,12,0,1,0,0,33.22,4,Completed,2026-06,1,15,High
+2026-06-06 18:09:43.783783784,VEDA0581,Instagram,IT Services,Python Training,Individual,Pune,Course Information,13,0,1,1,30802,32.37,2,Completed,2026-06,2,16,High
+2026-06-07 00:38:55.135135136,VEDA0582,LinkedIn,IT Services,Data Science Internship,Startup,Bengaluru,Internship Application,14,1,0,0,0,8.11,1,Closed,2026-06,0,19,High
+2026-06-07 07:08:06.486486486,VEDA0583,WhatsApp,Internship,Data Analytics Training,Individual,Mysuru,Course Information,6,1,0,0,0,0.87,3,In Progress,2026-06,0,11,Medium
+2026-06-07 13:37:17.837837838,VEDA0584,Direct,Internship,Mobile App Development,Student,Chennai,Internship Application,13,0,0,0,0,36.27,2,Closed,2026-06,0,13,Medium
+2026-06-07 20:06:29.189189190,VEDA0585,College Referral,Digital Services,Website Development,Startup,Hyderabad,General Inquiry,4,0,1,0,0,5.55,1,Contacted,2026-06,1,7,Low
+2026-06-08 02:35:40.540540540,VEDA0586,LinkedIn,IT Services,Data Science Internship,Individual,Bengaluru,Technical Consultation,6,0,1,0,0,4.41,3,Contacted,2026-06,1,9,Low
+2026-06-08 09:04:51.891891892,VEDA0587,Direct,IT Services,Data Science Internship,Student,Mysuru,Service Pricing,2,0,1,0,0,0.63,5,Completed,2026-06,1,5,Low
+2026-06-08 15:34:03.243243244,VEDA0588,LinkedIn,Training,Mobile App Development,Individual,Pune,Course Information,12,1,0,0,0,21.05,3,Completed,2026-06,0,17,High
+2026-06-08 22:03:14.594594594,VEDA0589,Google Search,Internship,Data Analytics Training,Student,Bengaluru,General Inquiry,4,1,1,0,0,24.41,5,Closed,2026-06,1,12,Medium
+2026-06-09 04:32:25.945945946,VEDA0590,LinkedIn,Internship,Data Analytics Training,Student,Bengaluru,Technical Consultation,11,1,1,0,0,30.79,5,Closed,2026-06,1,19,High
+2026-06-09 11:01:37.297297298,VEDA0591,WhatsApp,IT Services,Digital Marketing,Business,Hyderabad,General Inquiry,6,0,1,0,0,14.56,5,New,2026-06,1,9,Low
+2026-06-09 17:30:48.648648648,VEDA0592,LinkedIn,Training,SEO Services,Student,Mysuru,Course Information,14,0,1,0,0,34.25,4,Contacted,2026-06,1,17,High
+2026-06-10 00:00:00.000000000,VEDA0593,LinkedIn,Internship,Python Training,Student,Chennai,Service Pricing,5,0,1,1,40328,8.54,4,Closed,2026-06,2,8,Low
+2026-06-10 06:29:11.351351352,VEDA0594,WhatsApp,Training,SEO Services,Business,Pune,General Inquiry,3,0,1,0,0,40.02,5,In Progress,2026-06,1,6,Low
+2026-06-10 12:58:22.702702702,VEDA0595,College Referral,Internship,Mobile App Development,Startup,Mysuru,Internship Application,8,1,1,0,0,27.66,1,New,2026-06,1,16,High
+2026-06-10 19:27:34.054054054,VEDA0596,LinkedIn,Training,SEO Services,Student,Pune,Technical Consultation,7,1,1,0,0,28.23,5,Closed,2026-06,1,15,High
+2026-06-11 01:56:45.405405406,VEDA0597,WhatsApp,Internship,Mobile App Development,Student,Bengaluru,General Inquiry,3,0,0,1,37845,10.46,2,Completed,2026-06,2,3,Low
+2026-06-11 08:25:56.756756756,VEDA0598,Direct,IT Services,Data Analytics Training,Student,Hyderabad,Technical Consultation,6,1,0,1,22282,4.02,5,Closed,2026-06,0,11,Medium
+2026-06-11 14:55:08.108108108,VEDA0599,Google Search,Internship,Python Training,Individual,Hyderabad,Internship Application,4,0,1,0,0,22.57,4,Completed,2026-06,1,7,Low
+2026-06-11 21:24:19.459459460,VEDA0600,Google Search,Training,SEO Services,Student,Other,Service Pricing,11,0,0,0,0,29.74,4,Completed,2026-06,0,11,Medium
+2026-06-12 03:53:30.810810810,VEDA0601,LinkedIn,Internship,Data Science Internship,Student,Chennai,Service Pricing,5,1,1,0,0,5.01,2,Contacted,2026-06,1,13,Medium
+2026-06-12 10:22:42.162162162,VEDA0602,College Referral,Internship,Web Development Internship,Business,Hyderabad,Internship Application,11,0,0,0,0,45.65,2,Contacted,2026-06,0,11,Medium
+2026-06-12 16:51:53.513513514,VEDA0603,College Referral,Training,Digital Marketing,Individual,Bengaluru,Technical Consultation,5,0,1,0,0,47.07,3,Closed,2026-06,1,8,Low
+2026-06-12 23:21:04.864864864,VEDA0604,Direct,Training,Website Development,Student,Chennai,General Inquiry,7,1,1,1,32194,26.41,1,Closed,2026-06,2,15,High
+2026-06-13 05:50:16.216216216,VEDA0605,LinkedIn,IT Services,Data Science Internship,Individual,Mysuru,Internship Application,11,1,0,0,0,45.63,1,In Progress,2026-06,0,16,High
+2026-06-13 12:19:27.567567568,VEDA0606,Google Search,Internship,Data Analytics Training,Individual,Hyderabad,Course Information,5,0,1,0,0,9.02,1,New,2026-06,1,8,Low
+2026-06-13 18:48:38.918918920,VEDA0607,College Referral,IT Services,Website Development,Student,Chennai,Technical Consultation,11,0,1,0,0,1.71,4,New,2026-06,1,14,Medium
+2026-06-14 01:17:50.270270270,VEDA0608,LinkedIn,Digital Services,Web Development Internship,Student,Bengaluru,Service Pricing,3,1,1,0,0,2.37,1,Closed,2026-06,1,11,Medium
+2026-06-14 07:47:01.621621622,VEDA0609,College Referral,IT Services,Web Development Internship,Startup,Other,Internship Application,10,1,0,1,47359,28.41,3,Contacted,2026-06,2,15,High
+2026-06-14 14:16:12.972972974,VEDA0610,WhatsApp,Internship,Python Training,Student,Pune,Service Pricing,5,1,1,1,41159,3.43,3,In Progress,2026-06,2,13,Medium
+2026-06-14 20:45:24.324324324,VEDA0611,College Referral,Training,Website Development,Individual,Pune,Technical Consultation,7,0,0,0,0,46.03,1,New,2026-06,0,7,Low
+2026-06-15 03:14:35.675675676,VEDA0612,Google Search,Internship,Python Training,Student,Bengaluru,Service Pricing,5,1,1,0,0,7.24,2,Closed,2026-06,1,13,Medium
+2026-06-15 09:43:47.027027028,VEDA0613,Instagram,Internship,Data Science Internship,Student,Bengaluru,Internship Application,5,0,1,0,0,14.97,3,Contacted,2026-06,1,8,Low
+2026-06-15 16:12:58.378378378,VEDA0614,Direct,Digital Services,Mobile App Development,Student,Pune,Technical Consultation,9,1,1,1,36272,39.57,2,Contacted,2026-06,2,17,High
+2026-06-15 22:42:09.729729730,VEDA0615,Direct,Internship,Mobile App Development,Student,Other,Course Information,3,0,1,0,0,10.89,4,Contacted,2026-06,1,6,Low
+2026-06-16 05:11:21.081081082,VEDA0616,Google Search,Training,Mobile App Development,Student,Chennai,Internship Application,13,1,1,0,0,12.04,3,Completed,2026-06,1,21,High
+2026-06-16 11:40:32.432432432,VEDA0617,College Referral,IT Services,Website Development,Student,Pune,General Inquiry,6,0,0,1,27415,31.01,2,Contacted,2026-06,2,6,Low
+2026-06-16 18:09:43.783783784,VEDA0618,LinkedIn,IT Services,Mobile App Development,Startup,Bengaluru,Internship Application,1,0,1,0,0,13.61,1,Closed,2026-06,1,4,Low
+2026-06-17 00:38:55.135135136,VEDA0619,College Referral,Training,Data Science Internship,Business,Hyderabad,Technical Consultation,10,0,0,1,28195,10.83,4,In Progress,2026-06,2,10,Medium
+2026-06-17 07:08:06.486486486,VEDA0620,Google Search,Internship,Python Training,Startup,Mysuru,Internship Application,5,0,1,0,0,12.57,5,Closed,2026-06,1,8,Low
+2026-06-17 13:37:17.837837838,VEDA0621,Direct,Internship,Website Development,Business,Other,Course Information,8,1,1,1,30323,23.81,5,Contacted,2026-06,2,16,High
+2026-06-17 20:06:29.189189190,VEDA0622,College Referral,Training,Python Training,Student,Other,Course Information,5,1,1,0,0,46.39,1,In Progress,2026-06,1,13,Medium
+2026-06-18 02:35:40.540540540,VEDA0623,Direct,Internship,Website Development,Business,Hyderabad,General Inquiry,9,1,1,0,0,40.03,4,New,2026-06,1,17,High
+2026-06-18 09:04:51.891891892,VEDA0624,LinkedIn,Training,Python Training,Student,Hyderabad,Service Pricing,11,0,1,0,0,14.02,4,New,2026-06,1,14,Medium
+2026-06-18 15:34:03.243243244,VEDA0625,Direct,Internship,Web Development Internship,Business,Bengaluru,Technical Consultation,6,1,1,1,35674,17.76,4,Closed,2026-06,2,14,Medium
+2026-06-18 22:03:14.594594594,VEDA0626,Direct,Internship,Python Training,Business,Pune,Technical Consultation,8,1,1,0,0,22.56,4,In Progress,2026-06,1,16,High
+2026-06-19 04:32:25.945945946,VEDA0627,Instagram,Training,Mobile App Development,Startup,Chennai,Service Pricing,10,0,0,0,0,47.0,5,Closed,2026-06,0,10,Medium
+2026-06-19 11:01:37.297297298,VEDA0628,Instagram,Internship,Web Development Internship,Business,Other,Course Information,8,0,1,0,0,8.69,2,In Progress,2026-06,1,11,Medium
+2026-06-19 17:30:48.648648648,VEDA0629,WhatsApp,Training,Python Training,Individual,Other,Course Information,13,1,1,0,0,17.48,4,In Progress,2026-06,1,21,High
+2026-06-20 00:00:00.000000000,VEDA0630,Instagram,IT Services,Website Development,Student,Hyderabad,Internship Application,3,1,1,0,0,35.15,2,Closed,2026-06,1,11,Medium
+2026-06-20 06:29:11.351351352,VEDA0631,Direct,IT Services,Website Development,Student,Pune,General Inquiry,7,1,1,1,15497,46.29,4,In Progress,2026-06,1,15,High
+2026-06-20 12:58:22.702702702,VEDA0632,Google Search,Internship,Digital Marketing,Individual,Other,General Inquiry,14,0,1,0,0,7.89,3,Contacted,2026-06,1,17,High
+2026-06-20 19:27:34.054054054,VEDA0633,Direct,Internship,Website Development,Student,Chennai,General Inquiry,7,0,0,0,0,11.3,3,In Progress,2026-06,0,7,Low
+2026-06-21 01:56:45.405405406,VEDA0634,Google Search,Internship,Data Analytics Training,Individual,Hyderabad,Internship Application,14,0,1,0,0,11.22,3,In Progress,2026-06,1,17,High
+2026-06-21 08:25:56.756756756,VEDA0635,Google Search,IT Services,Data Science Internship,Business,Chennai,General Inquiry,10,1,1,0,0,1.49,4,Closed,2026-06,1,18,High
+2026-06-21 14:55:08.108108108,VEDA0636,Instagram,IT Services,Website Development,Student,Pune,Service Pricing,12,1,0,0,0,29.2,2,New,2026-06,0,17,High
+2026-06-21 21:24:19.459459460,VEDA0637,College Referral,Internship,Web Development Internship,Startup,Other,Internship Application,6,0,0,0,0,32.36,5,Completed,2026-06,0,6,Low
+2026-06-22 03:53:30.810810810,VEDA0638,LinkedIn,Digital Services,Digital Marketing,Business,Mysuru,Service Pricing,12,1,1,0,0,29.12,1,In Progress,2026-06,1,20,High
+2026-06-22 10:22:42.162162162,VEDA0639,Instagram,Internship,Website Development,Business,Other,Internship Application,7,0,0,0,0,3.89,5,Completed,2026-06,0,7,Low
+2026-06-22 16:51:53.513513514,VEDA0640,Instagram,Training,Data Analytics Training,Business,Pune,General Inquiry,14,1,0,1,45498,3.79,4,In Progress,2026-06,2,19,High
+2026-06-22 23:21:04.864864864,VEDA0641,College Referral,IT Services,Mobile App Development,Individual,Other,Service Pricing,2,0,0,0,0,10.49,3,Closed,2026-06,0,2,Low
+2026-06-23 05:50:16.216216216,VEDA0642,LinkedIn,Digital Services,Web Development Internship,Business,Other,Service Pricing,9,0,0,0,0,14.29,3,Closed,2026-06,0,9,Low
+2026-06-23 12:19:27.567567568,VEDA0643,Direct,IT Services,Data Analytics Training,Startup,Bengaluru,Service Pricing,10,0,1,1,5359,37.86,2,In Progress,2026-06,1,13,Medium
+2026-06-23 18:48:38.918918920,VEDA0644,WhatsApp,IT Services,Mobile App Development,Student,Other,Internship Application,10,0,1,1,31669,8.07,4,Closed,2026-06,2,13,Medium
+2026-06-24 01:17:50.270270270,VEDA0645,WhatsApp,Internship,SEO Services,Student,Other,Technical Consultation,1,0,0,0,0,2.59,5,Closed,2026-06,0,1,Low
+2026-06-24 07:47:01.621621622,VEDA0646,Direct,IT Services,SEO Services,Startup,Chennai,General Inquiry,1,1,0,0,0,19.21,4,In Progress,2026-06,0,6,Low
+2026-06-24 14:16:12.972972974,VEDA0647,Instagram,Internship,Web Development Internship,Student,Mysuru,Service Pricing,3,1,0,1,30454,20.28,4,New,2026-06,2,8,Low
+2026-06-24 20:45:24.324324324,VEDA0648,LinkedIn,Digital Services,Python Training,Individual,Chennai,Technical Consultation,14,1,1,0,0,21.92,3,In Progress,2026-06,1,22,High
+2026-06-25 03:14:35.675675676,VEDA0649,Instagram,Training,Data Science Internship,Individual,Chennai,General Inquiry,3,0,0,0,0,39.78,5,New,2026-06,0,3,Low
+2026-06-25 09:43:47.027027028,VEDA0650,Google Search,IT Services,Digital Marketing,Student,Hyderabad,General Inquiry,1,0,1,0,0,5.16,1,Closed,2026-06,1,4,Low
+2026-06-25 16:12:58.378378378,VEDA0651,Instagram,Training,Data Science Internship,Individual,Bengaluru,Service Pricing,12,0,1,0,0,33.94,3,New,2026-06,1,15,High
+2026-06-25 22:42:09.729729730,VEDA0652,Instagram,IT Services,Data Analytics Training,Startup,Chennai,Service Pricing,7,1,0,0,0,16.55,5,Closed,2026-06,0,12,Medium
+2026-06-26 05:11:21.081081082,VEDA0653,Direct,Training,Mobile App Development,Student,Pune,Internship Application,4,0,0,1,41985,15.22,2,New,2026-06,2,4,Low
+2026-06-26 11:40:32.432432432,VEDA0654,Direct,IT Services,Data Science Internship,Student,Pune,Technical Consultation,10,1,0,0,0,44.8,3,New,2026-06,0,15,High
+2026-06-26 18:09:43.783783784,VEDA0655,Direct,Internship,Mobile App Development,Student,Other,Technical Consultation,13,1,1,0,0,12.3,2,In Progress,2026-06,1,21,High
+2026-06-27 00:38:55.135135136,VEDA0656,WhatsApp,Internship,Mobile App Development,Student,Hyderabad,Service Pricing,2,0,1,0,0,31.02,3,New,2026-06,1,5,Low
+2026-06-27 07:08:06.486486486,VEDA0657,Google Search,Internship,Data Analytics Training,Business,Bengaluru,General Inquiry,10,0,0,0,0,13.57,4,Closed,2026-06,0,10,Medium
+2026-06-27 13:37:17.837837838,VEDA0658,Direct,Internship,Data Analytics Training,Student,Bengaluru,Service Pricing,5,0,1,1,23082,24.59,5,In Progress,2026-06,2,8,Low
+2026-06-27 20:06:29.189189190,VEDA0659,LinkedIn,Digital Services,Data Analytics Training,Individual,Other,General Inquiry,6,0,0,0,0,37.85,2,New,2026-06,0,6,Low
+2026-06-28 02:35:40.540540540,VEDA0660,WhatsApp,Internship,Data Science Internship,Student,Pune,General Inquiry,9,1,1,1,13239,42.38,3,In Progress,2026-06,1,17,High
+2026-06-28 09:04:51.891891892,VEDA0661,College Referral,Digital Services,SEO Services,Student,Mysuru,Service Pricing,4,1,1,0,0,40.34,2,Completed,2026-06,1,12,Medium
+2026-06-28 15:34:03.243243244,VEDA0662,LinkedIn,Internship,Data Analytics Training,Startup,Hyderabad,Course Information,2,0,1,0,0,28.15,3,In Progress,2026-06,1,5,Low
+2026-06-28 22:03:14.594594594,VEDA0663,LinkedIn,Internship,Digital Marketing,Startup,Other,Technical Consultation,5,1,1,1,33274,12.32,3,Completed,2026-06,2,13,Medium
+2026-06-29 04:32:25.945945946,VEDA0664,Direct,IT Services,Data Science Internship,Student,Hyderabad,General Inquiry,3,1,1,0,0,31.91,1,Completed,2026-06,1,11,Medium
+2026-06-29 11:01:37.297297298,VEDA0665,College Referral,IT Services,Data Analytics Training,Student,Pune,General Inquiry,2,1,1,0,0,34.22,1,In Progress,2026-06,1,10,Medium
+2026-06-29 17:30:48.648648648,VEDA0666,College Referral,Training,Website Development,Student,Pune,Course Information,12,0,1,0,0,1.01,1,Closed,2026-06,1,15,High
+2026-06-30 00:00:00.000000000,VEDA0667,WhatsApp,Training,Mobile App Development,Student,Mysuru,Internship Application,1,0,1,0,0,21.36,2,Closed,2026-06,1,4,Low
+2026-06-30 06:29:11.351351352,VEDA0668,College Referral,IT Services,Digital Marketing,Individual,Mysuru,Course Information,10,0,0,1,22988,40.55,4,Closed,2026-06,0,10,Medium
+2026-06-30 12:58:22.702702702,VEDA0669,Google Search,Internship,Data Analytics Training,Student,Bengaluru,Course Information,2,1,0,1,44027,23.76,3,Contacted,2026-06,2,7,Low
+2026-06-30 19:27:34.054054054,VEDA0670,Direct,Digital Services,Web Development Internship,Student,Hyderabad,General Inquiry,6,0,1,0,0,15.29,5,Completed,2026-06,1,9,Low
+2026-07-01 01:56:45.405405406,VEDA0671,College Referral,Digital Services,Mobile App Development,Student,Hyderabad,Technical Consultation,8,0,1,0,0,41.91,1,In Progress,2026-07,1,11,Medium
+2026-07-01 08:25:56.756756756,VEDA0672,WhatsApp,IT Services,Mobile App Development,Business,Pune,Course Information,13,1,1,0,0,7.9,2,Closed,2026-07,1,21,High
+2026-07-01 14:55:08.108108108,VEDA0673,Google Search,Internship,Data Analytics Training,Business,Bengaluru,Internship Application,3,1,1,0,0,10.31,2,Closed,2026-07,1,11,Medium
+2026-07-01 21:24:19.459459460,VEDA0674,Instagram,IT Services,SEO Services,Student,Other,Service Pricing,11,1,1,1,1910,33.15,2,In Progress,2026-07,1,19,High
+2026-07-02 03:53:30.810810810,VEDA0675,Instagram,Internship,Python Training,Startup,Hyderabad,Course Information,9,0,1,1,30072,17.24,5,Completed,2026-07,2,12,Medium
+2026-07-02 10:22:42.162162162,VEDA0676,Google Search,Internship,SEO Services,Student,Bengaluru,Course Information,12,0,1,0,0,34.37,5,In Progress,2026-07,1,15,High
+2026-07-02 16:51:53.513513514,VEDA0677,WhatsApp,Internship,Data Analytics Training,Student,Bengaluru,Internship Application,9,1,1,0,0,7.99,1,Contacted,2026-07,1,17,High
+2026-07-02 23:21:04.864864866,VEDA0678,Google Search,Training,Mobile App Development,Startup,Pune,Technical Consultation,2,0,1,0,0,12.48,5,Contacted,2026-07,1,5,Low
+2026-07-03 05:50:16.216216216,VEDA0679,Direct,Digital Services,Digital Marketing,Business,Bengaluru,Course Information,8,0,0,0,0,7.94,1,In Progress,2026-07,0,8,Low
+2026-07-03 12:19:27.567567568,VEDA0680,Direct,IT Services,Web Development Internship,Business,Mysuru,Course Information,10,0,1,1,44989,45.76,5,Completed,2026-07,2,13,Medium
+2026-07-03 18:48:38.918918920,VEDA0681,Instagram,IT Services,Digital Marketing,Individual,Mysuru,Technical Consultation,11,0,1,0,0,19.76,5,Closed,2026-07,1,14,Medium
+2026-07-04 01:17:50.270270270,VEDA0682,College Referral,Training,Digital Marketing,Student,Chennai,Internship Application,12,0,1,1,5646,16.52,5,Contacted,2026-07,1,15,High
+2026-07-04 07:47:01.621621622,VEDA0683,WhatsApp,Internship,Mobile App Development,Startup,Pune,Course Information,5,1,0,0,0,1.17,1,Contacted,2026-07,0,10,Medium
+2026-07-04 14:16:12.972972974,VEDA0684,Instagram,Training,SEO Services,Student,Other,Technical Consultation,4,1,0,1,3400,7.79,3,Completed,2026-07,0,9,Low
+2026-07-04 20:45:24.324324324,VEDA0685,College Referral,Digital Services,Web Development Internship,Individual,Chennai,Course Information,10,1,1,0,0,20.5,1,Contacted,2026-07,1,18,High
+2026-07-05 03:14:35.675675676,VEDA0686,College Referral,Internship,Data Science Internship,Student,Mysuru,Service Pricing,5,0,1,0,0,3.75,3,Contacted,2026-07,1,8,Low
+2026-07-05 09:43:47.027027028,VEDA0687,Direct,Digital Services,Website Development,Individual,Chennai,General Inquiry,4,0,1,0,0,24.76,2,Completed,2026-07,1,7,Low
+2026-07-05 16:12:58.378378378,VEDA0688,LinkedIn,Training,Mobile App Development,Student,Pune,Service Pricing,8,0,1,1,34120,22.11,2,In Progress,2026-07,2,11,Medium
+2026-07-05 22:42:09.729729730,VEDA0689,LinkedIn,Training,Data Analytics Training,Student,Pune,Course Information,4,1,1,0,0,36.94,1,Closed,2026-07,1,12,Medium
+2026-07-06 05:11:21.081081082,VEDA0690,Google Search,IT Services,Data Science Internship,Business,Bengaluru,Internship Application,13,0,1,0,0,31.84,3,Closed,2026-07,1,16,High
+2026-07-06 11:40:32.432432432,VEDA0691,Direct,Training,Website Development,Student,Hyderabad,General Inquiry,10,1,0,0,0,21.68,3,Contacted,2026-07,0,15,High
+2026-07-06 18:09:43.783783784,VEDA0692,College Referral,Digital Services,Data Analytics Training,Individual,Bengaluru,Service Pricing,12,1,1,0,0,11.17,3,Closed,2026-07,1,20,High
+2026-07-07 00:38:55.135135136,VEDA0693,WhatsApp,Digital Services,Digital Marketing,Student,Pune,Technical Consultation,13,0,1,0,0,35.03,2,In Progress,2026-07,1,16,High
+2026-07-07 07:08:06.486486486,VEDA0694,LinkedIn,Training,Python Training,Student,Mysuru,Internship Application,14,0,0,1,4536,34.12,1,Contacted,2026-07,0,14,Medium
+2026-07-07 13:37:17.837837838,VEDA0695,College Referral,Internship,Data Analytics Training,Student,Other,Service Pricing,6,1,1,0,0,7.78,4,Closed,2026-07,1,14,Medium
+2026-07-07 20:06:29.189189190,VEDA0696,LinkedIn,Training,Web Development Internship,Student,Mysuru,Technical Consultation,2,1,1,0,0,43.95,3,New,2026-07,1,10,Medium
+2026-07-08 02:35:40.540540540,VEDA0697,LinkedIn,Digital Services,Web Development Internship,Business,Bengaluru,Course Information,5,0,1,0,0,3.56,3,New,2026-07,1,8,Low
+2026-07-08 09:04:51.891891892,VEDA0698,LinkedIn,Internship,Python Training,Student,Other,Technical Consultation,6,0,1,0,0,3.11,4,New,2026-07,1,9,Low
+2026-07-08 15:34:03.243243244,VEDA0699,WhatsApp,IT Services,Data Science Internship,Business,Pune,Service Pricing,5,1,1,0,0,9.4,1,New,2026-07,1,13,Medium
+2026-07-08 22:03:14.594594594,VEDA0700,Direct,IT Services,Website Development,Individual,Mysuru,Service Pricing,12,0,0,0,0,43.7,3,New,2026-07,0,12,Medium
+2026-07-09 04:32:25.945945946,VEDA0701,WhatsApp,IT Services,Data Analytics Training,Student,Pune,Course Information,2,0,1,0,0,25.2,1,Contacted,2026-07,1,5,Low
+2026-07-09 11:01:37.297297298,VEDA0702,Instagram,Internship,Web Development Internship,Individual,Other,Technical Consultation,14,0,1,0,0,37.93,3,Completed,2026-07,1,17,High
+2026-07-09 17:30:48.648648648,VEDA0703,College Referral,IT Services,Data Science Internship,Individual,Other,Technical Consultation,7,0,1,1,49127,11.32,5,Completed,2026-07,2,10,Medium
+2026-07-10 00:00:00.000000000,VEDA0704,Direct,Digital Services,Python Training,Startup,Mysuru,Course Information,4,0,1,0,0,23.79,3,Contacted,2026-07,1,7,Low
+2026-07-10 06:29:11.351351352,VEDA0705,Direct,Internship,SEO Services,Student,Pune,Technical Consultation,8,0,0,1,33875,17.52,5,Contacted,2026-07,2,8,Low
+2026-07-10 12:58:22.702702702,VEDA0706,Direct,Internship,Mobile App Development,Student,Chennai,Course Information,7,0,0,0,0,39.82,1,In Progress,2026-07,0,7,Low
+2026-07-10 19:27:34.054054054,VEDA0707,Direct,Digital Services,SEO Services,Business,Pune,Internship Application,7,0,1,0,0,1.57,3,Completed,2026-07,1,10,Medium
+2026-07-11 01:56:45.405405406,VEDA0708,WhatsApp,Internship,SEO Services,Business,Other,Service Pricing,9,1,0,0,0,12.08,2,New,2026-07,0,14,Medium
+2026-07-11 08:25:56.756756756,VEDA0709,Direct,Digital Services,Web Development Internship,Business,Pune,Internship Application,1,1,1,0,0,7.75,2,Contacted,2026-07,1,9,Low
+2026-07-11 14:55:08.108108108,VEDA0710,Google Search,Training,Digital Marketing,Student,Bengaluru,General Inquiry,10,1,1,1,7877,41.31,4,New,2026-07,1,18,High
+2026-07-11 21:24:19.459459460,VEDA0711,College Referral,Internship,Digital Marketing,Startup,Chennai,General Inquiry,6,1,1,1,34642,22.71,2,Completed,2026-07,2,14,Medium
+2026-07-12 03:53:30.810810810,VEDA0712,Direct,Digital Services,Python Training,Student,Hyderabad,General Inquiry,6,0,0,0,0,19.7,5,Closed,2026-07,0,6,Low
+2026-07-12 10:22:42.162162162,VEDA0713,College Referral,Training,Data Analytics Training,Student,Bengaluru,Course Information,6,0,1,0,0,21.85,2,Closed,2026-07,1,9,Low
+2026-07-12 16:51:53.513513514,VEDA0714,Google Search,Training,Digital Marketing,Student,Hyderabad,Technical Consultation,13,1,1,0,0,46.67,2,Contacted,2026-07,1,21,High
+2026-07-12 23:21:04.864864866,VEDA0715,Google Search,Training,SEO Services,Individual,Mysuru,Internship Application,12,0,0,0,0,40.89,2,In Progress,2026-07,0,12,Medium
+2026-07-13 05:50:16.216216216,VEDA0716,College Referral,Training,Digital Marketing,Student,Hyderabad,Internship Application,6,0,0,0,0,34.05,3,New,2026-07,0,6,Low
+2026-07-13 12:19:27.567567568,VEDA0717,LinkedIn,Internship,SEO Services,Student,Pune,Internship Application,12,1,0,1,45513,14.3,4,Contacted,2026-07,2,17,High
+2026-07-13 18:48:38.918918920,VEDA0718,Instagram,Training,Website Development,Business,Hyderabad,Internship Application,10,0,1,1,10465,8.35,1,In Progress,2026-07,1,13,Medium
+2026-07-14 01:17:50.270270270,VEDA0719,LinkedIn,Digital Services,Web Development Internship,Student,Other,General Inquiry,7,0,0,1,1559,44.27,4,New,2026-07,0,7,Low
+2026-07-14 07:47:01.621621622,VEDA0720,LinkedIn,Internship,Web Development Internship,Student,Bengaluru,Internship Application,14,1,1,1,9308,20.6,5,Completed,2026-07,1,22,High
+2026-07-14 14:16:12.972972974,VEDA0721,WhatsApp,IT Services,Data Analytics Training,Student,Bengaluru,Technical Consultation,10,1,1,0,0,13.74,3,Closed,2026-07,1,18,High
+2026-07-14 20:45:24.324324324,VEDA0722,LinkedIn,Internship,Digital Marketing,Business,Hyderabad,General Inquiry,6,0,1,0,0,22.87,3,In Progress,2026-07,1,9,Low
+2026-07-15 03:14:35.675675676,VEDA0723,Direct,IT Services,Digital Marketing,Individual,Bengaluru,Internship Application,1,1,0,0,0,44.1,2,New,2026-07,0,6,Low
+2026-07-15 09:43:47.027027028,VEDA0724,WhatsApp,Internship,Mobile App Development,Student,Other,Course Information,3,1,1,0,0,18.89,2,Contacted,2026-07,1,11,Medium
+2026-07-15 16:12:58.378378378,VEDA0725,WhatsApp,Digital Services,Data Science Internship,Startup,Bengaluru,Service Pricing,2,1,0,0,0,27.23,5,New,2026-07,0,7,Low
+2026-07-15 22:42:09.729729730,VEDA0726,Google Search,Training,Website Development,Startup,Hyderabad,Service Pricing,6,0,1,1,17427,38.64,3,Contacted,2026-07,1,9,Low
+2026-07-16 05:11:21.081081082,VEDA0727,LinkedIn,Internship,Web Development Internship,Student,Chennai,Service Pricing,8,0,1,1,34276,20.79,1,Closed,2026-07,2,11,Medium
+2026-07-16 11:40:32.432432432,VEDA0728,Google Search,Internship,Website Development,Individual,Chennai,General Inquiry,3,1,1,1,7107,11.59,4,Closed,2026-07,1,11,Medium
+2026-07-16 18:09:43.783783784,VEDA0729,College Referral,Internship,Web Development Internship,Startup,Mysuru,Internship Application,10,1,1,1,14476,47.74,3,New,2026-07,1,18,High
+2026-07-17 00:38:55.135135136,VEDA0730,Instagram,Training,Website Development,Individual,Bengaluru,General Inquiry,8,1,0,1,4439,45.94,1,New,2026-07,0,13,Medium
+2026-07-17 07:08:06.486486486,VEDA0731,WhatsApp,Internship,Python Training,Student,Hyderabad,Technical Consultation,8,0,1,0,0,40.57,1,Contacted,2026-07,1,11,Medium
+2026-07-17 13:37:17.837837838,VEDA0732,College Referral,Digital Services,SEO Services,Business,Bengaluru,Course Information,5,0,1,1,22795,33.2,4,Contacted,2026-07,2,8,Low
+2026-07-17 20:06:29.189189190,VEDA0733,College Referral,Training,Web Development Internship,Individual,Pune,Course Information,8,1,0,0,0,14.51,1,In Progress,2026-07,0,13,Medium
+2026-07-18 02:35:40.540540540,VEDA0734,Direct,Internship,Website Development,Student,Other,Service Pricing,6,0,1,0,0,43.89,5,In Progress,2026-07,1,9,Low
+2026-07-18 09:04:51.891891892,VEDA0735,Instagram,IT Services,Digital Marketing,Student,Bengaluru,Service Pricing,5,0,1,1,18300,13.59,1,In Progress,2026-07,1,8,Low
+2026-07-18 15:34:03.243243244,VEDA0736,College Referral,IT Services,Data Science Internship,Student,Bengaluru,Service Pricing,9,0,1,1,18182,38.54,5,New,2026-07,2,12,Medium
+2026-07-18 22:03:14.594594594,VEDA0737,College Referral,Internship,Python Training,Student,Chennai,Internship Application,14,0,1,0,0,44.12,1,In Progress,2026-07,1,17,High
+2026-07-19 04:32:25.945945946,VEDA0738,Instagram,Internship,Python Training,Startup,Other,Technical Consultation,7,1,1,0,0,29.14,2,New,2026-07,1,15,High
+2026-07-19 11:01:37.297297298,VEDA0739,Instagram,Internship,Data Science Internship,Student,Hyderabad,Technical Consultation,8,1,1,0,0,38.65,1,Closed,2026-07,1,16,High
+2026-07-19 17:30:48.648648648,VEDA0740,College Referral,IT Services,Website Development,Student,Bengaluru,Technical Consultation,1,0,1,0,0,38.11,5,Completed,2026-07,1,4,Low
+2026-07-20 00:00:00.000000000,VEDA0741,Instagram,IT Services,Digital Marketing,Individual,Chennai,Technical Consultation,11,0,1,1,49651,9.67,1,Closed,2026-07,2,14,Medium
+2026-07-20 06:29:11.351351352,VEDA0742,College Referral,Training,Data Analytics Training,Student,Mysuru,Service Pricing,2,1,0,0,0,32.23,1,New,2026-07,0,7,Low
+2026-07-20 12:58:22.702702702,VEDA0743,College Referral,Digital Services,Data Science Internship,Business,Other,Course Information,8,0,0,0,0,4.94,1,New,2026-07,0,8,Low
+2026-07-20 19:27:34.054054054,VEDA0744,Direct,IT Services,Website Development,Student,Chennai,Service Pricing,12,0,1,0,0,24.62,5,Completed,2026-07,1,15,High
+2026-07-21 01:56:45.405405406,VEDA0745,LinkedIn,Training,Data Science Internship,Student,Chennai,Technical Consultation,9,1,1,0,0,8.21,1,Contacted,2026-07,1,17,High
+2026-07-21 08:25:56.756756756,VEDA0746,College Referral,Digital Services,Data Science Internship,Student,Chennai,Service Pricing,4,0,1,0,0,20.28,4,Contacted,2026-07,1,7,Low
+2026-07-21 14:55:08.108108108,VEDA0747,Google Search,Internship,Web Development Internship,Student,Bengaluru,Technical Consultation,12,1,0,1,49791,40.07,4,Contacted,2026-07,2,17,High
+2026-07-21 21:24:19.459459460,VEDA0748,WhatsApp,Internship,Website Development,Student,Bengaluru,General Inquiry,10,0,0,0,0,47.39,5,In Progress,2026-07,0,10,Medium
+2026-07-22 03:53:30.810810810,VEDA0749,LinkedIn,Internship,Data Analytics Training,Startup,Mysuru,Course Information,11,1,1,0,0,15.6,2,Contacted,2026-07,1,19,High
+2026-07-22 10:22:42.162162162,VEDA0750,LinkedIn,Internship,SEO Services,Business,Pune,General Inquiry,10,0,1,0,0,25.77,4,In Progress,2026-07,1,13,Medium
+2026-07-22 16:51:53.513513514,VEDA0751,LinkedIn,Training,Web Development Internship,Student,Pune,Internship Application,14,1,0,0,0,24.79,3,In Progress,2026-07,0,19,High
+2026-07-22 23:21:04.864864866,VEDA0752,Direct,Digital Services,Data Science Internship,Individual,Pune,Service Pricing,9,0,1,1,5295,45.83,4,Contacted,2026-07,1,12,Medium
+2026-07-23 05:50:16.216216216,VEDA0753,College Referral,Internship,SEO Services,Startup,Other,Internship Application,4,0,1,0,0,23.23,3,Contacted,2026-07,1,7,Low
+2026-07-23 12:19:27.567567568,VEDA0754,Direct,Internship,Mobile App Development,Startup,Other,Service Pricing,10,1,1,1,43751,33.71,5,Completed,2026-07,2,18,High
+2026-07-23 18:48:38.918918920,VEDA0755,College Referral,Training,SEO Services,Student,Mysuru,General Inquiry,10,0,1,0,0,44.28,2,Completed,2026-07,1,13,Medium
+2026-07-24 01:17:50.270270270,VEDA0756,Direct,Digital Services,Data Science Internship,Student,Other,Technical Consultation,10,0,0,0,0,18.24,3,In Progress,2026-07,0,10,Medium
+2026-07-24 07:47:01.621621622,VEDA0757,Direct,Internship,Data Science Internship,Student,Pune,Technical Consultation,9,0,1,0,0,43.35,3,Completed,2026-07,1,12,Medium
+2026-07-24 14:16:12.972972974,VEDA0758,WhatsApp,Training,Digital Marketing,Startup,Pune,Service Pricing,11,1,1,0,0,44.08,4,In Progress,2026-07,1,19,High
+2026-07-24 20:45:24.324324324,VEDA0759,Google Search,Internship,Website Development,Startup,Chennai,Technical Consultation,7,0,0,1,10032,44.71,3,New,2026-07,0,7,Low
+2026-07-25 03:14:35.675675676,VEDA0760,Direct,Internship,Website Development,Student,Other,General Inquiry,2,0,1,0,0,13.35,5,In Progress,2026-07,1,5,Low
+2026-07-25 09:43:47.027027028,VEDA0761,WhatsApp,Digital Services,Web Development Internship,Student,Bengaluru,Technical Consultation,9,1,1,0,0,19.52,5,In Progress,2026-07,1,17,High
+2026-07-25 16:12:58.378378378,VEDA0762,Instagram,Digital Services,Data Analytics Training,Business,Bengaluru,General Inquiry,4,0,1,0,0,41.84,5,Completed,2026-07,1,7,Low
+2026-07-25 22:42:09.729729730,VEDA0763,Google Search,Internship,Web Development Internship,Startup,Chennai,Internship Application,8,1,1,0,0,17.56,4,New,2026-07,1,16,High
+2026-07-26 05:11:21.081081082,VEDA0764,Direct,Digital Services,Python Training,Business,Chennai,General Inquiry,14,1,0,1,27666,29.01,2,Closed,2026-07,2,19,High
+2026-07-26 11:40:32.432432432,VEDA0765,LinkedIn,IT Services,Data Science Internship,Startup,Chennai,Course Information,7,1,1,0,0,6.11,4,Closed,2026-07,1,15,High
+2026-07-26 18:09:43.783783784,VEDA0766,Instagram,Digital Services,SEO Services,Student,Bengaluru,Course Information,13,1,0,0,0,3.17,5,Closed,2026-07,0,18,High
+2026-07-27 00:38:55.135135136,VEDA0767,Instagram,Training,Mobile App Development,Individual,Pune,Course Information,7,1,1,1,23829,20.07,4,New,2026-07,2,15,High
+2026-07-27 07:08:06.486486486,VEDA0768,WhatsApp,Training,Data Science Internship,Individual,Chennai,Service Pricing,8,0,1,0,0,28.0,5,Contacted,2026-07,1,11,Medium
+2026-07-27 13:37:17.837837838,VEDA0769,Instagram,Training,Data Science Internship,Student,Mysuru,Service Pricing,1,1,1,0,0,19.15,1,New,2026-07,1,9,Low
+2026-07-27 20:06:29.189189190,VEDA0770,Google Search,IT Services,Web Development Internship,Individual,Chennai,Service Pricing,5,0,1,0,0,27.94,1,Completed,2026-07,1,8,Low
+2026-07-28 02:35:40.540540540,VEDA0771,Direct,Internship,Mobile App Development,Startup,Hyderabad,General Inquiry,2,0,1,0,0,24.97,3,In Progress,2026-07,1,5,Low
+2026-07-28 09:04:51.891891892,VEDA0772,Direct,Internship,Mobile App Development,Student,Chennai,Service Pricing,2,1,0,1,26714,33.07,2,In Progress,2026-07,2,7,Low
+2026-07-28 15:34:03.243243244,VEDA0773,LinkedIn,Internship,Mobile App Development,Startup,Bengaluru,Internship Application,1,0,1,0,0,31.35,1,Completed,2026-07,1,4,Low
+2026-07-28 22:03:14.594594596,VEDA0774,WhatsApp,IT Services,Web Development Internship,Individual,Other,Course Information,5,1,1,0,0,20.65,5,Completed,2026-07,1,13,Medium
+2026-07-29 04:32:25.945945948,VEDA0775,LinkedIn,Internship,Data Science Internship,Business,Chennai,General Inquiry,2,0,1,1,46987,20.69,4,In Progress,2026-07,2,5,Low
+2026-07-29 11:01:37.297297296,VEDA0776,Instagram,IT Services,Web Development Internship,Student,Other,Course Information,4,1,1,0,0,7.19,4,Contacted,2026-07,1,12,Medium
+2026-07-29 17:30:48.648648648,VEDA0777,LinkedIn,Digital Services,Website Development,Student,Hyderabad,Service Pricing,3,0,1,0,0,24.88,3,Contacted,2026-07,1,6,Low
+2026-07-30 00:00:00.000000000,VEDA0778,Google Search,Internship,Website Development,Individual,Mysuru,General Inquiry,3,1,0,0,0,28.39,4,Contacted,2026-07,0,8,Low
+2026-07-30 06:29:11.351351352,VEDA0779,Direct,IT Services,Web Development Internship,Student,Other,Technical Consultation,2,1,1,1,3808,23.13,1,Completed,2026-07,1,10,Medium
+2026-07-30 12:58:22.702702704,VEDA0780,Instagram,Training,Mobile App Development,Startup,Pune,Internship Application,13,1,0,0,0,15.97,4,In Progress,2026-07,0,18,High
+2026-07-30 19:27:34.054054056,VEDA0781,LinkedIn,Digital Services,Digital Marketing,Startup,Chennai,Service Pricing,6,0,1,0,0,34.78,1,In Progress,2026-07,1,9,Low
+2026-07-31 01:56:45.405405404,VEDA0782,WhatsApp,Internship,Data Science Internship,Student,Hyderabad,Service Pricing,2,0,0,0,0,4.05,1,In Progress,2026-07,0,2,Low
+2026-07-31 08:25:56.756756756,VEDA0783,Google Search,IT Services,Web Development Internship,Individual,Hyderabad,Internship Application,14,0,0,0,0,43.94,2,New,2026-07,0,14,Medium
+2026-07-31 14:55:08.108108108,VEDA0784,Google Search,Digital Services,Web Development Internship,Individual,Other,Internship Application,14,1,0,1,15669,1.48,3,New,2026-07,0,19,High
+2026-07-31 21:24:19.459459460,VEDA0785,LinkedIn,Digital Services,Web Development Internship,Student,Mysuru,Technical Consultation,8,1,1,0,0,46.21,5,Closed,2026-07,1,16,High
+2026-08-01 03:53:30.810810812,VEDA0786,Direct,IT Services,Digital Marketing,Business,Bengaluru,Service Pricing,8,0,1,0,0,22.46,1,New,2026-08,1,11,Medium
+2026-08-01 10:22:42.162162164,VEDA0787,LinkedIn,Training,Digital Marketing,Startup,Chennai,Service Pricing,13,1,0,0,0,20.1,3,Contacted,2026-08,0,18,High
+2026-08-01 16:51:53.513513512,VEDA0788,Instagram,IT Services,Python Training,Individual,Hyderabad,Course Information,14,1,0,0,0,12.68,5,Contacted,2026-08,0,19,High
+2026-08-01 23:21:04.864864864,VEDA0789,LinkedIn,Digital Services,Website Development,Startup,Mysuru,General Inquiry,12,0,1,1,45645,0.98,4,Contacted,2026-08,2,15,High
+2026-08-02 05:50:16.216216216,VEDA0790,Google Search,Training,SEO Services,Student,Pune,General Inquiry,5,1,0,0,0,13.55,3,Contacted,2026-08,0,10,Medium
+2026-08-02 12:19:27.567567568,VEDA0791,LinkedIn,Internship,Mobile App Development,Business,Hyderabad,Course Information,10,1,1,1,36224,5.7,3,Closed,2026-08,2,18,High
+2026-08-02 18:48:38.918918920,VEDA0792,Direct,Digital Services,Data Analytics Training,Individual,Mysuru,General Inquiry,7,0,0,0,0,31.84,3,Contacted,2026-08,0,7,Low
+2026-08-03 01:17:50.270270272,VEDA0793,WhatsApp,IT Services,Digital Marketing,Startup,Bengaluru,Internship Application,4,0,1,0,0,15.66,4,Completed,2026-08,1,7,Low
+2026-08-03 07:47:01.621621620,VEDA0794,College Referral,IT Services,SEO Services,Business,Bengaluru,General Inquiry,1,0,0,0,0,36.94,4,Completed,2026-08,0,1,Low
+2026-08-03 14:16:12.972972972,VEDA0795,LinkedIn,Internship,Digital Marketing,Student,Hyderabad,General Inquiry,11,1,1,0,0,10.33,3,Completed,2026-08,1,19,High
+2026-08-03 20:45:24.324324324,VEDA0796,Direct,IT Services,Mobile App Development,Startup,Hyderabad,Course Information,2,1,1,0,0,43.26,2,New,2026-08,1,10,Medium
+2026-08-04 03:14:35.675675676,VEDA0797,Direct,Training,Data Analytics Training,Student,Other,Technical Consultation,10,1,1,1,46403,25.34,1,In Progress,2026-08,2,18,High
+2026-08-04 09:43:47.027027028,VEDA0798,WhatsApp,IT Services,Python Training,Student,Chennai,General Inquiry,10,0,0,0,0,5.94,4,Closed,2026-08,0,10,Medium
+2026-08-04 16:12:58.378378380,VEDA0799,Google Search,Internship,Web Development Internship,Student,Mysuru,General Inquiry,4,0,1,0,0,19.54,2,Completed,2026-08,1,7,Low
+2026-08-04 22:42:09.729729728,VEDA0800,Direct,IT Services,Python Training,Business,Hyderabad,Technical Consultation,1,0,1,1,42881,10.32,4,Completed,2026-08,2,4,Low
+2026-08-05 05:11:21.081081080,VEDA0801,Direct,Digital Services,Digital Marketing,Business,Chennai,Course Information,13,0,0,1,14546,9.99,3,Contacted,2026-08,0,13,Medium
+2026-08-05 11:40:32.432432432,VEDA0802,Direct,Internship,Python Training,Startup,Other,Technical Consultation,8,1,0,0,0,24.55,2,Completed,2026-08,0,13,Medium
+2026-08-05 18:09:43.783783784,VEDA0803,Direct,Digital Services,SEO Services,Startup,Chennai,Course Information,9,1,1,0,0,32.41,5,Contacted,2026-08,1,17,High
+2026-08-06 00:38:55.135135136,VEDA0804,Instagram,Training,Data Science Internship,Individual,Hyderabad,Internship Application,4,1,0,0,0,43.8,1,Contacted,2026-08,0,9,Low
+2026-08-06 07:08:06.486486488,VEDA0805,Instagram,Digital Services,Digital Marketing,Business,Bengaluru,Course Information,10,1,1,1,9080,24.35,1,In Progress,2026-08,1,18,High
+2026-08-06 13:37:17.837837840,VEDA0806,Google Search,IT Services,Digital Marketing,Student,Mysuru,Internship Application,3,0,1,1,36886,46.38,4,New,2026-08,2,6,Low
+2026-08-06 20:06:29.189189188,VEDA0807,LinkedIn,Training,SEO Services,Student,Mysuru,Internship Application,2,0,1,1,24764,45.23,1,Contacted,2026-08,2,5,Low
+2026-08-07 02:35:40.540540540,VEDA0808,Direct,IT Services,Website Development,Student,Bengaluru,Course Information,5,0,1,1,7630,41.59,5,Contacted,2026-08,1,8,Low
+2026-08-07 09:04:51.891891892,VEDA0809,WhatsApp,Digital Services,Data Analytics Training,Startup,Hyderabad,Service Pricing,14,1,1,0,0,24.25,2,In Progress,2026-08,1,22,High
+2026-08-07 15:34:03.243243244,VEDA0810,LinkedIn,Training,Web Development Internship,Startup,Mysuru,Course Information,3,1,0,1,16701,7.19,2,Contacted,2026-08,0,8,Low
+2026-08-07 22:03:14.594594596,VEDA0811,WhatsApp,Internship,SEO Services,Student,Hyderabad,General Inquiry,10,0,1,0,0,10.85,3,Closed,2026-08,1,13,Medium
+2026-08-08 04:32:25.945945948,VEDA0812,LinkedIn,IT Services,Data Analytics Training,Student,Other,General Inquiry,7,0,0,0,0,31.26,2,New,2026-08,0,7,Low
+2026-08-08 11:01:37.297297296,VEDA0813,Google Search,IT Services,Mobile App Development,Startup,Hyderabad,Service Pricing,11,0,1,0,0,20.53,4,Closed,2026-08,1,14,Medium
+2026-08-08 17:30:48.648648648,VEDA0814,Direct,IT Services,Data Analytics Training,Student,Chennai,Internship Application,6,0,1,1,32749,7.47,5,Completed,2026-08,2,9,Low
+2026-08-09 00:00:00.000000000,VEDA0815,Direct,IT Services,Mobile App Development,Startup,Bengaluru,Service Pricing,1,0,0,1,32887,23.25,3,New,2026-08,2,1,Low
+2026-08-09 06:29:11.351351352,VEDA0816,College Referral,Training,SEO Services,Business,Hyderabad,General Inquiry,12,0,1,0,0,1.33,4,Completed,2026-08,1,15,High
+2026-08-09 12:58:22.702702704,VEDA0817,WhatsApp,IT Services,Digital Marketing,Student,Other,Service Pricing,8,0,0,1,9776,35.36,4,Contacted,2026-08,0,8,Low
+2026-08-09 19:27:34.054054056,VEDA0818,LinkedIn,Internship,Digital Marketing,Student,Pune,Course Information,2,1,1,1,16021,4.0,4,In Progress,2026-08,1,10,Medium
+2026-08-10 01:56:45.405405404,VEDA0819,LinkedIn,Training,Website Development,Startup,Bengaluru,Service Pricing,5,1,1,0,0,30.38,1,Closed,2026-08,1,13,Medium
+2026-08-10 08:25:56.756756756,VEDA0820,Instagram,Internship,SEO Services,Startup,Mysuru,Internship Application,9,0,1,0,0,38.17,4,Completed,2026-08,1,12,Medium
+2026-08-10 14:55:08.108108108,VEDA0821,College Referral,Internship,Mobile App Development,Individual,Chennai,Course Information,8,0,0,0,0,6.8,1,Contacted,2026-08,0,8,Low
+2026-08-10 21:24:19.459459460,VEDA0822,Instagram,Training,Data Analytics Training,Business,Mysuru,Technical Consultation,2,0,1,0,0,25.14,2,Closed,2026-08,1,5,Low
+2026-08-11 03:53:30.810810812,VEDA0823,Instagram,Training,Data Analytics Training,Student,Other,General Inquiry,9,0,1,0,0,37.51,1,Closed,2026-08,1,12,Medium
+2026-08-11 10:22:42.162162164,VEDA0824,Instagram,IT Services,Mobile App Development,Individual,Other,General Inquiry,5,0,0,0,0,12.88,4,Completed,2026-08,0,5,Low
+2026-08-11 16:51:53.513513512,VEDA0825,WhatsApp,Training,Python Training,Startup,Mysuru,Service Pricing,10,0,1,1,34305,8.24,5,Contacted,2026-08,2,13,Medium
+2026-08-11 23:21:04.864864864,VEDA0826,WhatsApp,Training,Website Development,Business,Bengaluru,Course Information,14,1,0,0,0,16.5,5,In Progress,2026-08,0,19,High
+2026-08-12 05:50:16.216216216,VEDA0827,Google Search,Internship,Data Science Internship,Student,Mysuru,Technical Consultation,6,1,1,1,30714,26.85,2,Completed,2026-08,2,14,Medium
+2026-08-12 12:19:27.567567568,VEDA0828,Google Search,Training,Digital Marketing,Startup,Hyderabad,Course Information,13,0,1,0,0,27.83,4,Closed,2026-08,1,16,High
+2026-08-12 18:48:38.918918920,VEDA0829,Instagram,Internship,Web Development Internship,Individual,Mysuru,General Inquiry,3,1,1,0,0,6.72,1,Closed,2026-08,1,11,Medium
+2026-08-13 01:17:50.270270272,VEDA0830,College Referral,Internship,Data Analytics Training,Student,Chennai,Course Information,13,0,1,0,0,22.23,5,New,2026-08,1,16,High
+2026-08-13 07:47:01.621621620,VEDA0831,LinkedIn,IT Services,Web Development Internship,Student,Chennai,Technical Consultation,3,0,1,0,0,13.24,3,Contacted,2026-08,1,6,Low
+2026-08-13 14:16:12.972972972,VEDA0832,WhatsApp,IT Services,Data Science Internship,Business,Pune,Service Pricing,10,1,1,1,44625,40.5,4,New,2026-08,2,18,High
+2026-08-13 20:45:24.324324324,VEDA0833,College Referral,IT Services,SEO Services,Student,Chennai,Internship Application,8,1,0,0,0,15.39,4,In Progress,2026-08,0,13,Medium
+2026-08-14 03:14:35.675675676,VEDA0834,Direct,Training,Web Development Internship,Student,Mysuru,Course Information,11,1,0,0,0,40.34,3,Completed,2026-08,0,16,High
+2026-08-14 09:43:47.027027028,VEDA0835,WhatsApp,Training,Data Science Internship,Student,Chennai,Internship Application,10,1,1,0,0,20.86,5,Closed,2026-08,1,18,High
+2026-08-14 16:12:58.378378380,VEDA0836,WhatsApp,Digital Services,Digital Marketing,Business,Bengaluru,General Inquiry,10,1,1,1,17569,35.01,3,Contacted,2026-08,1,18,High
+2026-08-14 22:42:09.729729728,VEDA0837,Google Search,Training,Mobile App Development,Individual,Chennai,Service Pricing,12,1,1,0,0,24.73,2,Closed,2026-08,1,20,High
+2026-08-15 05:11:21.081081080,VEDA0838,LinkedIn,Training,Python Training,Startup,Hyderabad,Service Pricing,2,1,0,0,0,30.04,1,New,2026-08,0,7,Low
+2026-08-15 11:40:32.432432432,VEDA0839,LinkedIn,Internship,Digital Marketing,Student,Bengaluru,Course Information,11,0,1,0,0,19.28,1,New,2026-08,1,14,Medium
+2026-08-15 18:09:43.783783784,VEDA0840,Direct,Internship,Data Analytics Training,Individual,Pune,Service Pricing,12,1,0,1,34529,36.99,5,Completed,2026-08,2,17,High
+2026-08-16 00:38:55.135135136,VEDA0841,Direct,Training,Data Science Internship,Individual,Hyderabad,Course Information,12,1,1,0,0,20.7,3,Contacted,2026-08,1,20,High
+2026-08-16 07:08:06.486486488,VEDA0842,WhatsApp,Training,Web Development Internship,Startup,Mysuru,Course Information,2,1,1,0,0,22.23,4,Contacted,2026-08,1,10,Medium
+2026-08-16 13:37:17.837837840,VEDA0843,Instagram,Training,Data Analytics Training,Business,Mysuru,Internship Application,13,0,0,0,0,25.09,4,Completed,2026-08,0,13,Medium
+2026-08-16 20:06:29.189189188,VEDA0844,Google Search,Training,Python Training,Student,Mysuru,Service Pricing,5,1,0,0,0,40.01,4,New,2026-08,0,10,Medium
+2026-08-17 02:35:40.540540540,VEDA0845,Google Search,IT Services,Mobile App Development,Individual,Hyderabad,Course Information,6,0,1,0,0,31.82,2,New,2026-08,1,9,Low
+2026-08-17 09:04:51.891891892,VEDA0846,WhatsApp,IT Services,SEO Services,Student,Hyderabad,Internship Application,12,0,0,0,0,17.09,2,New,2026-08,0,12,Medium
+2026-08-17 15:34:03.243243244,VEDA0847,College Referral,IT Services,Data Analytics Training,Individual,Hyderabad,Technical Consultation,2,0,1,0,0,32.34,4,Closed,2026-08,1,5,Low
+2026-08-17 22:03:14.594594596,VEDA0848,Instagram,IT Services,SEO Services,Student,Bengaluru,Internship Application,5,1,0,0,0,31.02,5,In Progress,2026-08,0,10,Medium
+2026-08-18 04:32:25.945945948,VEDA0849,WhatsApp,Digital Services,Data Science Internship,Student,Other,Internship Application,7,1,1,1,49348,44.72,2,New,2026-08,2,15,High
+2026-08-18 11:01:37.297297296,VEDA0850,Instagram,Internship,Python Training,Student,Bengaluru,Course Information,10,0,1,0,0,40.47,2,In Progress,2026-08,1,13,Medium
+2026-08-18 17:30:48.648648648,VEDA0851,Instagram,Internship,Web Development Internship,Individual,Mysuru,General Inquiry,10,0,1,1,41167,31.25,1,In Progress,2026-08,2,13,Medium
+2026-08-19 00:00:00.000000000,VEDA0852,Instagram,Internship,Python Training,Student,Other,General Inquiry,8,0,0,1,21229,16.72,1,Contacted,2026-08,0,8,Low
+2026-08-19 06:29:11.351351352,VEDA0853,WhatsApp,IT Services,Python Training,Startup,Chennai,General Inquiry,12,1,0,0,0,37.53,5,Completed,2026-08,0,17,High
+2026-08-19 12:58:22.702702704,VEDA0854,Google Search,Digital Services,Website Development,Student,Mysuru,Internship Application,7,0,1,1,22101,27.82,2,Closed,2026-08,2,10,Medium
+2026-08-19 19:27:34.054054056,VEDA0855,Google Search,Internship,Python Training,Student,Pune,Course Information,8,0,1,1,41391,47.3,2,In Progress,2026-08,2,11,Medium
+2026-08-20 01:56:45.405405404,VEDA0856,Instagram,Digital Services,Python Training,Startup,Bengaluru,Service Pricing,14,0,0,1,11327,12.26,3,Closed,2026-08,0,14,Medium
+2026-08-20 08:25:56.756756756,VEDA0857,College Referral,Internship,Digital Marketing,Student,Hyderabad,Internship Application,12,0,0,0,0,4.28,5,Contacted,2026-08,0,12,Medium
+2026-08-20 14:55:08.108108108,VEDA0858,LinkedIn,Digital Services,Data Analytics Training,Student,Bengaluru,Internship Application,9,0,1,0,0,3.82,5,New,2026-08,1,12,Medium
+2026-08-20 21:24:19.459459460,VEDA0859,WhatsApp,Training,Web Development Internship,Individual,Hyderabad,Course Information,5,1,1,0,0,30.9,3,In Progress,2026-08,1,13,Medium
+2026-08-21 03:53:30.810810812,VEDA0860,LinkedIn,Internship,Digital Marketing,Student,Other,Technical Consultation,13,0,0,1,35728,45.11,3,Completed,2026-08,2,13,Medium
+2026-08-21 10:22:42.162162164,VEDA0861,College Referral,Training,Digital Marketing,Student,Pune,Internship Application,5,1,0,0,0,0.59,1,Contacted,2026-08,0,10,Medium
+2026-08-21 16:51:53.513513512,VEDA0862,WhatsApp,Internship,Data Analytics Training,Student,Other,Technical Consultation,11,0,1,0,0,34.97,5,Closed,2026-08,1,14,Medium
+2026-08-21 23:21:04.864864864,VEDA0863,Instagram,Internship,Data Analytics Training,Business,Pune,Technical Consultation,10,0,1,0,0,31.71,5,New,2026-08,1,13,Medium
+2026-08-22 05:50:16.216216216,VEDA0864,Google Search,Internship,Data Science Internship,Individual,Bengaluru,General Inquiry,4,0,1,0,0,35.28,3,Closed,2026-08,1,7,Low
+2026-08-22 12:19:27.567567568,VEDA0865,LinkedIn,IT Services,Data Analytics Training,Individual,Hyderabad,Course Information,13,1,1,0,0,17.38,4,Completed,2026-08,1,21,High
+2026-08-22 18:48:38.918918920,VEDA0866,Direct,Training,Website Development,Individual,Other,Technical Consultation,9,1,0,0,0,39.47,4,In Progress,2026-08,0,14,Medium
+2026-08-23 01:17:50.270270272,VEDA0867,Direct,Internship,Website Development,Student,Pune,Course Information,5,1,0,0,0,2.62,1,Completed,2026-08,0,10,Medium
+2026-08-23 07:47:01.621621620,VEDA0868,College Referral,IT Services,Digital Marketing,Student,Mysuru,General Inquiry,14,1,0,1,27189,36.38,4,Closed,2026-08,2,19,High
+2026-08-23 14:16:12.972972972,VEDA0869,Instagram,IT Services,SEO Services,Startup,Mysuru,Course Information,2,0,1,0,0,13.19,4,Closed,2026-08,1,5,Low
+2026-08-23 20:45:24.324324324,VEDA0870,LinkedIn,Internship,Data Science Internship,Student,Other,Internship Application,10,1,1,1,17672,23.15,4,Completed,2026-08,1,18,High
+2026-08-24 03:14:35.675675676,VEDA0871,Instagram,Training,SEO Services,Student,Hyderabad,Technical Consultation,8,1,0,0,0,39.58,2,Completed,2026-08,0,13,Medium
+2026-08-24 09:43:47.027027028,VEDA0872,LinkedIn,Internship,SEO Services,Student,Other,Course Information,7,0,1,0,0,13.39,1,Completed,2026-08,1,10,Medium
+2026-08-24 16:12:58.378378380,VEDA0873,College Referral,Internship,Digital Marketing,Student,Bengaluru,Service Pricing,8,1,0,1,4060,9.3,3,New,2026-08,0,13,Medium
+2026-08-24 22:42:09.729729728,VEDA0874,College Referral,IT Services,Mobile App Development,Business,Pune,Course Information,12,0,1,1,14731,32.86,4,Closed,2026-08,1,15,High
+2026-08-25 05:11:21.081081080,VEDA0875,Direct,Internship,Digital Marketing,Student,Bengaluru,Technical Consultation,3,0,1,0,0,25.84,2,Contacted,2026-08,1,6,Low
+2026-08-25 11:40:32.432432432,VEDA0876,Instagram,Training,Web Development Internship,Individual,Mysuru,General Inquiry,4,0,0,1,21719,24.93,4,New,2026-08,0,4,Low
+2026-08-25 18:09:43.783783784,VEDA0877,WhatsApp,IT Services,Web Development Internship,Student,Pune,General Inquiry,5,0,0,1,48042,12.7,2,New,2026-08,2,5,Low
+2026-08-26 00:38:55.135135136,VEDA0878,Direct,Internship,Data Analytics Training,Business,Other,Technical Consultation,6,0,1,1,27325,2.16,1,New,2026-08,2,9,Low
+2026-08-26 07:08:06.486486488,VEDA0879,Instagram,Training,Data Analytics Training,Student,Bengaluru,Internship Application,1,0,1,0,0,19.99,4,Contacted,2026-08,1,4,Low
+2026-08-26 13:37:17.837837840,VEDA0880,Direct,Internship,Mobile App Development,Student,Chennai,Internship Application,4,0,1,0,0,5.56,2,Completed,2026-08,1,7,Low
+2026-08-26 20:06:29.189189188,VEDA0881,WhatsApp,Digital Services,Data Analytics Training,Startup,Hyderabad,General Inquiry,11,0,1,0,0,43.53,5,Closed,2026-08,1,14,Medium
+2026-08-27 02:35:40.540540540,VEDA0882,Google Search,Training,Web Development Internship,Startup,Hyderabad,General Inquiry,12,1,1,0,0,2.46,5,In Progress,2026-08,1,20,High
+2026-08-27 09:04:51.891891892,VEDA0883,Google Search,IT Services,SEO Services,Student,Chennai,Technical Consultation,10,1,0,0,0,21.0,2,In Progress,2026-08,0,15,High
+2026-08-27 15:34:03.243243244,VEDA0884,Google Search,Training,Digital Marketing,Student,Mysuru,Internship Application,13,0,0,1,26653,2.98,4,Closed,2026-08,0,13,Medium
+2026-08-27 22:03:14.594594596,VEDA0885,Google Search,Internship,Python Training,Student,Pune,General Inquiry,5,0,1,0,0,5.04,4,Contacted,2026-08,1,8,Low
+2026-08-28 04:32:25.945945948,VEDA0886,LinkedIn,IT Services,Website Development,Student,Hyderabad,Internship Application,7,0,0,0,0,31.8,1,In Progress,2026-08,0,7,Low
+2026-08-28 11:01:37.297297296,VEDA0887,Google Search,Digital Services,Python Training,Student,Chennai,General Inquiry,13,1,1,0,0,31.24,1,New,2026-08,1,21,High
+2026-08-28 17:30:48.648648648,VEDA0888,WhatsApp,IT Services,Python Training,Student,Other,Course Information,5,0,0,1,48148,2.07,3,In Progress,2026-08,2,5,Low
+2026-08-29 00:00:00.000000000,VEDA0889,College Referral,IT Services,Web Development Internship,Student,Chennai,Service Pricing,13,0,0,0,0,0.55,1,Closed,2026-08,0,13,Medium
+2026-08-29 06:29:11.351351352,VEDA0890,College Referral,Digital Services,Python Training,Student,Mysuru,Course Information,13,0,0,1,23725,4.24,4,New,2026-08,0,13,Medium
+2026-08-29 12:58:22.702702704,VEDA0891,LinkedIn,Internship,Digital Marketing,Individual,Mysuru,General Inquiry,1,1,1,0,0,36.74,3,In Progress,2026-08,1,9,Low
+2026-08-29 19:27:34.054054056,VEDA0892,Google Search,Internship,Mobile App Development,Business,Bengaluru,Service Pricing,11,0,0,1,48999,28.27,1,Closed,2026-08,2,11,Medium
+2026-08-30 01:56:45.405405404,VEDA0893,Google Search,IT Services,Data Science Internship,Individual,Hyderabad,Service Pricing,7,0,1,1,12698,2.31,2,Contacted,2026-08,1,10,Medium
+2026-08-30 08:25:56.756756756,VEDA0894,Google Search,Training,Data Analytics Training,Student,Bengaluru,General Inquiry,8,0,1,0,0,23.68,5,Closed,2026-08,1,11,Medium
+2026-08-30 14:55:08.108108108,VEDA0895,Direct,Digital Services,Data Science Internship,Student,Chennai,General Inquiry,13,0,1,1,22175,34.32,1,Contacted,2026-08,2,16,High
+2026-08-30 21:24:19.459459460,VEDA0896,Instagram,Digital Services,SEO Services,Business,Pune,Internship Application,7,1,1,0,0,41.78,1,New,2026-08,1,15,High
+2026-08-31 03:53:30.810810812,VEDA0897,Direct,Training,Digital Marketing,Student,Pune,General Inquiry,11,1,0,0,0,44.87,2,Closed,2026-08,0,16,High
+2026-08-31 10:22:42.162162164,VEDA0898,Instagram,Internship,Digital Marketing,Student,Mysuru,Technical Consultation,14,1,1,0,0,16.05,4,Completed,2026-08,1,22,High
+2026-08-31 16:51:53.513513512,VEDA0899,Google Search,IT Services,Website Development,Individual,Pune,General Inquiry,13,1,0,0,0,6.95,2,Completed,2026-08,0,18,High
+2026-08-31 23:21:04.864864864,VEDA0900,Google Search,Internship,Digital Marketing,Individual,Pune,Technical Consultation,4,0,1,1,33126,11.75,1,Completed,2026-08,2,7,Low
+2026-09-01 05:50:16.216216216,VEDA0901,Direct,Digital Services,Data Analytics Training,Individual,Pune,General Inquiry,8,1,0,0,0,37.37,4,Completed,2026-09,0,13,Medium
+2026-09-01 12:19:27.567567568,VEDA0902,Direct,Training,Digital Marketing,Student,Chennai,Internship Application,5,1,1,0,0,46.65,3,Completed,2026-09,1,13,Medium
+2026-09-01 18:48:38.918918920,VEDA0903,Instagram,IT Services,Python Training,Student,Pune,Technical Consultation,10,0,1,0,0,22.65,1,Contacted,2026-09,1,13,Medium
+2026-09-02 01:17:50.270270272,VEDA0904,College Referral,Internship,Website Development,Business,Other,Course Information,9,1,1,0,0,15.0,2,Closed,2026-09,1,17,High
+2026-09-02 07:47:01.621621620,VEDA0905,Instagram,IT Services,Data Analytics Training,Student,Pune,Technical Consultation,12,0,1,0,0,20.89,3,New,2026-09,1,15,High
+2026-09-02 14:16:12.972972972,VEDA0906,Direct,Training,Mobile App Development,Individual,Pune,Internship Application,12,0,1,1,41551,14.98,5,Completed,2026-09,2,15,High
+2026-09-02 20:45:24.324324324,VEDA0907,WhatsApp,Training,Mobile App Development,Startup,Bengaluru,Technical Consultation,10,1,0,0,0,12.68,3,Completed,2026-09,0,15,High
+2026-09-03 03:14:35.675675676,VEDA0908,Direct,Internship,Mobile App Development,Individual,Chennai,General Inquiry,5,1,1,0,0,28.7,2,New,2026-09,1,13,Medium
+2026-09-03 09:43:47.027027028,VEDA0909,WhatsApp,IT Services,Mobile App Development,Student,Mysuru,General Inquiry,1,1,0,0,0,1.25,3,New,2026-09,0,6,Low
+2026-09-03 16:12:58.378378380,VEDA0910,LinkedIn,Digital Services,Python Training,Student,Bengaluru,Internship Application,12,0,1,0,0,12.83,2,Completed,2026-09,1,15,High
+2026-09-03 22:42:09.729729728,VEDA0911,Direct,Internship,Digital Marketing,Individual,Hyderabad,Service Pricing,9,1,1,0,0,31.92,1,Contacted,2026-09,1,17,High
+2026-09-04 05:11:21.081081080,VEDA0912,LinkedIn,Internship,Data Science Internship,Business,Chennai,General Inquiry,12,0,1,1,17508,2.02,4,New,2026-09,1,15,High
+2026-09-04 11:40:32.432432432,VEDA0913,College Referral,Internship,Data Analytics Training,Business,Other,Course Information,5,0,1,0,0,4.45,5,Closed,2026-09,1,8,Low
+2026-09-04 18:09:43.783783784,VEDA0914,Instagram,IT Services,Python Training,Student,Chennai,Internship Application,6,1,1,0,0,14.44,4,Closed,2026-09,1,14,Medium
+2026-09-05 00:38:55.135135136,VEDA0915,WhatsApp,IT Services,Mobile App Development,Student,Hyderabad,Technical Consultation,4,1,1,0,0,42.2,4,Contacted,2026-09,1,12,Medium
+2026-09-05 07:08:06.486486488,VEDA0916,Instagram,Training,SEO Services,Business,Hyderabad,Technical Consultation,6,0,0,0,0,36.83,4,In Progress,2026-09,0,6,Low
+2026-09-05 13:37:17.837837840,VEDA0917,LinkedIn,Internship,Digital Marketing,Startup,Hyderabad,Course Information,12,1,1,0,0,1.55,2,Contacted,2026-09,1,20,High
+2026-09-05 20:06:29.189189188,VEDA0918,WhatsApp,Training,Data Science Internship,Business,Mysuru,General Inquiry,8,0,1,0,0,24.33,2,Completed,2026-09,1,11,Medium
+2026-09-06 02:35:40.540540540,VEDA0919,Instagram,Training,SEO Services,Student,Pune,Internship Application,3,0,1,0,0,13.55,5,In Progress,2026-09,1,6,Low
+2026-09-06 09:04:51.891891892,VEDA0920,Direct,Training,Website Development,Individual,Chennai,Course Information,5,0,1,1,41617,31.31,2,Completed,2026-09,2,8,Low
+2026-09-06 15:34:03.243243244,VEDA0921,Google Search,Digital Services,SEO Services,Startup,Pune,General Inquiry,2,1,0,0,0,34.77,2,Closed,2026-09,0,7,Low
+2026-09-06 22:03:14.594594596,VEDA0922,LinkedIn,Internship,Website Development,Individual,Pune,Internship Application,14,0,0,0,0,41.49,2,New,2026-09,0,14,Medium
+2026-09-07 04:32:25.945945948,VEDA0923,Instagram,IT Services,Website Development,Student,Other,Technical Consultation,2,1,1,0,0,23.08,2,Completed,2026-09,1,10,Medium
+2026-09-07 11:01:37.297297296,VEDA0924,LinkedIn,Training,Mobile App Development,Student,Hyderabad,Internship Application,13,0,0,0,0,47.74,1,Closed,2026-09,0,13,Medium
+2026-09-07 17:30:48.648648648,VEDA0925,LinkedIn,Training,Website Development,Individual,Mysuru,Service Pricing,7,1,0,1,22140,47.05,5,Contacted,2026-09,0,12,Medium
+2026-09-08 00:00:00.000000000,VEDA0926,WhatsApp,IT Services,Web Development Internship,Student,Other,Internship Application,10,0,1,0,0,42.4,2,Completed,2026-09,1,13,Medium
+2026-09-08 06:29:11.351351352,VEDA0927,WhatsApp,IT Services,Data Analytics Training,Student,Bengaluru,Service Pricing,13,1,1,0,0,27.81,5,Closed,2026-09,1,21,High
+2026-09-08 12:58:22.702702704,VEDA0928,Google Search,Digital Services,Data Analytics Training,Business,Mysuru,Internship Application,10,0,1,0,0,19.41,3,New,2026-09,1,13,Medium
+2026-09-08 19:27:34.054054056,VEDA0929,Direct,Internship,Mobile App Development,Student,Pune,Service Pricing,14,1,0,1,22845,17.81,1,Completed,2026-09,0,19,High
+2026-09-09 01:56:45.405405404,VEDA0930,LinkedIn,Internship,Web Development Internship,Startup,Mysuru,Technical Consultation,11,1,1,0,0,1.08,2,Closed,2026-09,1,19,High
+2026-09-09 08:25:56.756756756,VEDA0931,Instagram,IT Services,SEO Services,Student,Hyderabad,General Inquiry,10,1,0,0,0,12.34,1,Completed,2026-09,0,15,High
+2026-09-09 14:55:08.108108108,VEDA0932,College Referral,Training,Python Training,Individual,Bengaluru,Service Pricing,6,0,1,0,0,34.64,1,New,2026-09,1,9,Low
+2026-09-09 21:24:19.459459460,VEDA0933,LinkedIn,Internship,SEO Services,Business,Hyderabad,Service Pricing,4,1,0,0,0,29.17,3,Completed,2026-09,0,9,Low
+2026-09-10 03:53:30.810810812,VEDA0934,LinkedIn,Internship,Digital Marketing,Student,Bengaluru,Technical Consultation,5,0,1,0,0,44.03,5,Completed,2026-09,1,8,Low
+2026-09-10 10:22:42.162162164,VEDA0935,Google Search,Internship,Python Training,Student,Other,Service Pricing,1,1,1,1,7189,2.88,1,Closed,2026-09,1,9,Low
+2026-09-10 16:51:53.513513512,VEDA0936,Direct,Digital Services,Website Development,Student,Pune,Course Information,7,1,1,1,29039,7.88,4,In Progress,2026-09,2,15,High
+2026-09-10 23:21:04.864864864,VEDA0937,College Referral,Internship,Data Science Internship,Student,Bengaluru,Technical Consultation,8,0,1,0,0,37.99,3,Completed,2026-09,1,11,Medium
+2026-09-11 05:50:16.216216216,VEDA0938,WhatsApp,Internship,Python Training,Startup,Bengaluru,Course Information,9,0,1,0,0,17.53,4,In Progress,2026-09,1,12,Medium
+2026-09-11 12:19:27.567567568,VEDA0939,WhatsApp,Internship,Data Science Internship,Business,Bengaluru,Technical Consultation,8,0,0,1,8614,6.12,3,Contacted,2026-09,0,8,Low
+2026-09-11 18:48:38.918918920,VEDA0940,Instagram,Training,Data Analytics Training,Student,Mysuru,Service Pricing,5,1,1,0,0,47.83,4,Completed,2026-09,1,13,Medium
+2026-09-12 01:17:50.270270272,VEDA0941,College Referral,Internship,Data Science Internship,Student,Other,Course Information,3,1,0,1,22224,37.89,4,In Progress,2026-09,0,8,Low
+2026-09-12 07:47:01.621621620,VEDA0942,WhatsApp,Training,Data Analytics Training,Student,Mysuru,Service Pricing,10,0,1,0,0,19.92,1,Contacted,2026-09,1,13,Medium
+2026-09-12 14:16:12.972972972,VEDA0943,Instagram,Internship,Web Development Internship,Startup,Pune,Technical Consultation,11,0,1,0,0,39.61,1,Closed,2026-09,1,14,Medium
+2026-09-12 20:45:24.324324324,VEDA0944,Direct,IT Services,Web Development Internship,Student,Bengaluru,Service Pricing,9,0,0,0,0,32.83,3,Completed,2026-09,0,9,Low
+2026-09-13 03:14:35.675675676,VEDA0945,Instagram,Internship,Mobile App Development,Individual,Other,Course Information,6,0,1,0,0,38.02,5,Closed,2026-09,1,9,Low
+2026-09-13 09:43:47.027027028,VEDA0946,WhatsApp,Training,Mobile App Development,Individual,Other,Course Information,5,0,1,0,0,39.22,1,Contacted,2026-09,1,8,Low
+2026-09-13 16:12:58.378378380,VEDA0947,Google Search,Digital Services,Website Development,Individual,Chennai,Service Pricing,13,1,0,1,37725,4.52,1,Closed,2026-09,2,18,High
+2026-09-13 22:42:09.729729728,VEDA0948,Google Search,IT Services,Python Training,Student,Pune,Internship Application,3,0,1,1,31203,30.09,2,Closed,2026-09,2,6,Low
+2026-09-14 05:11:21.081081080,VEDA0949,Google Search,Training,Website Development,Startup,Other,Technical Consultation,6,1,1,0,0,0.82,1,New,2026-09,1,14,Medium
+2026-09-14 11:40:32.432432432,VEDA0950,WhatsApp,Internship,Data Analytics Training,Student,Bengaluru,Technical Consultation,3,1,1,0,0,2.56,5,Contacted,2026-09,1,11,Medium
+2026-09-14 18:09:43.783783784,VEDA0951,Google Search,Internship,Website Development,Student,Bengaluru,Service Pricing,10,0,1,0,0,43.44,2,Closed,2026-09,1,13,Medium
+2026-09-15 00:38:55.135135136,VEDA0952,College Referral,IT Services,Data Science Internship,Business,Other,Internship Application,12,1,0,1,48700,25.56,4,In Progress,2026-09,2,17,High
+2026-09-15 07:08:06.486486488,VEDA0953,Direct,Digital Services,Data Analytics Training,Startup,Mysuru,Course Information,6,0,1,0,0,35.46,4,Contacted,2026-09,1,9,Low
+2026-09-15 13:37:17.837837840,VEDA0954,Instagram,IT Services,Mobile App Development,Student,Pune,General Inquiry,4,0,0,0,0,40.33,2,New,2026-09,0,4,Low
+2026-09-15 20:06:29.189189188,VEDA0955,Instagram,Training,Web Development Internship,Student,Bengaluru,General Inquiry,2,0,0,0,0,45.61,2,Completed,2026-09,0,2,Low
+2026-09-16 02:35:40.540540540,VEDA0956,WhatsApp,IT Services,Mobile App Development,Student,Other,Service Pricing,8,0,1,0,0,41.79,2,Closed,2026-09,1,11,Medium
+2026-09-16 09:04:51.891891892,VEDA0957,Google Search,Training,Python Training,Student,Bengaluru,Internship Application,4,0,1,1,7998,23.46,3,In Progress,2026-09,1,7,Low
+2026-09-16 15:34:03.243243244,VEDA0958,Google Search,Internship,Data Analytics Training,Student,Other,Internship Application,9,0,1,0,0,16.46,5,New,2026-09,1,12,Medium
+2026-09-16 22:03:14.594594596,VEDA0959,LinkedIn,Training,Data Analytics Training,Student,Pune,Technical Consultation,7,0,0,0,0,7.84,5,Contacted,2026-09,0,7,Low
+2026-09-17 04:32:25.945945948,VEDA0960,Direct,Digital Services,Data Science Internship,Student,Other,Course Information,12,0,0,0,0,19.52,4,Closed,2026-09,0,12,Medium
+2026-09-17 11:01:37.297297296,VEDA0961,College Referral,Internship,Python Training,Startup,Chennai,Internship Application,2,0,0,0,0,17.91,4,New,2026-09,0,2,Low
+2026-09-17 17:30:48.648648648,VEDA0962,Instagram,IT Services,Web Development Internship,Individual,Other,General Inquiry,4,0,1,0,0,27.08,4,New,2026-09,1,7,Low
+2026-09-18 00:00:00.000000000,VEDA0963,LinkedIn,Internship,SEO Services,Individual,Other,Course Information,5,0,0,0,0,32.11,1,In Progress,2026-09,0,5,Low
+2026-09-18 06:29:11.351351352,VEDA0964,LinkedIn,Training,Data Analytics Training,Student,Pune,Course Information,3,0,1,0,0,46.97,4,Completed,2026-09,1,6,Low
+2026-09-18 12:58:22.702702704,VEDA0965,WhatsApp,Internship,Data Analytics Training,Business,Other,Service Pricing,9,1,1,0,0,35.1,2,Completed,2026-09,1,17,High
+2026-09-18 19:27:34.054054056,VEDA0966,Instagram,Training,Data Science Internship,Startup,Pune,Internship Application,13,0,1,0,0,31.08,4,Completed,2026-09,1,16,High
+2026-09-19 01:56:45.405405404,VEDA0967,WhatsApp,IT Services,Website Development,Startup,Chennai,Service Pricing,5,1,1,0,0,16.42,2,Contacted,2026-09,1,13,Medium
+2026-09-19 08:25:56.756756756,VEDA0968,College Referral,Internship,Digital Marketing,Startup,Pune,Internship Application,2,0,0,1,44246,2.14,3,New,2026-09,2,2,Low
+2026-09-19 14:55:08.108108108,VEDA0969,LinkedIn,IT Services,Web Development Internship,Business,Bengaluru,Technical Consultation,11,1,0,0,0,14.19,1,Contacted,2026-09,0,16,High
+2026-09-19 21:24:19.459459460,VEDA0970,LinkedIn,IT Services,Mobile App Development,Individual,Pune,Service Pricing,3,0,1,0,0,37.0,1,New,2026-09,1,6,Low
+2026-09-20 03:53:30.810810812,VEDA0971,Direct,Digital Services,Python Training,Student,Chennai,Service Pricing,14,1,0,0,0,10.25,5,In Progress,2026-09,0,19,High
+2026-09-20 10:22:42.162162164,VEDA0972,College Referral,Internship,Data Analytics Training,Individual,Hyderabad,General Inquiry,9,1,1,0,0,34.33,3,In Progress,2026-09,1,17,High
+2026-09-20 16:51:53.513513512,VEDA0973,LinkedIn,Training,Data Analytics Training,Startup,Other,Service Pricing,7,0,1,0,0,28.04,2,Contacted,2026-09,1,10,Medium
+2026-09-20 23:21:04.864864864,VEDA0974,College Referral,Internship,Mobile App Development,Startup,Pune,Internship Application,2,1,1,1,48904,8.66,3,Contacted,2026-09,2,10,Medium
+2026-09-21 05:50:16.216216216,VEDA0975,Instagram,Digital Services,Web Development Internship,Individual,Other,General Inquiry,9,0,0,0,0,12.93,1,In Progress,2026-09,0,9,Low
+2026-09-21 12:19:27.567567568,VEDA0976,Google Search,Digital Services,Digital Marketing,Student,Mysuru,Service Pricing,14,0,1,0,0,24.07,2,Closed,2026-09,1,17,High
+2026-09-21 18:48:38.918918920,VEDA0977,LinkedIn,Training,Website Development,Student,Bengaluru,Service Pricing,4,1,0,1,17206,20.37,3,Completed,2026-09,0,9,Low
+2026-09-22 01:17:50.270270272,VEDA0978,Direct,Digital Services,Data Analytics Training,Business,Bengaluru,Technical Consultation,13,1,1,0,0,37.48,1,Completed,2026-09,1,21,High
+2026-09-22 07:47:01.621621620,VEDA0979,Instagram,Training,Digital Marketing,Individual,Mysuru,Service Pricing,9,0,1,1,44563,35.38,2,In Progress,2026-09,2,12,Medium
+2026-09-22 14:16:12.972972972,VEDA0980,College Referral,IT Services,Web Development Internship,Individual,Mysuru,Course Information,13,0,1,0,0,27.79,2,Completed,2026-09,1,16,High
+2026-09-22 20:45:24.324324324,VEDA0981,WhatsApp,Internship,Mobile App Development,Student,Pune,General Inquiry,2,1,1,1,42335,39.56,1,Closed,2026-09,2,10,Medium
+2026-09-23 03:14:35.675675676,VEDA0982,Instagram,IT Services,Data Science Internship,Student,Mysuru,Course Information,12,1,1,1,9933,27.23,2,Closed,2026-09,1,20,High
+2026-09-23 09:43:47.027027028,VEDA0983,LinkedIn,Internship,Website Development,Business,Hyderabad,General Inquiry,10,1,1,1,26816,46.31,1,New,2026-09,2,18,High
+2026-09-23 16:12:58.378378380,VEDA0984,College Referral,Digital Services,Python Training,Individual,Other,Technical Consultation,12,1,1,1,16619,10.82,4,Contacted,2026-09,1,20,High
+2026-09-23 22:42:09.729729728,VEDA0985,Google Search,IT Services,Data Analytics Training,Startup,Other,Service Pricing,4,0,0,1,38687,34.42,4,Completed,2026-09,2,4,Low
+2026-09-24 05:11:21.081081080,VEDA0986,Instagram,IT Services,Web Development Internship,Student,Chennai,Service Pricing,5,1,1,1,27943,18.07,2,Closed,2026-09,2,13,Medium
+2026-09-24 11:40:32.432432432,VEDA0987,LinkedIn,Internship,Data Science Internship,Individual,Mysuru,Service Pricing,2,0,1,0,0,13.75,2,Contacted,2026-09,1,5,Low
+2026-09-24 18:09:43.783783784,VEDA0988,Direct,Internship,Python Training,Student,Mysuru,General Inquiry,10,0,0,0,0,9.07,1,Contacted,2026-09,0,10,Medium
+2026-09-25 00:38:55.135135136,VEDA0989,WhatsApp,Internship,SEO Services,Startup,Hyderabad,Service Pricing,1,0,0,0,0,26.74,2,New,2026-09,0,1,Low
+2026-09-25 07:08:06.486486488,VEDA0990,College Referral,Training,Web Development Internship,Student,Bengaluru,Course Information,7,1,0,1,26143,10.73,5,Contacted,2026-09,0,12,Medium
+2026-09-25 13:37:17.837837840,VEDA0991,Instagram,Internship,Web Development Internship,Student,Bengaluru,Service Pricing,10,0,0,1,33747,10.02,4,Contacted,2026-09,2,10,Medium
+2026-09-25 20:06:29.189189188,VEDA0992,Instagram,Digital Services,Python Training,Individual,Other,Technical Consultation,1,1,1,1,48334,47.55,2,In Progress,2026-09,2,9,Low
+2026-09-26 02:35:40.540540540,VEDA0993,Google Search,Training,Data Science Internship,Business,Other,Course Information,11,0,1,1,34651,38.58,2,New,2026-09,2,14,Medium
+2026-09-26 09:04:51.891891892,VEDA0994,Google Search,Internship,SEO Services,Student,Pune,Service Pricing,11,0,1,0,0,36.04,3,New,2026-09,1,14,Medium
+2026-09-26 15:34:03.243243244,VEDA0995,Direct,Training,Digital Marketing,Startup,Hyderabad,Service Pricing,8,1,1,0,0,38.22,2,Completed,2026-09,1,16,High
+2026-09-26 22:03:14.594594596,VEDA0996,WhatsApp,Training,Digital Marketing,Student,Chennai,Internship Application,3,0,1,0,0,46.52,5,Contacted,2026-09,1,6,Low
+2026-09-27 04:32:25.945945948,VEDA0997,Direct,IT Services,Mobile App Development,Student,Chennai,General Inquiry,14,0,0,0,0,27.73,4,Completed,2026-09,0,14,Medium
+2026-09-27 11:01:37.297297296,VEDA0998,LinkedIn,Training,Data Science Internship,Student,Hyderabad,Course Information,10,0,1,0,0,10.96,3,Closed,2026-09,1,13,Medium
+2026-09-27 17:30:48.648648648,VEDA0999,LinkedIn,Digital Services,Website Development,Student,Chennai,Internship Application,6,1,1,1,19452,41.45,1,Contacted,2026-09,2,14,Medium
+2026-09-28 00:00:00.000000000,VEDA1000,Direct,Training,Data Analytics Training,Individual,Bengaluru,Technical Consultation,7,0,1,1,9120,35.78,1,Closed,2026-09,1,10,Medium
