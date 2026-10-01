@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Location,Visitor_Source,Business_Area,Service,Inquiry_Type,Engagement_Score,Website_Visits,Applications,Training_Hours,Service_Requests,Satisfaction_Score,Revenue,Inquiry,Converted,Cost,Profit,Engagement_Level,Customer_Segment
+1001,46,Male,Other,Instagram,Digital Services,IT Support,Internship Inquiry,73,7,0,16,4,1,3131,1,1,14990,-11859,High,2
+1002,32,Male,Hyderabad,YouTube,Digital Services,Software Development,Service Inquiry,86,10,3,97,6,5,18405,1,1,1849,16556,High,0
+1003,25,Male,Mumbai,Instagram,Digital Services,Digital Marketing,Technical Support,25,11,4,38,6,9,19556,1,0,7900,11656,Low,0
+1004,38,Female,Delhi,Instagram,Digital Services,Digital Marketing,Course Inquiry,77,6,0,70,2,7,11870,1,1,11611,259,High,3
+1005,36,Female,Chennai,Referral,Internship,Cloud Computing,Service Inquiry,89,6,2,53,6,6,19221,1,1,7100,12121,High,0
+1006,40,Male,Mumbai,LinkedIn,Internship,Cloud Computing,Technical Support,72,11,0,98,7,6,23852,1,1,4000,19852,High,0
+1007,28,Male,Mumbai,Referral,Digital Services,Cyber Security,Course Inquiry,85,9,1,93,2,7,17512,1,1,2678,14834,High,1
+1008,28,Male,Bengaluru,Direct,Training,Cyber Security,Service Inquiry,77,14,0,75,5,1,24046,1,1,12459,11587,High,0
+1009,41,Female,Other,Direct,Training,IT Support,Internship Inquiry,21,2,2,34,6,4,3179,0,0,10167,-6988,Low,2
+1010,53,Male,Chennai,Direct,Internship,Web Development,Internship Inquiry,95,4,3,10,0,1,22150,1,0,10358,11792,High,3
+1011,41,Male,Pune,LinkedIn,Training,AI & ML,Internship Inquiry,41,5,0,60,3,6,4922,1,0,7254,-2332,Medium,2
+1012,20,Female,Delhi,Instagram,Internship,IT Support,Technical Support,56,1,0,43,1,4,7963,1,0,6259,1704,Medium,3
+1013,39,Male,Chennai,YouTube,Software Services,AI & ML,Internship Inquiry,39,8,0,67,7,1,10113,0,0,10159,-46,Low,2
+1014,19,Female,Pune,Instagram,Internship,Cloud Computing,General Inquiry,43,8,0,24,3,9,18010,0,0,12207,5803,Medium,3
+1015,41,Male,Mumbai,YouTube,IT Services,Digital Marketing,Course Inquiry,84,6,2,47,3,4,2280,0,0,8633,-6353,High,2
+1016,47,Male,Delhi,Referral,Internship,Cloud Computing,Technical Support,84,12,4,31,4,6,9924,0,0,13189,-3265,High,1
+1017,19,Male,Pune,YouTube,Digital Services,Digital Marketing,Internship Inquiry,100,5,4,83,7,7,7071,1,1,11341,-4270,High,2
+1018,38,Female,Hyderabad,Instagram,Training,Cyber Security,Course Inquiry,20,8,0,94,7,8,1325,1,0,13228,-11903,Low,2
+1019,50,Female,Pune,Google,Software Services,IT Support,Service Inquiry,22,3,2,3,2,9,11655,0,0,6409,5246,Low,3
+1020,29,Female,Bengaluru,LinkedIn,Software Services,Cyber Security,Internship Inquiry,65,3,2,37,4,9,24160,0,0,7315,16845,Medium,3
+1021,39,Male,Other,Google,Training,Digital Marketing,Course Inquiry,74,2,0,62,5,8,2895,1,0,14913,-12018,High,2
+1022,42,Female,Mumbai,Direct,Software Services,Cloud Computing,General Inquiry,94,5,1,46,1,10,4645,0,0,14923,-10278,High,1
+1023,44,Male,Pune,Instagram,Software Services,Cyber Security,Service Inquiry,83,3,0,0,5,3,23943,1,1,14302,9641,High,0
+1024,45,Male,Other,Google,Digital Services,Data Science,General Inquiry,64,3,1,2,0,2,16279,0,0,13268,3011,Medium,3
+1025,33,Female,Mysuru,Google,Digital Services,AI & ML,Course Inquiry,45,6,0,100,1,5,5992,0,0,2456,3536,Medium,1
+1026,32,Male,Mysuru,YouTube,Internship,Software Development,General Inquiry,96,8,1,85,4,1,7611,0,0,12503,-4892,High,2
+1027,20,Male,Other,YouTube,IT Services,Digital Marketing,Course Inquiry,84,2,1,61,6,3,13587,0,0,3568,10019,High,2
+1028,54,Male,Other,Instagram,Internship,Digital Marketing,Course Inquiry,43,4,0,63,6,1,10484,1,0,13473,-2989,Medium,2
+1029,24,Male,Bengaluru,Google,Internship,Data Science,General Inquiry,93,11,1,16,4,3,7292,0,0,7587,-295,High,1
+1030,38,Male,Hyderabad,Instagram,Software Services,IT Support,Course Inquiry,54,7,3,77,5,4,20435,1,0,8758,11677,Medium,0
+1031,26,Female,Mumbai,Instagram,Training,IT Support,Internship Inquiry,43,1,4,61,4,7,8211,1,0,3027,5184,Medium,2
+1032,35,Male,Chennai,YouTube,Digital Services,IT Support,Course Inquiry,47,1,2,34,4,5,20512,0,0,9644,10868,Medium,3
+1033,21,Female,Bengaluru,YouTube,Digital Services,Software Development,Technical Support,99,12,1,12,3,5,2065,0,0,2687,-622,High,1
+1034,42,Female,Hyderabad,Instagram,Software Services,Web Development,Course Inquiry,35,13,1,34,0,1,4167,1,0,13177,-9010,Low,1
+1035,31,Male,Other,Google,Software Services,Data Science,Technical Support,78,10,2,42,7,8,6959,1,1,3803,3156,High,2
+1036,26,Male,Chennai,Facebook,Internship,Software Development,Course Inquiry,100,7,1,1,6,4,4596,1,1,3721,875,High,2
+1037,43,Male,Other,LinkedIn,Internship,Cyber Security,Course Inquiry,73,14,2,55,3,10,1519,0,0,13547,-12028,High,1
+1038,19,Female,Other,YouTube,Training,Data Science,General Inquiry,98,7,0,76,4,5,24812,0,0,13334,11478,High,0
+1039,37,Male,Mysuru,Google,Internship,Digital Marketing,Internship Inquiry,35,1,3,50,2,2,9976,0,0,4717,5259,Low,3
+1040,45,Female,Mysuru,LinkedIn,Internship,AI & ML,Internship Inquiry,34,1,3,53,3,1,8754,1,0,1843,6911,Low,2
+1041,24,Male,Chennai,Google,Training,Data Science,Service Inquiry,30,4,4,15,4,9,12084,1,0,1412,10672,Low,3
+1042,25,Female,Bengaluru,LinkedIn,Digital Services,Web Development,General Inquiry,84,5,1,17,6,2,6465,1,0,7545,-1080,High,2
+1043,52,Male,Mysuru,Facebook,IT Services,Cloud Computing,General Inquiry,98,5,4,6,7,6,11964,1,1,4903,7061,High,2
+1044,31,Male,Mumbai,Instagram,Training,Cyber Security,Internship Inquiry,87,4,0,44,4,1,19153,0,0,5634,13519,High,3
+1045,34,Female,Other,Google,Digital Services,Software Development,General Inquiry,62,8,3,35,0,1,12939,1,0,219,12720,Medium,3
+1046,53,Female,Delhi,Google,Internship,Cyber Security,Internship Inquiry,88,7,0,40,5,9,5221,1,1,875,4346,High,2
+1047,21,Male,Pune,Instagram,Internship,Cyber Security,General Inquiry,32,9,0,93,1,4,8908,0,0,4677,4231,Low,1
+1048,19,Female,Chennai,Google,Digital Services,Data Science,Course Inquiry,29,7,1,41,3,9,695,1,0,808,-113,Low,1
+1049,23,Male,Chennai,Google,IT Services,Data Science,Internship Inquiry,94,10,0,6,3,5,3773,1,1,6486,-2713,High,1
+1050,21,Female,Mysuru,Referral,Digital Services,Web Development,Internship Inquiry,60,1,3,14,3,7,15830,1,0,261,15569,Medium,3
+1051,46,Female,Bengaluru,LinkedIn,Internship,AI & ML,Technical Support,69,13,4,59,4,1,21994,1,1,9657,12337,Medium,0
+1052,35,Male,Other,Instagram,Digital Services,Data Science,General Inquiry,90,14,3,39,7,6,11386,0,0,10677,709,High,0
+1053,43,Male,Mumbai,Direct,IT Services,Data Science,General Inquiry,78,7,1,82,0,8,24285,1,0,1354,22931,High,3
+1054,51,Male,Bengaluru,Google,IT Services,AI & ML,Internship Inquiry,58,1,3,36,7,1,3712,0,0,10020,-6308,Medium,2
+1055,27,Male,Hyderabad,Facebook,IT Services,Web Development,Course Inquiry,22,7,2,65,4,9,3255,1,0,10018,-6763,Low,2
+1056,53,Female,Hyderabad,Instagram,Software Services,Software Development,Course Inquiry,95,10,4,54,4,3,18405,0,0,3916,14489,High,0
+1057,31,Male,Delhi,Direct,IT Services,Cyber Security,Course Inquiry,26,8,2,76,5,1,22558,1,0,5442,17116,Low,0
+1058,48,Male,Mysuru,YouTube,IT Services,Software Development,General Inquiry,68,11,2,94,2,1,1580,1,1,5759,-4179,Medium,1
+1059,32,Female,Mysuru,Direct,Software Services,Data Science,Technical Support,45,9,1,79,0,6,22507,1,0,5222,17285,Medium,3
+1060,25,Other,Mysuru,Facebook,Digital Services,AI & ML,Internship Inquiry,52,12,0,55,3,6,16001,0,0,6685,9316,Medium,0
+1061,31,Male,Delhi,Instagram,Training,Data Science,Service Inquiry,67,3,2,43,1,1,17605,0,0,1642,15963,Medium,3
+1062,40,Male,Hyderabad,Facebook,Digital Services,IT Support,Technical Support,98,4,3,56,3,3,14547,1,1,1853,12694,High,2
+1063,38,Male,Bengaluru,Instagram,Training,Cloud Computing,Service Inquiry,21,4,0,5,7,7,18446,1,0,2702,15744,Low,0
+1064,33,Male,Delhi,Instagram,Internship,Software Development,Technical Support,90,12,3,91,4,10,1139,1,0,3469,-2330,High,1
+1065,35,Female,Delhi,Instagram,IT Services,IT Support,Course Inquiry,51,9,3,31,0,3,21144,0,0,481,20663,Medium,3
+1066,41,Male,Bengaluru,LinkedIn,Software Services,Digital Marketing,General Inquiry,23,13,0,73,6,3,13002,1,0,13373,-371,Low,0
+1067,43,Female,Mysuru,Google,Software Services,Cloud Computing,Service Inquiry,39,7,0,17,0,3,5690,1,0,9416,-3726,Low,1
+1068,42,Male,Mumbai,LinkedIn,Training,Data Science,Technical Support,55,3,3,67,0,7,4236,1,0,13210,-8974,Medium,3
+1069,46,Female,Bengaluru,LinkedIn,IT Services,Web Development,General Inquiry,51,10,1,72,2,4,24630,1,0,14286,10344,Medium,3
+1070,32,Female,Hyderabad,Referral,Internship,Software Development,Service Inquiry,47,5,4,6,3,4,16973,1,0,3603,13370,Medium,3
+1071,18,Female,Chennai,Direct,Software Services,Digital Marketing,Internship Inquiry,96,7,4,7,2,3,1751,0,0,1435,316,High,1
+1072,42,Male,Other,LinkedIn,Software Services,Cloud Computing,Technical Support,20,8,1,63,6,10,9794,0,0,12574,-2780,Low,0
+1073,24,Male,Chennai,Instagram,IT Services,Software Development,Internship Inquiry,79,1,0,6,6,9,21587,1,1,4960,16627,High,0
+1074,26,Male,Pune,Instagram,Digital Services,AI & ML,Course Inquiry,75,12,3,40,5,2,17232,0,0,13349,3883,High,0
+1075,41,Female,Pune,Google,Digital Services,Web Development,Internship Inquiry,54,2,4,39,7,4,4552,1,0,14210,-9658,Medium,2
+1076,18,Female,Delhi,Google,IT Services,Cloud Computing,Internship Inquiry,49,7,3,2,1,8,19825,1,0,14596,5229,Medium,3
+1077,25,Female,Other,Instagram,Internship,AI & ML,Technical Support,73,11,1,16,5,6,771,1,1,7140,-6369,High,1
+1078,41,Female,Chennai,Instagram,IT Services,IT Support,Course Inquiry,55,13,3,65,4,7,18914,1,0,14630,4284,Medium,0
+1079,28,Female,Mumbai,Facebook,Digital Services,Data Science,Internship Inquiry,74,14,1,78,2,7,24720,0,0,985,23735,High,0
+1080,34,Male,Mysuru,LinkedIn,Digital Services,AI & ML,General Inquiry,99,13,0,92,2,2,12198,0,0,14064,-1866,High,1
+1081,25,Female,Hyderabad,Instagram,Training,Cloud Computing,Service Inquiry,77,2,1,51,5,4,16389,1,0,11709,4680,High,2
+1082,52,Male,Pune,YouTube,Software Services,Cyber Security,Internship Inquiry,84,7,1,21,4,10,10157,0,0,10059,98,High,1
+1083,52,Male,Mumbai,Google,Internship,Cloud Computing,Course Inquiry,88,9,4,3,0,10,9887,1,1,11400,-1513,High,1
+1084,50,Male,Hyderabad,LinkedIn,IT Services,Cyber Security,Internship Inquiry,70,11,3,5,4,6,16876,1,1,14832,2044,Medium,0
+1085,22,Male,Hyderabad,YouTube,Digital Services,IT Support,Service Inquiry,41,2,4,37,3,3,11779,0,0,3394,8385,Medium,3
+1086,45,Male,Mysuru,LinkedIn,Digital Services,Data Science,Course Inquiry,72,7,2,25,5,9,12515,0,0,4989,7526,High,0
+1087,24,Female,Other,Instagram,IT Services,Cyber Security,Technical Support,55,4,1,10,7,4,7541,1,0,3975,3566,Medium,2
+1088,26,Male,Delhi,Facebook,Training,Cyber Security,Course Inquiry,87,11,2,89,4,10,22059,1,1,10838,11221,High,0
+1089,25,Female,Chennai,Direct,Internship,AI & ML,Technical Support,55,13,4,16,0,2,18010,0,0,12182,5828,Medium,1
+1090,29,Male,Mysuru,YouTube,IT Services,AI & ML,Course Inquiry,71,2,3,87,4,6,21263,1,1,5550,15713,High,3
+1091,51,Male,Mumbai,LinkedIn,IT Services,Data Science,Service Inquiry,72,13,4,91,2,1,9208,1,1,733,8475,High,1
+1092,50,Male,Delhi,YouTube,Internship,AI & ML,Service Inquiry,69,7,3,98,1,6,11357,1,1,8793,2564,Medium,1
+1093,40,Male,Mumbai,Google,Digital Services,Software Development,Course Inquiry,99,13,3,30,2,10,9993,0,0,3863,6130,High,1
+1094,41,Female,Delhi,Instagram,IT Services,Data Science,Internship Inquiry,60,5,0,76,7,1,8552,0,0,329,8223,Medium,2
+1095,54,Male,Other,Google,Digital Services,Web Development,Service Inquiry,37,1,1,34,6,8,17495,1,0,10731,6764,Low,2
+1096,52,Female,Pune,LinkedIn,Digital Services,Cyber Security,Technical Support,41,5,4,15,1,5,17633,1,0,12763,4870,Medium,3
+1097,39,Male,Mumbai,LinkedIn,Internship,Cloud Computing,Technical Support,85,12,3,78,6,6,14080,1,0,3159,10921,High,0
+1098,44,Female,Mysuru,Google,Internship,Web Development,General Inquiry,40,12,4,17,4,2,18740,1,0,2058,16682,Low,0
+1099,52,Female,Delhi,Facebook,Digital Services,Cyber Security,Technical Support,63,3,4,100,3,2,18410,1,1,11365,7045,Medium,3
+1100,18,Female,Delhi,Direct,IT Services,Software Development,General Inquiry,66,7,3,61,7,9,10716,0,0,12542,-1826,Medium,2
+1101,52,Male,Hyderabad,Referral,Digital Services,Cyber Security,Course Inquiry,58,6,2,26,4,3,6729,1,0,3849,2880,Medium,2
+1102,54,Male,Hyderabad,LinkedIn,Digital Services,Cyber Security,Course Inquiry,48,8,1,34,0,6,13843,1,0,11178,2665,Medium,3
+1103,31,Male,Bengaluru,Direct,Digital Services,Cyber Security,Course Inquiry,73,13,1,44,4,10,2598,1,1,3297,-699,High,1
+1104,20,Female,Mumbai,Google,Software Services,IT Support,Internship Inquiry,36,5,0,34,1,5,15938,0,0,3712,12226,Low,3
+1105,18,Male,Hyderabad,Referral,IT Services,Software Development,Internship Inquiry,99,2,0,27,2,4,8365,1,0,5060,3305,High,2
+1106,22,Male,Bengaluru,Google,IT Services,Digital Marketing,General Inquiry,79,9,0,8,3,10,17057,0,0,9612,7445,High,0
+1107,43,Female,Pune,Referral,Training,Digital Marketing,Technical Support,50,14,1,75,6,2,12711,0,0,9033,3678,Medium,0
+1108,31,Male,Pune,Instagram,Internship,Digital Marketing,Technical Support,92,11,2,14,4,8,1000,1,1,11706,-10706,High,1
+1109,44,Female,Hyderabad,Direct,IT Services,Data Science,Course Inquiry,97,8,1,20,4,10,4146,1,1,14335,-10189,High,1
+1110,26,Male,Mumbai,Facebook,Training,AI & ML,Service Inquiry,68,6,1,51,2,7,23103,1,1,923,22180,Medium,3
+1111,32,Male,Delhi,Google,Software Services,Software Development,Internship Inquiry,21,13,1,34,3,2,19247,1,0,13701,5546,Low,0
+1112,32,Female,Chennai,LinkedIn,IT Services,Web Development,Internship Inquiry,67,10,1,96,5,6,10548,0,0,13289,-2741,Medium,0
+1113,43,Male,Other,Facebook,IT Services,IT Support,Course Inquiry,33,7,2,50,6,8,24424,0,0,937,23487,Low,0
+1114,30,Female,Mumbai,LinkedIn,Training,Web Development,Internship Inquiry,78,9,0,82,4,7,11844,0,0,13245,-1401,High,1
+1115,49,Male,Other,Direct,Internship,Web Development,Course Inquiry,77,7,4,54,4,1,18780,0,0,14079,4701,High,0
+1116,49,Male,Mysuru,YouTube,Internship,Web Development,General Inquiry,77,3,0,86,5,5,22643,1,1,1499,21144,High,0
+1117,21,Female,Pune,Instagram,Training,IT Support,Technical Support,70,6,0,76,6,2,10410,1,0,14329,-3919,Medium,2
+1118,47,Female,Hyderabad,Instagram,Internship,Digital Marketing,Service Inquiry,21,11,4,43,1,6,2278,1,0,3680,-1402,Low,1
+1119,54,Female,Hyderabad,Google,IT Services,Web Development,Technical Support,60,13,1,64,1,7,13484,0,0,539,12945,Medium,1
+1120,40,Male,Other,Referral,Software Services,IT Support,Technical Support,35,11,2,92,7,7,19941,1,0,352,19589,Low,0
+1121,32,Female,Delhi,Instagram,Software Services,IT Support,General Inquiry,23,7,2,87,7,3,5690,1,0,5884,-194,Low,2
+1122,46,Male,Other,LinkedIn,Digital Services,AI & ML,Internship Inquiry,31,2,0,79,0,7,15804,1,0,9813,5991,Low,3
+1123,53,Male,Mysuru,LinkedIn,Internship,IT Support,Service Inquiry,48,3,4,24,2,5,7497,0,0,13955,-6458,Medium,3
+1124,30,Female,Delhi,LinkedIn,Software Services,Digital Marketing,Internship Inquiry,26,4,3,86,3,8,12520,1,0,3251,9269,Low,3
+1125,49,Male,Mysuru,Direct,Software Services,Web Development,Technical Support,33,10,1,91,4,8,5247,0,0,626,4621,Low,1
+1126,24,Female,Chennai,Facebook,Internship,IT Support,Course Inquiry,31,6,0,46,6,7,9786,1,0,7346,2440,Low,2
+1127,39,Male,Pune,Instagram,Digital Services,Data Science,Technical Support,24,1,2,79,4,6,545,1,0,8325,-7780,Low,2
+1128,45,Male,Hyderabad,Direct,Training,IT Support,Internship Inquiry,100,9,4,55,7,2,8258,0,0,11950,-3692,High,2
+1129,19,Male,Hyderabad,Referral,Digital Services,Cloud Computing,Technical Support,51,5,4,37,0,6,23937,1,0,6547,17390,Medium,3
+1130,23,Female,Chennai,LinkedIn,Software Services,Cloud Computing,Course Inquiry,93,13,0,10,6,9,20085,0,0,9527,10558,High,0
+1131,45,Female,Bengaluru,Facebook,Internship,Cloud Computing,General Inquiry,62,12,3,66,6,2,955,0,0,2572,-1617,Medium,2
+1132,45,Female,Pune,Google,Software Services,IT Support,Internship Inquiry,100,14,2,14,4,1,10354,0,0,8326,2028,High,1
+1133,37,Female,Delhi,Google,IT Services,Digital Marketing,Technical Support,88,7,0,0,2,5,19808,1,0,11721,8087,High,3
+1134,47,Female,Chennai,Direct,Software Services,Web Development,Internship Inquiry,64,9,3,6,0,6,24682,1,0,1149,23533,Medium,3
+1135,28,Female,Delhi,LinkedIn,IT Services,Software Development,General Inquiry,28,9,4,0,2,3,17849,1,0,7895,9954,Low,3
+1136,45,Male,Other,Direct,Digital Services,Software Development,Technical Support,68,1,1,48,0,8,21848,1,1,1573,20275,Medium,3
+1137,42,Male,Mumbai,Direct,Internship,Software Development,Technical Support,52,1,2,95,4,7,2028,1,0,14518,-12490,Medium,2
+1138,50,Male,Hyderabad,Google,Training,Digital Marketing,Internship Inquiry,37,3,2,72,0,2,3476,1,0,7282,-3806,Low,3
+1139,18,Other,Delhi,Direct,Internship,AI & ML,Internship Inquiry,28,6,3,28,1,7,19955,0,0,9348,10607,Low,3
+1140,44,Female,Mysuru,LinkedIn,Software Services,Cyber Security,Course Inquiry,81,2,0,25,6,1,13788,0,0,10093,3695,High,2
+1141,30,Male,Delhi,LinkedIn,Digital Services,Data Science,General Inquiry,76,10,4,86,3,9,21753,0,0,11333,10420,High,0
+1142,20,Female,Mumbai,YouTube,Software Services,Data Science,Course Inquiry,48,12,3,44,4,7,6887,1,0,2682,4205,Medium,1
+1143,23,Female,Pune,Facebook,Software Services,Cloud Computing,Technical Support,97,11,1,92,5,6,3021,0,0,7793,-4772,High,1
+1144,25,Male,Hyderabad,Google,Internship,Cloud Computing,Internship Inquiry,44,1,1,96,3,2,7025,0,0,9695,-2670,Medium,2
+1145,44,Female,Other,LinkedIn,Training,IT Support,Technical Support,34,1,1,70,4,3,1626,0,0,570,1056,Low,2
+1146,26,Female,Chennai,YouTube,Internship,Software Development,Technical Support,25,13,3,11,3,1,23516,1,0,8037,15479,Low,0
+1147,54,Male,Other,Referral,Internship,IT Support,Service Inquiry,61,5,4,94,1,10,13848,1,1,11372,2476,Medium,3
+1148,50,Female,Mumbai,YouTube,Internship,Cyber Security,Service Inquiry,48,4,2,31,3,5,22657,1,0,2496,20161,Medium,3
+1149,41,Male,Hyderabad,Google,IT Services,Software Development,Technical Support,98,1,0,19,0,9,8216,0,0,7234,982,High,3
+1150,32,Female,Delhi,Instagram,Training,Cloud Computing,Internship Inquiry,23,4,2,50,7,6,16602,0,0,6524,10078,Low,2
+1151,49,Female,Pune,Instagram,Internship,Web Development,Technical Support,76,3,4,80,3,5,3904,1,1,13190,-9286,High,2
+1152,49,Female,Bengaluru,Referral,Internship,AI & ML,Service Inquiry,68,2,2,35,4,3,4992,1,0,7342,-2350,Medium,2
+1153,41,Male,Pune,Instagram,Internship,IT Support,Internship Inquiry,63,9,3,66,5,5,2843,0,0,14162,-11319,Medium,2
+1154,29,Female,Bengaluru,Google,Software Services,AI & ML,Technical Support,99,14,1,0,5,8,606,1,1,10517,-9911,High,1
+1155,19,Female,Mysuru,Facebook,Digital Services,AI & ML,General Inquiry,94,11,4,26,7,2,15695,1,1,11358,4337,High,0
+1156,20,Male,Pune,Google,Software Services,AI & ML,General Inquiry,33,1,4,39,2,5,13741,0,0,7228,6513,Low,3
+1157,54,Female,Hyderabad,Facebook,Training,Cloud Computing,Technical Support,22,7,2,96,7,6,20038,0,0,6679,13359,Low,0
+1158,34,Male,Bengaluru,YouTube,Training,Data Science,Internship Inquiry,81,14,3,83,6,10,13075,0,0,4345,8730,High,0
+1159,19,Female,Chennai,Direct,Digital Services,Cloud Computing,Technical Support,83,13,2,13,3,8,20937,1,1,14620,6317,High,0
+1160,19,Male,Hyderabad,Instagram,Training,AI & ML,Technical Support,64,4,2,99,5,8,5301,1,1,11134,-5833,Medium,2
+1161,45,Male,Chennai,Google,Training,Cloud Computing,Service Inquiry,77,5,4,68,7,5,23023,1,1,14539,8484,High,0
+1162,40,Male,Pune,Referral,Internship,AI & ML,General Inquiry,39,10,2,86,3,9,6080,1,0,13480,-7400,Low,1
+1163,54,Female,Chennai,Direct,Internship,Digital Marketing,Service Inquiry,77,5,1,78,6,4,17098,1,1,4221,12877,High,2
+1164,49,Male,Bengaluru,Referral,Training,Software Development,Service Inquiry,76,1,2,5,5,9,5900,1,1,2564,3336,High,2
+1165,50,Female,Hyderabad,Google,Training,Data Science,Technical Support,96,6,1,32,6,7,7375,0,0,5430,1945,High,2
+1166,18,Male,Delhi,Referral,Digital Services,Digital Marketing,Service Inquiry,87,13,4,54,3,6,21173,0,0,13845,7328,High,0
+1167,36,Male,Mumbai,Referral,Internship,Web Development,General Inquiry,97,9,3,18,4,4,21137,0,0,6170,14967,High,0
+1168,19,Male,Bengaluru,YouTube,Internship,Cloud Computing,Service Inquiry,71,2,1,76,3,2,9156,1,1,9154,2,High,2
+1169,43,Female,Bengaluru,Referral,Digital Services,Web Development,General Inquiry,56,7,3,28,7,8,6747,0,0,7500,-753,Medium,2
+1170,49,Male,Delhi,Direct,Internship,IT Support,Service Inquiry,27,6,3,60,6,6,6677,1,0,6955,-278,Low,2
+1171,23,Female,Hyderabad,YouTube,Training,Cloud Computing,General Inquiry,63,5,1,69,4,3,7769,0,0,12454,-4685,Medium,2
+1172,49,Female,Hyderabad,Google,Software Services,Cyber Security,Service Inquiry,24,4,4,78,4,7,15474,1,0,1204,14270,Low,3
+1173,21,Female,Other,LinkedIn,Internship,Cyber Security,Service Inquiry,88,4,0,79,2,10,14537,0,0,7257,7280,High,3
+1174,28,Male,Pune,Google,Internship,Software Development,Internship Inquiry,50,6,3,23,5,7,19256,0,0,3955,15301,Medium,0
+1175,34,Male,Chennai,Instagram,IT Services,Digital Marketing,General Inquiry,64,4,3,22,0,6,16667,1,1,3046,13621,Medium,3
+1176,41,Female,Pune,Instagram,Training,Software Development,General Inquiry,28,5,4,9,4,2,23718,1,0,6462,17256,Low,3
+1177,22,Male,Delhi,Google,IT Services,IT Support,General Inquiry,51,13,4,53,6,8,10880,1,0,8741,2139,Medium,0
+1178,51,Female,Pune,Instagram,Digital Services,AI & ML,Course Inquiry,52,6,2,40,5,1,7117,0,0,3164,3953,Medium,2
+1179,23,Male,Delhi,Google,Internship,Software Development,Service Inquiry,86,5,4,48,1,1,22034,0,0,9078,12956,High,3
+1180,39,Female,Hyderabad,Referral,IT Services,Software Development,General Inquiry,49,7,3,16,3,6,24986,1,0,4837,20149,Medium,3
+1181,28,Female,Chennai,Facebook,IT Services,Cyber Security,Course Inquiry,95,9,1,55,7,5,21042,1,1,11518,9524,High,0
+1182,33,Other,Pune,Google,Internship,AI & ML,Internship Inquiry,48,10,0,44,6,9,24611,0,0,12848,11763,Medium,0
+1183,50,Male,Bengaluru,Facebook,IT Services,Cyber Security,General Inquiry,22,7,2,29,1,7,22090,1,0,2955,19135,Low,3
+1184,26,Female,Mysuru,LinkedIn,Training,Cloud Computing,General Inquiry,76,7,1,43,6,2,803,1,1,11916,-11113,High,2
+1185,23,Male,Other,Instagram,IT Services,AI & ML,Course Inquiry,49,4,0,73,3,7,13183,1,0,3824,9359,Medium,3
+1186,33,Male,Mumbai,Google,Internship,Digital Marketing,Service Inquiry,28,1,0,54,2,3,17217,1,0,2932,14285,Low,3
+1187,46,Female,Bengaluru,LinkedIn,IT Services,Software Development,Internship Inquiry,45,14,0,18,6,1,11525,0,0,6673,4852,Medium,0
+1188,20,Female,Hyderabad,Referral,Training,Cyber Security,General Inquiry,21,8,1,28,4,8,21390,1,0,14754,6636,Low,0
+1189,37,Other,Mumbai,Referral,Digital Services,AI & ML,Service Inquiry,81,4,2,1,0,3,19215,1,1,6551,12664,High,3
+1190,53,Female,Mysuru,Google,Internship,IT Support,Internship Inquiry,22,1,2,35,4,8,5061,1,0,1893,3168,Low,2
+1191,36,Male,Mysuru,Google,Training,IT Support,Technical Support,65,5,0,18,3,7,579,0,0,11284,-10705,Medium,2
+1192,43,Male,Chennai,Instagram,IT Services,Software Development,Technical Support,87,14,1,6,6,2,4263,0,0,12203,-7940,High,1
+1193,20,Female,Mumbai,Instagram,Digital Services,Digital Marketing,Internship Inquiry,44,14,0,25,0,1,22080,1,0,12572,9508,Medium,3
+1194,36,Male,Chennai,Google,IT Services,Web Development,Course Inquiry,70,8,4,78,4,7,10669,0,0,884,9785,Medium,1
+1195,37,Male,Bengaluru,Instagram,Digital Services,Cyber Security,Internship Inquiry,32,4,2,37,0,1,17616,1,0,12732,4884,Low,3
+1196,49,Male,Delhi,Referral,Digital Services,Digital Marketing,Internship Inquiry,63,13,3,2,7,6,4476,0,0,3119,1357,Medium,1
+1197,24,Male,Delhi,Facebook,Software Services,Data Science,Course Inquiry,54,12,0,79,3,10,22543,1,0,7366,15177,Medium,0
+1198,50,Male,Delhi,Instagram,Training,Data Science,Course Inquiry,74,8,4,65,2,10,18268,0,0,3956,14312,High,3
+1199,35,Male,Mumbai,Direct,IT Services,Data Science,Service Inquiry,28,8,2,94,2,8,2624,1,0,5654,-3030,Low,1
+1200,18,Male,Delhi,Instagram,Digital Services,Software Development,Service Inquiry,21,3,1,91,6,7,7152,1,0,3483,3669,Low,2
+1201,28,Male,Bengaluru,LinkedIn,Software Services,IT Support,Course Inquiry,80,9,2,70,4,4,5783,1,0,4891,892,High,1
+1202,45,Other,Chennai,Google,Software Services,Cloud Computing,Technical Support,60,3,1,93,1,1,7676,1,0,7028,648,Medium,3
+1203,42,Male,Mumbai,YouTube,Training,Cyber Security,Technical Support,63,1,1,42,3,1,23489,0,0,7550,15939,Medium,3
+1204,40,Male,Chennai,Facebook,Internship,IT Support,Internship Inquiry,83,2,0,61,4,4,22591,1,1,12418,10173,High,3
+1205,48,Female,Mumbai,YouTube,IT Services,Cloud Computing,General Inquiry,50,6,0,70,4,5,19176,1,0,1356,17820,Medium,3
+1206,47,Male,Chennai,Instagram,Digital Services,Cloud Computing,Internship Inquiry,66,12,2,99,2,7,12909,1,1,3261,9648,Medium,1
+1207,52,Female,Mysuru,YouTube,IT Services,IT Support,Internship Inquiry,21,10,4,92,6,4,12819,1,0,7357,5462,Low,0
+1208,24,Female,Chennai,Google,IT Services,Cyber Security,General Inquiry,96,2,2,23,0,10,1497,1,1,6119,-4622,High,1
+1209,33,Male,Delhi,Direct,Digital Services,Software Development,Course Inquiry,88,6,3,38,3,1,11501,1,1,6093,5408,High,2
+1210,43,Male,Mysuru,LinkedIn,Training,Digital Marketing,Technical Support,77,14,1,67,7,10,5164,0,0,4645,519,High,1
+1211,19,Female,Chennai,LinkedIn,Software Services,Cloud Computing,Internship Inquiry,63,1,1,92,0,7,19241,1,1,10721,8520,Medium,3
+1212,18,Female,Mumbai,YouTube,Training,Web Development,General Inquiry,93,11,0,43,5,2,22375,1,1,6636,15739,High,0
+1213,29,Male,Mumbai,YouTube,Training,IT Support,Service Inquiry,75,13,4,4,5,2,18563,0,0,1492,17071,High,0
+1214,22,Female,Other,Google,IT Services,IT Support,Internship Inquiry,62,1,0,54,3,8,13617,1,1,10276,3341,Medium,3
+1215,54,Male,Mumbai,YouTube,Digital Services,Data Science,Technical Support,53,5,3,92,6,10,22599,0,0,9952,12647,Medium,0
+1216,49,Other,Hyderabad,Google,Internship,Digital Marketing,Course Inquiry,49,10,2,29,1,10,11731,1,0,9375,2356,Medium,1
+1217,26,Male,Bengaluru,Referral,Internship,Data Science,Internship Inquiry,90,13,2,28,5,10,21770,1,1,8102,13668,High,0
+1218,52,Female,Mumbai,Direct,Software Services,IT Support,Internship Inquiry,89,11,4,25,2,5,7940,1,1,2267,5673,High,1
+1219,36,Female,Mysuru,Referral,Internship,IT Support,General Inquiry,74,9,0,82,1,10,23705,1,0,10255,13450,High,3
+1220,33,Female,Other,LinkedIn,IT Services,Cloud Computing,Service Inquiry,86,14,0,25,4,2,20411,1,0,2179,18232,High,0
+1221,20,Male,Mumbai,LinkedIn,IT Services,Digital Marketing,Service Inquiry,32,8,3,36,5,5,11718,1,0,1936,9782,Low,2
+1222,37,Male,Hyderabad,Google,IT Services,AI & ML,Course Inquiry,22,3,2,90,2,8,23697,0,0,10844,12853,Low,3
+1223,41,Male,Delhi,Referral,IT Services,Web Development,Technical Support,45,3,0,93,4,6,16108,1,0,13626,2482,Medium,3
+1224,50,Male,Mysuru,Instagram,Internship,Cyber Security,Course Inquiry,76,1,4,52,1,3,19629,1,1,2118,17511,High,3
+1225,41,Male,Hyderabad,LinkedIn,IT Services,Cloud Computing,Internship Inquiry,43,14,2,29,3,8,4590,1,0,900,3690,Medium,1
+1226,28,Female,Delhi,Instagram,Training,IT Support,Internship Inquiry,72,3,3,2,4,9,23042,0,0,4246,18796,High,3
+1227,25,Male,Pune,Google,Digital Services,Cyber Security,Service Inquiry,89,14,4,42,0,5,7971,1,0,2273,5698,High,1
+1228,53,Male,Pune,YouTube,Internship,Cloud Computing,Technical Support,62,12,1,6,3,2,4243,0,0,4861,-618,Medium,1
+1229,37,Female,Mysuru,Google,IT Services,Web Development,General Inquiry,79,12,3,48,3,2,10696,1,1,12145,-1449,High,1
+1230,52,Female,Chennai,Referral,Internship,IT Support,Technical Support,77,12,4,72,1,7,7508,1,1,594,6914,High,1
+1231,42,Female,Bengaluru,Instagram,Training,Web Development,Internship Inquiry,68,13,0,40,1,1,3824,1,1,10348,-6524,Medium,1
+1232,52,Other,Other,Google,Internship,Cyber Security,General Inquiry,61,11,1,76,2,10,9132,1,1,3248,5884,Medium,1
+1233,42,Male,Bengaluru,LinkedIn,Internship,AI & ML,Technical Support,95,1,3,78,2,2,20141,1,1,3652,16489,High,3
+1234,46,Male,Hyderabad,Google,Digital Services,Cloud Computing,Technical Support,85,8,0,53,0,10,726,1,0,722,4,High,1
+1235,35,Female,Delhi,Instagram,Training,Software Development,General Inquiry,30,1,1,68,3,4,15363,1,0,9954,5409,Low,3
+1236,35,Female,Bengaluru,Referral,Software Services,Cloud Computing,Internship Inquiry,37,5,2,92,7,1,16527,1,0,11301,5226,Low,2
+1237,19,Male,Delhi,Google,Software Services,Data Science,Technical Support,71,9,0,98,6,4,19285,0,0,13594,5691,High,0
+1238,52,Female,Delhi,Direct,IT Services,Digital Marketing,General Inquiry,65,7,4,90,0,10,5218,0,0,11241,-6023,Medium,1
+1239,33,Male,Hyderabad,Google,Internship,Digital Marketing,Internship Inquiry,63,4,3,26,0,5,17908,1,0,8941,8967,Medium,3
+1240,53,Male,Hyderabad,Google,Training,Data Science,General Inquiry,41,11,1,7,6,9,6172,1,0,1668,4504,Medium,1
+1241,50,Male,Hyderabad,Referral,Digital Services,IT Support,General Inquiry,72,9,0,31,6,1,24611,0,0,6430,18181,High,0
+1242,21,Female,Bengaluru,Instagram,Training,Digital Marketing,Technical Support,78,9,2,83,6,5,15762,1,1,8316,7446,High,0
+1243,50,Female,Pune,Google,Internship,Web Development,Internship Inquiry,49,2,3,63,1,2,22164,0,0,9224,12940,Medium,3
+1244,31,Male,Hyderabad,Instagram,IT Services,Cyber Security,Technical Support,27,10,3,9,0,9,17754,0,0,12874,4880,Low,3
+1245,38,Female,Other,Instagram,Digital Services,Cyber Security,Course Inquiry,76,10,0,12,0,6,3699,1,1,13450,-9751,High,1
+1246,37,Male,Bengaluru,Direct,Digital Services,Digital Marketing,Course Inquiry,92,11,2,62,4,2,18629,1,0,7011,11618,High,0
+1247,25,Male,Hyderabad,Instagram,Internship,Digital Marketing,Internship Inquiry,39,12,1,92,6,3,5770,1,0,1621,4149,Low,2
+1248,24,Female,Mumbai,Referral,Digital Services,Data Science,General Inquiry,44,6,0,34,6,8,22770,1,0,8187,14583,Medium,0
+1249,20,Female,Delhi,Direct,Internship,IT Support,Technical Support,38,4,1,60,2,1,22474,1,0,485,21989,Low,3
+1250,34,Female,Other,LinkedIn,Internship,AI & ML,Technical Support,24,8,3,53,2,3,13250,1,0,2945,10305,Low,3
+1251,50,Female,Hyderabad,Direct,Software Services,Digital Marketing,Internship Inquiry,94,12,1,7,3,10,8397,0,0,12157,-3760,High,1
+1252,29,Female,Mysuru,Instagram,Internship,Software Development,Internship Inquiry,98,11,2,28,2,1,9164,1,0,7308,1856,High,1
+1253,39,Female,Delhi,Facebook,Training,Digital Marketing,Course Inquiry,91,7,4,94,5,8,15392,0,0,4664,10728,High,0
+1254,39,Male,Delhi,Google,Internship,AI & ML,Service Inquiry,46,7,2,40,3,1,8771,1,0,1645,7126,Medium,2
+1255,47,Male,Hyderabad,YouTube,Software Services,Data Science,Internship Inquiry,59,11,1,29,7,5,5658,0,0,6037,-379,Medium,2
+1256,25,Male,Pune,LinkedIn,Digital Services,AI & ML,Service Inquiry,45,10,0,85,6,4,13344,1,0,1666,11678,Medium,0
+1257,44,Male,Chennai,Instagram,IT Services,Data Science,Internship Inquiry,46,9,3,20,4,7,1089,0,0,10168,-9079,Medium,1
+1258,44,Female,Pune,YouTube,Digital Services,Web Development,General Inquiry,81,13,4,75,2,5,10052,1,0,14031,-3979,High,1
+1259,51,Male,Hyderabad,Referral,Internship,Data Science,General Inquiry,69,5,0,10,4,8,16767,0,0,7367,9400,Medium,3
+1260,38,Male,Delhi,Google,IT Services,Web Development,Course Inquiry,61,6,0,1,2,1,18768,1,1,12047,6721,Medium,3
+1261,47,Male,Other,Google,Training,Web Development,Course Inquiry,48,1,2,49,2,5,16659,0,0,9306,7353,Medium,3
+1262,50,Female,Mysuru,Referral,Internship,Data Science,Service Inquiry,58,6,1,40,4,4,14763,0,0,8679,6084,Medium,2
+1263,45,Male,Other,YouTube,IT Services,Software Development,Internship Inquiry,79,2,2,65,0,3,5899,0,0,12582,-6683,High,3
+1264,50,Female,Other,Facebook,Software Services,Cloud Computing,Technical Support,60,6,1,97,0,5,9003,1,1,10480,-1477,Medium,3
+1265,22,Male,Delhi,Referral,Internship,Data Science,Course Inquiry,52,9,2,2,0,10,1576,1,0,4626,-3050,Medium,1
+1266,36,Male,Pune,Facebook,Training,Digital Marketing,Technical Support,35,8,0,79,5,3,7735,0,0,6132,1603,Low,2
+1267,21,Female,Mysuru,Referral,Internship,Software Development,Technical Support,42,9,3,50,0,8,23721,0,0,10196,13525,Medium,3
+1268,52,Female,Bengaluru,Instagram,Internship,Software Development,Internship Inquiry,26,13,1,67,2,3,16917,1,0,1378,15539,Low,0
+1269,34,Male,Mumbai,Google,Software Services,Digital Marketing,Service Inquiry,45,10,4,86,6,1,2341,0,0,2751,-410,Medium,2
+1270,45,Female,Delhi,Referral,IT Services,Cloud Computing,Internship Inquiry,31,8,4,83,1,9,4981,0,0,4570,411,Low,1
+1271,47,Female,Hyderabad,YouTube,IT Services,Software Development,Course Inquiry,91,3,0,24,4,9,1634,0,0,9980,-8346,High,2
+1272,46,Male,Bengaluru,Google,Digital Services,Web Development,Technical Support,24,8,2,29,6,6,24145,0,0,6522,17623,Low,0
+1273,23,Female,Mumbai,Instagram,Internship,Cyber Security,Internship Inquiry,88,6,2,81,1,10,22182,0,0,10348,11834,High,3
+1274,52,Female,Hyderabad,Facebook,IT Services,Cloud Computing,Internship Inquiry,68,13,0,10,6,1,13639,0,0,10167,3472,Medium,0
+1275,54,Female,Other,LinkedIn,Training,IT Support,Internship Inquiry,45,6,4,92,5,8,23901,1,0,14672,9229,Medium,0
+1276,41,Female,Chennai,LinkedIn,IT Services,Digital Marketing,Course Inquiry,24,6,4,16,1,2,8271,1,0,5062,3209,Low,3
+1277,46,Female,Hyderabad,LinkedIn,Software Services,Cloud Computing,Service Inquiry,41,3,2,25,7,9,9067,0,0,9379,-312,Medium,2
+1278,48,Female,Mysuru,Google,Digital Services,Data Science,Internship Inquiry,98,10,1,22,3,8,9415,1,0,6055,3360,High,1
+1279,52,Female,Mysuru,Instagram,Training,Cyber Security,Course Inquiry,32,1,3,55,0,3,14398,0,0,1403,12995,Low,3
+1280,50,Female,Chennai,Instagram,Digital Services,Cloud Computing,Technical Support,47,12,1,51,7,5,2413,1,0,7549,-5136,Medium,2
+1281,38,Female,Bengaluru,Google,Internship,Web Development,General Inquiry,52,14,4,47,5,9,4797,0,0,11722,-6925,Medium,1
+1282,49,Female,Mumbai,Referral,Internship,Cyber Security,Course Inquiry,42,4,1,19,6,1,2442,1,0,6586,-4144,Medium,2
+1283,40,Female,Hyderabad,Instagram,Internship,Data Science,General Inquiry,37,10,3,1,2,9,20888,0,0,1319,19569,Low,3
+1284,50,Male,Mysuru,Direct,Training,AI & ML,Internship Inquiry,49,12,1,87,0,4,18215,1,0,8588,9627,Medium,3
+1285,20,Female,Bengaluru,Direct,IT Services,Digital Marketing,Internship Inquiry,45,6,1,30,7,4,24774,0,0,4175,20599,Medium,0
+1286,35,Female,Chennai,Google,IT Services,Cyber Security,Course Inquiry,35,11,1,26,0,4,21472,1,0,8917,12555,Low,3
+1287,42,Male,Pune,YouTube,Software Services,Digital Marketing,General Inquiry,96,12,1,1,1,10,837,1,0,13119,-12282,High,1
+1288,48,Female,Delhi,LinkedIn,IT Services,Cloud Computing,Internship Inquiry,58,10,0,77,3,9,14756,1,0,9802,4954,Medium,1
+1289,20,Male,Pune,Direct,IT Services,Software Development,Technical Support,52,2,4,3,0,6,23950,1,0,12895,11055,Medium,3
+1290,41,Male,Pune,Google,Internship,Data Science,Service Inquiry,45,7,3,12,6,8,24697,1,0,1492,23205,Medium,0
+1291,49,Female,Mysuru,YouTube,Internship,AI & ML,Service Inquiry,67,7,4,99,6,4,10557,0,0,9586,971,Medium,2
+1292,39,Male,Other,YouTube,IT Services,Data Science,Internship Inquiry,84,11,0,34,4,3,9483,0,0,10340,-857,High,1
+1293,40,Female,Other,Instagram,Training,Digital Marketing,General Inquiry,57,4,0,71,4,1,20495,1,0,3855,16640,Medium,3
+1294,19,Female,Chennai,Google,Digital Services,Data Science,Internship Inquiry,21,4,0,65,0,10,16783,0,0,4986,11797,Low,3
+1295,44,Male,Hyderabad,YouTube,Internship,AI & ML,General Inquiry,25,1,0,5,1,7,4200,1,0,2417,1783,Low,3
+1296,19,Male,Other,Referral,Internship,Software Development,Technical Support,65,13,1,30,1,4,12645,0,0,12646,-1,Medium,1
+1297,43,Male,Pune,Instagram,Training,Cloud Computing,General Inquiry,69,2,4,9,2,8,6618,1,1,11972,-5354,Medium,3
+1298,34,Female,Other,YouTube,Internship,Web Development,Internship Inquiry,57,9,2,20,5,3,23989,1,0,6790,17199,Medium,0
+1299,50,Other,Pune,Instagram,Internship,Data Science,Technical Support,37,10,3,73,5,1,3173,1,0,14177,-11004,Low,2
+1300,26,Female,Mumbai,Referral,Digital Services,Cyber Security,Course Inquiry,46,8,0,22,7,5,2622,1,0,14425,-11803,Medium,2
+1301,46,Male,Mysuru,Google,Internship,Web Development,Service Inquiry,60,8,4,2,5,2,12477,0,0,1217,11260,Medium,2
+1302,43,Female,Mysuru,Direct,IT Services,Digital Marketing,Internship Inquiry,91,9,0,31,3,3,23966,1,1,11545,12421,High,0
+1303,52,Male,Hyderabad,Instagram,Training,Cloud Computing,Internship Inquiry,93,7,0,19,1,6,8750,0,0,5376,3374,High,1
+1304,42,Female,Other,Instagram,Internship,IT Support,Internship Inquiry,36,13,0,73,2,3,18946,1,0,3790,15156,Low,0
+1305,41,Male,Other,Google,Training,Cloud Computing,Technical Support,81,9,0,28,4,3,18138,1,1,12599,5539,High,0
+1306,30,Female,Delhi,Google,Digital Services,Data Science,Course Inquiry,48,10,0,51,6,6,4188,1,0,12461,-8273,Medium,2
+1307,24,Male,Bengaluru,LinkedIn,Training,Cyber Security,General Inquiry,77,12,3,45,5,5,4248,1,1,8439,-4191,High,1
+1308,53,Female,Mumbai,Instagram,Digital Services,Software Development,Course Inquiry,89,2,4,33,4,10,6842,0,0,12055,-5213,High,2
+1309,37,Male,Mysuru,Direct,Internship,Cloud Computing,Technical Support,97,6,0,100,4,9,16775,1,1,14398,2377,High,0
+1310,18,Female,Mumbai,Google,Digital Services,Data Science,Internship Inquiry,41,3,0,83,0,1,14165,1,0,12863,1302,Medium,3
+1311,25,Female,Mysuru,Instagram,Internship,Data Science,Service Inquiry,25,11,0,60,3,3,4630,1,0,9219,-4589,Low,1
+1312,33,Male,Mumbai,Instagram,Digital Services,Web Development,Internship Inquiry,45,6,0,71,2,3,21141,0,0,6376,14765,Medium,3
+1313,31,Female,Chennai,Google,IT Services,Cloud Computing,General Inquiry,58,3,1,70,3,6,3529,1,0,6847,-3318,Medium,2
+1314,29,Female,Pune,Google,Software Services,Data Science,Service Inquiry,31,8,1,69,0,8,19730,0,0,4922,14808,Low,3
+1315,40,Male,Mysuru,Instagram,Training,Web Development,Internship Inquiry,33,11,2,10,2,3,13682,1,0,6215,7467,Low,1
+1316,32,Male,Mumbai,LinkedIn,Internship,Cyber Security,Service Inquiry,41,13,0,81,2,3,4535,0,0,5322,-787,Medium,1
+1317,45,Female,Other,Instagram,Internship,AI & ML,Course Inquiry,70,4,2,92,1,6,15627,1,1,7883,7744,Medium,3
+1318,51,Male,Bengaluru,LinkedIn,Digital Services,Cyber Security,Technical Support,42,12,3,88,3,8,3399,0,0,14379,-10980,Medium,1
+1319,19,Female,Chennai,YouTube,IT Services,IT Support,Internship Inquiry,67,10,2,62,3,6,10138,1,1,2289,7849,Medium,1
+1320,49,Male,Chennai,Google,Digital Services,Web Development,General Inquiry,90,6,4,20,1,10,21327,0,0,2256,19071,High,3
+1321,40,Female,Bengaluru,LinkedIn,Internship,Web Development,Course Inquiry,69,9,1,2,7,3,21673,1,0,9210,12463,Medium,0
+1322,39,Male,Mumbai,Facebook,Training,Data Science,Internship Inquiry,32,2,1,81,4,4,13722,0,0,13144,578,Low,3
+1323,42,Female,Other,LinkedIn,Internship,Digital Marketing,Course Inquiry,29,2,0,87,0,1,17796,1,0,12376,5420,Low,3
+1324,39,Female,Hyderabad,YouTube,Software Services,Digital Marketing,General Inquiry,74,7,0,9,3,8,4742,0,0,3880,862,High,1
+1325,39,Female,Bengaluru,Instagram,Digital Services,Software Development,Internship Inquiry,28,2,3,26,1,4,24425,1,0,10203,14222,Low,3
+1326,23,Female,Mumbai,Referral,Software Services,Digital Marketing,General Inquiry,98,2,3,11,6,6,18595,0,0,5085,13510,High,2
+1327,32,Male,Bengaluru,Referral,Training,Web Development,Service Inquiry,71,4,4,6,7,3,1939,0,0,13947,-12008,High,2
+1328,54,Female,Bengaluru,LinkedIn,IT Services,Software Development,General Inquiry,21,9,0,16,2,6,6113,1,0,3314,2799,Low,1
+1329,50,Male,Mysuru,Facebook,Digital Services,Cyber Security,Service Inquiry,44,8,0,64,5,9,20514,0,0,13642,6872,Medium,0
+1330,25,Male,Mumbai,Google,Training,Data Science,Internship Inquiry,32,2,3,63,6,9,5875,0,0,7583,-1708,Low,2
+1331,22,Male,Hyderabad,Google,Digital Services,Cyber Security,Service Inquiry,70,8,3,25,1,10,23987,1,0,1829,22158,Medium,3
+1332,21,Male,Pune,Referral,Software Services,Cloud Computing,Internship Inquiry,77,4,3,14,5,3,9377,1,1,1743,7634,High,2
+1333,23,Female,Mysuru,Referral,Software Services,IT Support,Internship Inquiry,53,2,1,32,4,3,21100,1,0,7712,13388,Medium,3
+1334,49,Female,Bengaluru,Google,Digital Services,IT Support,Technical Support,54,11,2,61,0,4,2966,0,0,11971,-9005,Medium,1
+1335,47,Male,Pune,Instagram,Training,Web Development,Internship Inquiry,22,10,2,100,5,7,8324,0,0,5969,2355,Low,0
+1336,52,Male,Delhi,Google,Training,Web Development,Service Inquiry,78,7,0,46,7,3,12829,1,1,2104,10725,High,2
+1337,33,Other,Pune,Instagram,Software Services,Software Development,Technical Support,89,6,1,94,4,10,12130,0,0,1636,10494,High,1
+1338,30,Male,Bengaluru,Referral,Internship,Data Science,Technical Support,67,14,3,34,5,8,21008,1,1,5231,15777,Medium,0
+1339,47,Male,Bengaluru,LinkedIn,Digital Services,AI & ML,Internship Inquiry,83,10,0,64,2,8,17849,0,0,3517,14332,High,1
+1340,36,Male,Other,Instagram,Digital Services,Web Development,General Inquiry,38,5,1,71,2,6,14703,1,0,11912,2791,Low,3
+1341,34,Female,Mumbai,Instagram,IT Services,AI & ML,General Inquiry,86,11,4,75,7,4,7428,1,1,11451,-4023,High,2
+1342,36,Female,Mumbai,Google,Software Services,Cyber Security,Technical Support,92,1,1,82,2,5,22980,1,1,4316,18664,High,3
+1343,45,Male,Mysuru,Instagram,Training,AI & ML,Internship Inquiry,95,2,0,24,2,2,23041,0,0,9390,13651,High,3
+1344,43,Male,Hyderabad,YouTube,Training,Digital Marketing,General Inquiry,24,8,2,56,1,6,9611,1,0,9823,-212,Low,3
+1345,54,Female,Mysuru,Facebook,Internship,Data Science,Internship Inquiry,86,1,3,31,2,3,8620,0,0,4752,3868,High,2
+1346,43,Female,Chennai,Direct,Training,IT Support,Internship Inquiry,30,3,4,62,6,6,11564,1,0,5763,5801,Low,2
+1347,40,Male,Bengaluru,Google,Training,IT Support,Technical Support,87,2,1,11,2,5,18392,1,0,6323,12069,High,3
+1348,26,Female,Pune,Direct,Training,AI & ML,Technical Support,88,5,0,62,6,2,9904,0,0,3261,6643,High,2
+1349,29,Male,Delhi,Referral,Digital Services,IT Support,Course Inquiry,20,4,0,76,1,5,1371,1,0,8289,-6918,Low,3
+1350,18,Male,Bengaluru,Referral,Software Services,Cyber Security,General Inquiry,82,13,3,91,2,5,13082,1,0,8656,4426,High,1
+1351,18,Female,Bengaluru,LinkedIn,Internship,Data Science,General Inquiry,48,7,0,0,7,9,1363,0,0,3931,-2568,Medium,2
+1352,51,Male,Mysuru,Instagram,Training,Digital Marketing,General Inquiry,31,5,0,50,4,8,15383,1,0,6527,8856,Low,3
+1353,49,Female,Delhi,Instagram,Software Services,Data Science,Service Inquiry,96,8,3,69,7,7,12645,0,0,10666,1979,High,0
+1354,42,Male,Delhi,Google,Internship,Web Development,Internship Inquiry,60,4,4,7,4,3,3555,1,1,12267,-8712,Medium,2
+1355,18,Male,Delhi,Google,Internship,AI & ML,Technical Support,21,12,2,67,3,10,22017,1,0,3517,18500,Low,0
+1356,33,Other,Mysuru,Google,Internship,Data Science,General Inquiry,56,6,2,4,4,4,12686,1,0,2246,10440,Medium,2
+1357,22,Male,Bengaluru,LinkedIn,IT Services,Cyber Security,Course Inquiry,64,4,1,88,0,6,3182,0,0,3344,-162,Medium,1
+1358,39,Female,Mysuru,Referral,Internship,IT Support,General Inquiry,99,2,4,85,0,3,13382,1,1,3421,9961,High,3
+1359,46,Male,Mumbai,LinkedIn,Software Services,Cloud Computing,Internship Inquiry,67,1,1,91,0,9,5778,1,0,11532,-5754,Medium,3
+1360,20,Male,Mumbai,Google,Training,Data Science,Internship Inquiry,43,14,2,38,1,8,14305,1,0,5264,9041,Medium,1
+1361,29,Male,Mysuru,Facebook,IT Services,AI & ML,Technical Support,41,14,3,22,7,6,22332,1,0,13292,9040,Medium,0
+1362,43,Female,Delhi,Facebook,Internship,Digital Marketing,Service Inquiry,30,1,0,67,4,4,17497,1,0,9645,7852,Low,3
+1363,33,Male,Other,Referral,IT Services,IT Support,Technical Support,77,8,2,51,7,7,2372,1,1,922,1450,High,2
+1364,54,Female,Bengaluru,Facebook,Digital Services,Digital Marketing,General Inquiry,65,14,4,3,6,3,11846,1,1,13583,-1737,Medium,0
+1365,39,Male,Mysuru,LinkedIn,Digital Services,AI & ML,Course Inquiry,48,4,2,46,0,10,8223,0,0,13489,-5266,Medium,3
+1366,46,Female,Mysuru,Facebook,Digital Services,IT Support,Technical Support,54,5,4,20,3,8,14371,1,0,7975,6396,Medium,3
+1367,31,Male,Mysuru,Google,IT Services,Web Development,Service Inquiry,34,11,4,100,1,1,16446,0,0,7764,8682,Low,3
+1368,45,Female,Other,Instagram,Software Services,IT Support,Technical Support,79,8,4,55,3,3,7689,0,0,8475,-786,High,1
+1369,22,Female,Other,Google,Digital Services,Web Development,Internship Inquiry,61,12,1,65,4,5,13252,1,1,5035,8217,Medium,0
+1370,47,Female,Chennai,Google,Digital Services,Digital Marketing,General Inquiry,62,7,3,58,2,5,12065,1,1,11762,303,Medium,3
+1371,22,Female,Mumbai,Google,Internship,Digital Marketing,General Inquiry,99,13,2,6,3,10,22270,1,0,4019,18251,High,0
+1372,29,Female,Pune,YouTube,Internship,AI & ML,General Inquiry,93,8,3,48,2,2,7442,1,0,3564,3878,High,1
+1373,33,Female,Delhi,Referral,Internship,Web Development,General Inquiry,68,13,0,15,1,10,15230,1,1,10149,5081,Medium,1
+1374,43,Male,Hyderabad,LinkedIn,Digital Services,Digital Marketing,General Inquiry,83,8,2,16,3,8,11883,1,1,6289,5594,High,1
+1375,43,Male,Other,Google,Training,Web Development,General Inquiry,51,6,3,83,3,5,744,1,0,4518,-3774,Medium,2
+1376,38,Female,Pune,Referral,Training,Digital Marketing,Course Inquiry,83,10,3,86,5,7,520,0,0,7136,-6616,High,1
+1377,53,Female,Other,YouTube,Software Services,IT Support,Service Inquiry,21,2,0,97,1,7,14417,0,0,2980,11437,Low,3
+1378,50,Female,Delhi,Instagram,Software Services,Data Science,General Inquiry,43,6,4,74,1,5,14221,0,0,11679,2542,Medium,3
+1379,47,Male,Hyderabad,YouTube,Software Services,Cyber Security,Service Inquiry,85,14,2,33,0,8,6267,1,1,7598,-1331,High,1
+1380,54,Male,Chennai,Instagram,Training,Cloud Computing,General Inquiry,57,1,2,32,4,9,10747,1,0,2652,8095,Medium,2
+1381,40,Male,Mysuru,Instagram,Digital Services,Cyber Security,Technical Support,50,1,0,25,3,4,4015,0,0,5488,-1473,Medium,2
+1382,27,Female,Chennai,Direct,Training,IT Support,General Inquiry,45,11,4,65,7,4,2410,1,0,8720,-6310,Medium,2
+1383,22,Male,Other,Instagram,Internship,Software Development,Internship Inquiry,48,3,2,62,3,8,22766,0,0,625,22141,Medium,3
+1384,53,Male,Chennai,LinkedIn,Internship,Cyber Security,Course Inquiry,86,3,2,86,6,1,11250,0,0,14065,-2815,High,2
+1385,51,Male,Pune,Direct,Training,Data Science,Technical Support,97,11,2,40,1,4,8576,1,1,9161,-585,High,1
+1386,48,Male,Bengaluru,Referral,Training,Software Development,Technical Support,44,13,4,85,7,6,18506,1,0,13707,4799,Medium,0
+1387,27,Female,Other,Google,Digital Services,Digital Marketing,Internship Inquiry,67,5,0,57,1,4,15551,0,0,4175,11376,Medium,3
+1388,36,Male,Other,Google,Internship,Cloud Computing,General Inquiry,84,1,2,97,4,6,4814,1,1,8999,-4185,High,2
+1389,49,Female,Pune,Google,Digital Services,Cloud Computing,Course Inquiry,72,10,3,78,1,5,2953,1,1,10244,-7291,High,1
+1390,18,Male,Mumbai,YouTube,IT Services,Digital Marketing,Technical Support,86,6,4,9,2,9,2515,1,0,6869,-4354,High,1
+1391,22,Male,Hyderabad,LinkedIn,Training,Digital Marketing,Course Inquiry,37,7,1,14,2,10,10736,0,0,11064,-328,Low,3
+1392,21,Male,Mysuru,Google,IT Services,Web Development,Technical Support,28,10,0,41,5,9,3300,1,0,2324,976,Low,1
+1393,33,Male,Pune,Facebook,Training,Digital Marketing,General Inquiry,57,12,3,92,2,4,9523,0,0,14534,-5011,Medium,1
+1394,41,Male,Hyderabad,LinkedIn,IT Services,AI & ML,Technical Support,40,13,2,56,2,4,12384,1,0,1500,10884,Low,1
+1395,33,Male,Delhi,Google,Training,Cyber Security,Technical Support,84,11,1,86,4,8,16852,1,1,5215,11637,High,0
+1396,19,Female,Hyderabad,LinkedIn,Internship,Digital Marketing,Service Inquiry,40,3,0,16,3,10,13382,1,0,8857,4525,Low,3
+1397,45,Male,Delhi,YouTube,Internship,AI & ML,General Inquiry,46,4,4,59,2,4,10846,0,0,2164,8682,Medium,3
+1398,49,Female,Pune,Google,IT Services,Digital Marketing,Internship Inquiry,89,10,1,8,7,2,23636,0,0,5767,17869,High,0
+1399,44,Female,Other,Instagram,Software Services,Web Development,Internship Inquiry,63,11,1,35,5,2,14535,0,0,10337,4198,Medium,0
+1400,37,Female,Other,Referral,Training,AI & ML,General Inquiry,47,10,3,72,1,1,24337,1,0,5479,18858,Medium,3
+1401,41,Male,Mumbai,LinkedIn,Digital Services,Cyber Security,Internship Inquiry,64,14,0,79,2,5,16608,0,0,10931,5677,Medium,1
+1402,29,Male,Pune,LinkedIn,Digital Services,Data Science,General Inquiry,36,12,3,35,5,6,3353,0,0,2560,793,Low,1
+1403,52,Male,Delhi,LinkedIn,Software Services,AI & ML,Internship Inquiry,59,10,3,47,4,9,19120,1,0,14142,4978,Medium,0
+1404,50,Male,Hyderabad,Google,Digital Services,IT Support,Service Inquiry,22,14,2,50,6,5,4676,1,0,2239,2437,Low,1
+1405,50,Other,Hyderabad,Google,IT Services,Web Development,Internship Inquiry,95,10,4,96,6,6,2655,1,1,1384,1271,High,2
+1406,54,Male,Delhi,LinkedIn,Digital Services,Software Development,Technical Support,95,10,1,94,6,6,22582,0,0,14843,7739,High,0
+1407,29,Male,Chennai,Google,Software Services,Cyber Security,General Inquiry,85,3,0,69,1,3,7329,1,1,4134,3195,High,3
+1408,20,Female,Mumbai,Google,Training,AI & ML,Course Inquiry,65,1,4,73,5,4,2386,1,1,11609,-9223,Medium,2
+1409,18,Female,Bengaluru,Direct,Training,IT Support,Course Inquiry,49,8,4,79,2,1,6971,1,0,5994,977,Medium,1
+1410,50,Female,Other,Facebook,Internship,IT Support,General Inquiry,88,13,0,67,3,4,20654,0,0,14624,6030,High,0
+1411,27,Male,Mysuru,Referral,Digital Services,Cyber Security,Service Inquiry,28,10,4,21,1,1,13089,1,0,8372,4717,Low,3
+1412,46,Male,Hyderabad,Direct,Digital Services,Cyber Security,Internship Inquiry,30,10,2,76,1,5,8891,1,0,11174,-2283,Low,1
+1413,30,Male,Mysuru,Google,Internship,IT Support,Service Inquiry,88,2,4,79,6,8,19824,1,1,977,18847,High,0
+1414,29,Male,Bengaluru,Facebook,IT Services,Digital Marketing,Course Inquiry,85,1,2,92,3,8,20374,1,1,3579,16795,High,3
+1415,48,Male,Pune,Google,IT Services,IT Support,General Inquiry,50,14,1,5,6,5,13850,0,0,2618,11232,Medium,0
+1416,19,Male,Mysuru,Facebook,Internship,Digital Marketing,General Inquiry,52,8,1,25,1,10,8399,0,0,14986,-6587,Medium,1
+1417,52,Male,Bengaluru,Facebook,Software Services,Software Development,Service Inquiry,58,7,3,74,2,2,806,1,0,4277,-3471,Medium,1
+1418,40,Male,Other,Referral,Internship,Web Development,Service Inquiry,65,7,2,87,6,6,3575,1,1,12654,-9079,Medium,2
+1419,34,Male,Delhi,Facebook,Internship,Cloud Computing,Internship Inquiry,56,4,1,92,6,1,18540,1,0,2639,15901,Medium,2
+1420,43,Female,Chennai,LinkedIn,IT Services,Digital Marketing,Technical Support,79,11,4,2,7,7,7744,1,1,8004,-260,High,0
+1421,25,Female,Other,Instagram,Digital Services,IT Support,Technical Support,50,9,0,51,6,4,7111,1,0,13223,-6112,Medium,2
+1422,46,Female,Hyderabad,LinkedIn,Internship,IT Support,Internship Inquiry,30,6,0,73,1,5,23206,1,0,13412,9794,Low,3
+1423,43,Male,Bengaluru,YouTube,Digital Services,Data Science,Technical Support,21,2,2,59,2,6,19576,0,0,5469,14107,Low,3
+1424,27,Male,Mysuru,Google,IT Services,IT Support,Course Inquiry,46,14,3,62,3,1,14634,1,0,5787,8847,Medium,0
+1425,43,Male,Hyderabad,YouTube,Internship,Web Development,Technical Support,21,1,4,64,0,9,18648,0,0,2189,16459,Low,3
+1426,51,Female,Chennai,Facebook,Internship,AI & ML,Internship Inquiry,40,1,2,51,3,10,775,0,0,8068,-7293,Low,2
+1427,24,Female,Delhi,Google,IT Services,AI & ML,Technical Support,77,9,0,89,2,4,5771,1,1,9458,-3687,High,1
+1428,21,Male,Pune,Referral,Training,IT Support,General Inquiry,24,4,2,75,4,8,7831,1,0,1144,6687,Low,2
+1429,28,Female,Hyderabad,Direct,Software Services,Data Science,Service Inquiry,71,5,4,13,6,5,12053,1,0,8420,3633,High,2
+1430,46,Male,Pune,Facebook,Digital Services,Digital Marketing,Course Inquiry,64,3,1,88,3,8,12073,1,1,2097,9976,Medium,3
+1431,53,Male,Bengaluru,Facebook,Software Services,Web Development,General Inquiry,39,4,4,71,4,1,21909,1,0,5951,15958,Low,3
+1432,42,Female,Chennai,LinkedIn,Training,Data Science,General Inquiry,80,12,1,67,4,8,20934,0,0,14360,6574,High,0
+1433,38,Female,Mysuru,Facebook,Software Services,Digital Marketing,Internship Inquiry,57,8,1,27,2,4,24964,1,0,5350,19614,Medium,3
+1434,53,Female,Chennai,Referral,Training,Web Development,Service Inquiry,39,13,1,70,2,2,20344,1,0,1897,18447,Low,0
+1435,27,Female,Chennai,Google,Training,IT Support,Service Inquiry,44,4,2,9,7,6,10572,1,0,14663,-4091,Medium,2
+1436,54,Male,Mumbai,LinkedIn,Internship,AI & ML,Course Inquiry,21,9,0,56,6,2,16517,0,0,11206,5311,Low,0
+1437,26,Female,Chennai,Referral,Internship,Web Development,Internship Inquiry,51,9,2,99,0,5,20719,0,0,11757,8962,Medium,3
+1438,41,Male,Chennai,Google,Digital Services,IT Support,Course Inquiry,45,6,0,65,5,2,21162,1,0,10880,10282,Medium,0
+1439,52,Female,Other,YouTube,IT Services,Software Development,Technical Support,89,2,4,89,1,3,18728,1,1,13899,4829,High,3
+1440,52,Male,Hyderabad,YouTube,Internship,Cloud Computing,General Inquiry,60,12,3,49,3,6,16955,1,1,6085,10870,Medium,0
+1441,53,Female,Mysuru,Google,IT Services,Web Development,Course Inquiry,86,10,4,13,2,1,7886,1,1,1865,6021,High,1
+1442,35,Male,Other,LinkedIn,Training,Cloud Computing,General Inquiry,20,11,2,15,3,6,7362,1,0,13011,-5649,Low,1
+1443,49,Female,Other,Referral,IT Services,Web Development,Internship Inquiry,70,7,2,53,5,3,7840,1,1,9962,-2122,Medium,2
+1444,41,Male,Hyderabad,LinkedIn,Training,Cloud Computing,Technical Support,24,9,0,42,5,7,9987,1,0,10125,-138,Low,0
+1445,40,Female,Hyderabad,Google,Digital Services,Software Development,Internship Inquiry,32,6,2,41,6,2,15561,1,0,9151,6410,Low,2
+1446,49,Male,Bengaluru,Google,Digital Services,AI & ML,Technical Support,38,3,1,80,4,6,8135,0,0,10549,-2414,Low,2
+1447,54,Male,Hyderabad,Instagram,IT Services,Cyber Security,Technical Support,31,14,2,21,6,8,15104,1,0,9743,5361,Low,0
+1448,29,Male,Mumbai,Facebook,Training,Digital Marketing,General Inquiry,67,7,0,67,1,1,17927,1,0,11868,6059,Medium,3
+1449,30,Male,Mumbai,Google,Training,Cloud Computing,Internship Inquiry,44,5,0,18,0,9,3542,1,0,9660,-6118,Medium,1
+1450,40,Female,Other,YouTube,Digital Services,Software Development,Internship Inquiry,76,1,1,65,3,5,17698,0,0,1985,15713,High,3
+1451,42,Male,Pune,Google,Training,Cloud Computing,Course Inquiry,54,3,0,38,1,5,22506,1,0,12341,10165,Medium,3
+1452,52,Female,Bengaluru,Instagram,Internship,AI & ML,Internship Inquiry,95,5,3,72,7,5,10886,1,0,6148,4738,High,2
+1453,47,Male,Pune,Direct,Internship,Cloud Computing,Course Inquiry,24,7,4,18,0,6,12192,1,0,14698,-2506,Low,3
+1454,34,Male,Pune,Referral,IT Services,Software Development,Service Inquiry,41,3,2,15,3,2,24216,0,0,2807,21409,Medium,3
+1455,37,Female,Other,Google,IT Services,IT Support,Service Inquiry,96,6,3,53,1,6,15725,1,1,8790,6935,High,3
+1456,42,Female,Delhi,Instagram,Digital Services,Software Development,Service Inquiry,76,5,2,24,2,4,17193,1,1,2830,14363,High,3
+1457,39,Male,Other,Google,Internship,Cyber Security,Internship Inquiry,66,13,3,17,3,8,7161,1,1,10838,-3677,Medium,1
+1458,30,Female,Mysuru,LinkedIn,Training,Cyber Security,Internship Inquiry,73,1,2,22,1,9,10753,0,0,7860,2893,High,3
+1459,36,Female,Mysuru,YouTube,Digital Services,Cyber Security,Course Inquiry,22,10,1,84,5,9,21111,1,0,10061,11050,Low,0
+1460,53,Male,Hyderabad,Google,Digital Services,Data Science,Technical Support,72,6,0,10,0,8,18761,0,0,438,18323,High,3
+1461,29,Other,Hyderabad,Instagram,Training,AI & ML,Course Inquiry,50,14,0,38,1,3,19370,0,0,3736,15634,Medium,1
+1462,36,Female,Delhi,Instagram,IT Services,IT Support,Service Inquiry,88,8,1,67,2,10,23770,1,1,14091,9679,High,3
+1463,29,Female,Hyderabad,Direct,Training,Data Science,Course Inquiry,52,13,3,24,6,4,21719,1,0,4061,17658,Medium,0
+1464,26,Male,Mysuru,Facebook,Software Services,AI & ML,Technical Support,91,13,4,62,3,1,12437,1,1,11495,942,High,1
+1465,24,Female,Pune,Google,Internship,IT Support,Internship Inquiry,69,1,3,95,7,9,1294,1,0,9538,-8244,Medium,2
+1466,45,Male,Other,Referral,Software Services,Cloud Computing,Course Inquiry,35,2,0,29,3,5,15098,0,0,9949,5149,Low,3
+1467,31,Male,Chennai,Instagram,Digital Services,IT Support,Service Inquiry,95,14,4,44,3,6,7286,1,1,12130,-4844,High,1
+1468,48,Male,Mumbai,Instagram,IT Services,Software Development,Service Inquiry,96,4,2,89,2,3,4514,0,0,10549,-6035,High,2
+1469,36,Male,Chennai,Referral,Internship,Data Science,Internship Inquiry,58,12,4,60,0,10,7892,1,0,13782,-5890,Medium,1
+1470,33,Female,Chennai,Direct,IT Services,Cloud Computing,Course Inquiry,65,2,3,99,3,8,13045,1,1,11843,1202,Medium,3
+1471,22,Female,Mysuru,Facebook,Training,Software Development,Technical Support,66,11,1,50,0,7,5853,1,1,8691,-2838,Medium,1
+1472,52,Female,Chennai,LinkedIn,Internship,AI & ML,Internship Inquiry,63,9,2,97,1,1,3907,1,1,12090,-8183,Medium,1
+1473,29,Male,Other,Instagram,Digital Services,IT Support,Course Inquiry,28,10,3,8,5,10,17858,1,0,12445,5413,Low,0
+1474,42,Male,Delhi,Referral,Software Services,Software Development,General Inquiry,69,8,2,75,7,5,21121,1,1,8099,13022,Medium,0
+1475,38,Male,Bengaluru,Instagram,IT Services,Cloud Computing,Service Inquiry,96,8,4,1,5,10,16553,0,0,7345,9208,High,0
+1476,53,Other,Hyderabad,LinkedIn,Digital Services,Data Science,Technical Support,79,4,0,4,0,9,13689,0,0,6061,7628,High,3
+1477,40,Male,Bengaluru,Instagram,Internship,Data Science,Technical Support,34,5,3,61,0,6,11713,1,0,13251,-1538,Low,3
+1478,33,Female,Pune,YouTube,Training,Cyber Security,Technical Support,55,4,1,68,5,8,7748,1,0,448,7300,Medium,2
+1479,31,Female,Other,Google,Internship,IT Support,Service Inquiry,82,13,4,51,3,10,4869,0,0,10960,-6091,High,1
+1480,48,Male,Other,Google,IT Services,Software Development,Course Inquiry,88,9,3,85,4,1,8550,0,0,12521,-3971,High,2
+1481,22,Female,Mumbai,Direct,Software Services,Cyber Security,Internship Inquiry,99,13,1,4,4,10,17348,1,1,4523,12825,High,0
+1482,52,Male,Other,Google,Digital Services,Cloud Computing,Course Inquiry,60,2,3,58,2,7,22211,1,1,13072,9139,Medium,3
+1483,40,Female,Hyderabad,LinkedIn,Internship,Cyber Security,Internship Inquiry,93,13,4,67,7,3,5915,0,0,7301,-1386,High,2
+1484,46,Female,Other,Google,Training,Web Development,Technical Support,43,11,3,8,6,9,15898,0,0,3060,12838,Medium,0
+1485,28,Male,Chennai,Google,IT Services,AI & ML,Course Inquiry,68,8,2,92,5,6,8615,1,0,923,7692,Medium,2
+1486,35,Male,Mumbai,Google,Training,Cyber Security,Technical Support,37,2,4,21,5,5,787,1,0,769,18,Low,2
+1487,29,Female,Hyderabad,Google,Digital Services,AI & ML,General Inquiry,26,1,3,26,2,8,3695,0,0,8611,-4916,Low,3
+1488,26,Female,Delhi,Direct,Digital Services,Cloud Computing,Technical Support,23,10,0,9,7,8,18876,0,0,9786,9090,Low,0
+1489,27,Male,Delhi,Instagram,IT Services,Web Development,Technical Support,88,3,3,79,4,3,7950,1,0,3034,4916,High,2
+1490,34,Female,Delhi,Facebook,Training,Data Science,Internship Inquiry,79,9,2,60,1,2,3425,1,1,8128,-4703,High,1
+1491,24,Female,Delhi,YouTube,Training,IT Support,General Inquiry,74,12,1,50,3,2,15015,1,1,6871,8144,High,1
+1492,30,Female,Chennai,LinkedIn,Internship,Digital Marketing,Technical Support,35,3,1,9,3,5,18004,1,0,2322,15682,Low,3
+1493,26,Male,Other,YouTube,Training,Digital Marketing,Technical Support,48,9,1,5,1,10,5810,0,0,14129,-8319,Medium,1
+1494,44,Female,Bengaluru,LinkedIn,Training,IT Support,General Inquiry,42,7,0,61,1,7,17330,1,0,12623,4707,Medium,3
+1495,19,Female,Hyderabad,Referral,Digital Services,Cloud Computing,General Inquiry,33,13,2,4,7,8,12260,1,0,4200,8060,Low,0
+1496,22,Male,Chennai,Instagram,Digital Services,Web Development,Course Inquiry,98,10,4,69,4,10,15396,0,0,14609,787,High,0
+1497,46,Male,Delhi,Instagram,Internship,Web Development,Internship Inquiry,68,1,1,62,2,8,23511,1,1,12741,10770,Medium,3
+1498,54,Female,Pune,Direct,Training,AI & ML,General Inquiry,52,10,2,55,1,8,19780,1,0,3289,16491,Medium,3
+1499,36,Male,Other,Facebook,Internship,Data Science,General Inquiry,44,5,3,58,2,10,17605,0,0,14442,3163,Medium,3
+1500,25,Female,Bengaluru,Direct,Internship,Software Development,Service Inquiry,40,9,0,62,7,3,19047,0,0,7365,11682,Low,0
+1501,18,Male,Pune,Instagram,Digital Services,Cyber Security,General Inquiry,36,12,2,88,6,2,11274,0,0,7410,3864,Low,0
+1502,39,Male,Mumbai,Referral,Internship,Web Development,Internship Inquiry,42,3,2,58,0,4,15957,0,0,249,15708,Medium,3
+1503,34,Female,Pune,LinkedIn,Training,IT Support,Technical Support,76,9,4,50,3,1,10043,1,1,714,9329,High,1
+1504,24,Male,Mumbai,LinkedIn,Internship,Software Development,Technical Support,100,5,2,49,4,3,4480,1,1,11183,-6703,High,2
+1505,42,Male,Mumbai,Google,Software Services,Digital Marketing,Technical Support,77,9,4,3,3,9,21386,1,1,11170,10216,High,0
+1506,21,Male,Delhi,YouTube,IT Services,Software Development,Technical Support,33,10,0,47,4,7,12076,0,0,11010,1066,Low,0
+1507,53,Female,Mumbai,Google,Internship,Data Science,Service Inquiry,39,6,0,31,7,7,18609,1,0,10229,8380,Low,0
+1508,23,Male,Mysuru,Instagram,IT Services,IT Support,General Inquiry,49,9,3,50,0,1,3913,1,0,4871,-958,Medium,1
+1509,48,Male,Hyderabad,Direct,Digital Services,Data Science,Technical Support,38,7,4,51,3,7,994,1,0,7949,-6955,Low,1
+1510,36,Female,Hyderabad,Google,Software Services,Software Development,Course Inquiry,72,7,4,98,0,10,1447,0,0,1365,82,High,1
+1511,44,Male,Delhi,Google,Internship,Cyber Security,Technical Support,75,8,1,73,7,7,522,0,0,13390,-12868,High,2
+1512,27,Female,Mysuru,Google,Software Services,Cloud Computing,General Inquiry,96,7,1,33,4,4,1628,0,0,10641,-9013,High,2
+1513,43,Male,Pune,Facebook,Software Services,Web Development,Technical Support,42,12,3,35,1,7,14486,1,0,14742,-256,Medium,1
+1514,36,Female,Chennai,LinkedIn,Software Services,IT Support,Service Inquiry,81,9,0,69,6,8,16661,1,1,614,16047,High,0
+1515,20,Male,Pune,Instagram,IT Services,Cloud Computing,Internship Inquiry,52,11,1,42,3,3,16660,1,0,10660,6000,Medium,0
+1516,30,Female,Other,Referral,IT Services,Software Development,Internship Inquiry,37,9,2,15,0,10,17441,1,0,1304,16137,Low,3
+1517,45,Male,Chennai,Direct,Training,Web Development,General Inquiry,92,6,0,58,5,2,10308,1,0,5058,5250,High,2
+1518,37,Male,Mumbai,Instagram,Digital Services,AI & ML,Internship Inquiry,52,7,2,52,3,7,20614,1,0,13050,7564,Medium,3
+1519,45,Male,Bengaluru,YouTube,IT Services,Cloud Computing,Internship Inquiry,51,2,4,18,3,5,22225,1,0,3556,18669,Medium,3
+1520,25,Male,Chennai,Referral,Digital Services,Cloud Computing,Course Inquiry,80,9,0,97,3,5,7498,1,0,2616,4882,High,1
+1521,18,Male,Bengaluru,YouTube,Training,Software Development,General Inquiry,73,12,3,88,2,5,7682,0,0,5811,1871,High,1
+1522,20,Male,Hyderabad,Google,Digital Services,Digital Marketing,General Inquiry,36,13,4,94,0,7,23918,1,0,10326,13592,Low,3
+1523,30,Female,Bengaluru,Direct,Digital Services,Software Development,Internship Inquiry,38,1,4,40,0,9,18540,0,0,5665,12875,Low,3
+1524,45,Male,Hyderabad,LinkedIn,Internship,Cloud Computing,Internship Inquiry,89,1,2,80,3,8,21057,0,0,8595,12462,High,3
+1525,42,Male,Mysuru,Instagram,Digital Services,Web Development,Internship Inquiry,53,3,4,46,7,6,22325,1,0,7392,14933,Medium,0
+1526,50,Female,Mysuru,Instagram,IT Services,Cyber Security,Service Inquiry,44,12,1,93,7,7,9498,1,0,5872,3626,Medium,0
+1527,23,Female,Delhi,Google,Digital Services,Digital Marketing,Technical Support,87,6,0,53,1,9,3812,0,0,8460,-4648,High,1
+1528,49,Male,Delhi,Google,Training,Software Development,Service Inquiry,93,5,1,54,3,6,13829,1,1,8907,4922,High,3
+1529,38,Male,Mumbai,Referral,Training,Cyber Security,General Inquiry,93,2,2,94,2,1,16302,1,1,3763,12539,High,3
+1530,33,Male,Chennai,Google,Software Services,IT Support,Course Inquiry,30,9,2,18,4,4,11667,1,0,6583,5084,Low,0
+1531,38,Female,Mumbai,Instagram,Training,Software Development,Technical Support,35,14,0,61,2,8,2824,1,0,12848,-10024,Low,1
+1532,28,Female,Hyderabad,LinkedIn,Digital Services,Cloud Computing,Course Inquiry,80,13,4,98,7,7,10139,1,0,9856,283,High,0
+1533,54,Male,Mumbai,Google,IT Services,Cyber Security,General Inquiry,99,10,3,92,1,3,22479,1,1,13542,8937,High,3
+1534,53,Female,Bengaluru,Facebook,IT Services,Cloud Computing,General Inquiry,26,14,2,58,7,10,13838,1,0,14410,-572,Low,0
+1535,52,Female,Hyderabad,Google,Training,AI & ML,Course Inquiry,35,4,0,64,7,3,11253,1,0,10044,1209,Low,2
+1536,36,Female,Delhi,Instagram,IT Services,Cyber Security,Course Inquiry,35,4,3,67,7,3,6484,0,0,9098,-2614,Low,2
+1537,37,Female,Mysuru,Instagram,Training,Cyber Security,Course Inquiry,59,5,4,27,3,1,19395,1,0,10017,9378,Medium,3
+1538,35,Male,Delhi,Google,Internship,Software Development,General Inquiry,31,8,2,17,7,10,15642,0,0,7033,8609,Low,0
+1539,31,Male,Chennai,Google,Training,Cloud Computing,Internship Inquiry,54,10,0,25,0,1,11563,1,0,4952,6611,Medium,1
+1540,32,Male,Hyderabad,Referral,Internship,IT Support,Course Inquiry,40,4,0,18,6,6,862,0,0,8323,-7461,Low,2
+1541,48,Male,Hyderabad,Facebook,Software Services,Data Science,Technical Support,69,5,0,54,5,1,3954,1,1,3985,-31,Medium,2
+1542,18,Male,Bengaluru,Google,Software Services,Digital Marketing,General Inquiry,62,12,2,56,3,5,19682,1,1,9737,9945,Medium,0
+1543,20,Female,Chennai,YouTube,Training,Data Science,Service Inquiry,36,4,3,5,1,4,21504,0,0,8735,12769,Low,3
+1544,33,Male,Mysuru,Referral,Digital Services,Digital Marketing,Service Inquiry,51,14,0,0,0,5,3755,1,0,12178,-8423,Medium,1
+1545,40,Male,Pune,Direct,Training,IT Support,Technical Support,60,6,4,7,2,7,18101,0,0,8927,9174,Medium,3
+1546,28,Male,Hyderabad,Instagram,Digital Services,Cyber Security,Internship Inquiry,25,12,0,96,7,6,18369,1,0,8746,9623,Low,0
+1547,29,Female,Hyderabad,Instagram,Digital Services,Cyber Security,Course Inquiry,46,3,3,50,4,9,5849,1,0,11934,-6085,Medium,2
+1548,27,Male,Bengaluru,Instagram,Software Services,Software Development,General Inquiry,39,8,2,84,4,6,7695,0,0,5223,2472,Low,2
+1549,49,Male,Mumbai,Referral,Training,AI & ML,Course Inquiry,44,6,0,87,6,9,10547,1,0,1182,9365,Medium,2
+1550,33,Male,Other,Referral,Digital Services,Cloud Computing,General Inquiry,85,10,0,24,3,4,8250,0,0,14505,-6255,High,1
+1551,25,Male,Mysuru,Google,Training,Cloud Computing,Service Inquiry,28,5,4,46,2,1,22963,1,0,14640,8323,Low,3
+1552,29,Other,Delhi,Instagram,Software Services,Cloud Computing,Course Inquiry,72,13,4,54,6,1,9899,1,0,1545,8354,High,0
+1553,41,Female,Chennai,Direct,Internship,Software Development,Technical Support,80,2,0,63,5,10,14186,0,0,5891,8295,High,2
+1554,45,Male,Hyderabad,Referral,IT Services,Digital Marketing,Internship Inquiry,57,10,0,82,5,7,8535,1,0,6202,2333,Medium,1
+1555,25,Female,Hyderabad,Facebook,Digital Services,Cyber Security,Technical Support,22,10,4,92,6,3,2007,1,0,11401,-9394,Low,2
+1556,45,Female,Delhi,Referral,Digital Services,IT Support,Internship Inquiry,89,7,3,9,1,2,17887,1,1,726,17161,High,3
+1557,53,Female,Mysuru,Instagram,Internship,Cloud Computing,Course Inquiry,74,2,1,55,4,6,23287,0,0,6847,16440,High,3
+1558,43,Male,Other,YouTube,Software Services,Data Science,Course Inquiry,20,1,1,11,2,6,15276,1,0,7452,7824,Low,3
+1559,25,Male,Mumbai,YouTube,Internship,Cloud Computing,Internship Inquiry,89,7,0,32,3,7,17809,0,0,1130,16679,High,0
+1560,45,Male,Hyderabad,Google,IT Services,Cyber Security,Service Inquiry,64,5,4,70,7,5,7083,1,0,11148,-4065,Medium,2
+1561,45,Female,Other,LinkedIn,Internship,Software Development,General Inquiry,66,1,2,16,0,8,4427,0,0,2482,1945,Medium,3
+1562,54,Male,Mysuru,Referral,Training,IT Support,Technical Support,98,4,2,60,3,7,17869,1,1,2146,15723,High,3
+1563,53,Male,Delhi,Google,IT Services,AI & ML,Technical Support,45,12,1,9,3,2,16297,0,0,12319,3978,Medium,0
+1564,44,Male,Bengaluru,Referral,Training,IT Support,Technical Support,33,13,3,30,2,1,4731,1,0,13774,-9043,Low,1
+1565,34,Female,Mumbai,YouTube,Internship,Data Science,Course Inquiry,73,4,1,59,4,9,5802,1,0,10933,-5131,High,2
+1566,26,Male,Chennai,Facebook,Internship,Cloud Computing,Technical Support,90,10,0,69,2,5,5791,1,1,10308,-4517,High,1
+1567,50,Female,Hyderabad,Google,Training,Cloud Computing,General Inquiry,65,7,3,16,0,5,1408,1,1,3560,-2152,Medium,1
+1568,37,Female,Mysuru,Instagram,Digital Services,Web Development,General Inquiry,50,9,2,49,6,10,15623,1,0,9985,5638,Medium,0
+1569,30,Male,Bengaluru,YouTube,Software Services,Digital Marketing,Internship Inquiry,78,2,4,36,2,4,13377,1,0,8312,5065,High,3
+1570,45,Female,Chennai,Instagram,Internship,Data Science,Course Inquiry,48,12,4,81,1,2,14739,1,0,3125,11614,Medium,1
+1571,46,Male,Pune,Referral,Training,Web Development,General Inquiry,36,14,0,61,3,5,21935,1,0,3825,18110,Low,0
+1572,30,Female,Mysuru,Referral,Internship,IT Support,Service Inquiry,33,1,1,89,4,2,3086,1,0,5669,-2583,Low,2
+1573,52,Male,Mysuru,Google,Internship,AI & ML,Course Inquiry,55,2,0,79,7,7,9835,1,0,1423,8412,Medium,2
+1574,23,Female,Chennai,LinkedIn,Digital Services,Digital Marketing,Course Inquiry,77,7,4,71,5,9,16140,0,0,10351,5789,High,0
+1575,35,Female,Bengaluru,LinkedIn,IT Services,Data Science,General Inquiry,43,13,2,87,0,9,18215,1,0,7310,10905,Medium,1
+1576,22,Female,Pune,Instagram,Internship,Cloud Computing,Service Inquiry,82,10,4,76,5,6,23735,0,0,9357,14378,High,0
+1577,42,Female,Other,Facebook,Internship,IT Support,Internship Inquiry,44,6,3,28,3,1,11034,1,0,13451,-2417,Medium,2
+1578,19,Male,Other,Direct,Internship,Data Science,General Inquiry,78,4,4,31,2,6,2306,1,1,5192,-2886,High,1
+1579,27,Female,Delhi,YouTube,Digital Services,Cloud Computing,Service Inquiry,51,1,4,87,5,5,10792,1,0,13846,-3054,Medium,2
+1580,47,Female,Bengaluru,Referral,Software Services,Cyber Security,Course Inquiry,37,13,3,79,1,4,17689,0,0,12070,5619,Low,1
+1581,22,Female,Mumbai,LinkedIn,Internship,Digital Marketing,Service Inquiry,56,1,1,10,2,6,21031,0,0,12704,8327,Medium,3
+1582,50,Male,Hyderabad,Facebook,Internship,Cyber Security,Course Inquiry,45,5,4,95,3,6,11467,1,0,9014,2453,Medium,3
+1583,18,Female,Chennai,YouTube,Software Services,Cyber Security,General Inquiry,28,1,0,5,5,6,16955,1,0,12840,4115,Low,3
+1584,35,Female,Delhi,Referral,Software Services,Cloud Computing,General Inquiry,83,12,4,34,7,2,527,1,1,4987,-4460,High,2
+1585,49,Female,Pune,Direct,Training,AI & ML,Technical Support,91,7,0,32,6,7,9160,1,0,7018,2142,High,2
+1586,28,Male,Chennai,Instagram,Internship,IT Support,Technical Support,39,13,3,17,0,4,20867,1,0,4926,15941,Low,3
+1587,38,Female,Chennai,Referral,Internship,Software Development,Technical Support,73,11,4,36,5,9,7555,0,0,2572,4983,High,1
+1588,43,Male,Bengaluru,Google,IT Services,Cloud Computing,General Inquiry,49,1,3,12,7,10,23574,1,0,11340,12234,Medium,0
+1589,42,Female,Hyderabad,Instagram,Training,AI & ML,Internship Inquiry,72,1,3,73,6,2,10116,0,0,3499,6617,High,2
+1590,39,Male,Mumbai,Instagram,Internship,Software Development,General Inquiry,82,2,1,100,6,5,10940,1,1,9560,1380,High,2
+1591,44,Female,Other,Facebook,IT Services,IT Support,Service Inquiry,30,13,4,89,5,4,4332,0,0,6651,-2319,Low,1
+1592,30,Other,Mysuru,Direct,Internship,Cyber Security,General Inquiry,50,14,0,80,4,9,16470,1,0,13141,3329,Medium,0
+1593,50,Male,Mysuru,Referral,Digital Services,Digital Marketing,General Inquiry,68,11,0,63,5,4,13607,0,0,14820,-1213,Medium,0
+1594,51,Female,Chennai,Referral,Training,Digital Marketing,Course Inquiry,38,12,4,0,3,8,14277,1,0,8783,5494,Low,1
+1595,52,Male,Other,LinkedIn,Internship,IT Support,Course Inquiry,31,10,1,62,6,8,16454,0,0,4009,12445,Low,0
+1596,18,Female,Other,Facebook,IT Services,IT Support,Course Inquiry,34,3,1,88,0,6,17443,1,0,2607,14836,Low,3
+1597,38,Female,Hyderabad,LinkedIn,Training,Data Science,General Inquiry,50,13,1,33,3,6,8457,1,0,5064,3393,Medium,1
+1598,23,Female,Pune,Instagram,Software Services,AI & ML,Internship Inquiry,62,11,0,9,1,8,13166,0,0,13284,-118,Medium,1
+1599,45,Female,Pune,Google,IT Services,Cyber Security,Service Inquiry,56,1,3,83,2,10,20715,1,0,5227,15488,Medium,3
+1600,34,Female,Delhi,Referral,Training,AI & ML,Service Inquiry,98,9,1,6,5,9,10610,1,0,14458,-3848,High,1
+1601,22,Male,Bengaluru,Referral,Digital Services,IT Support,Internship Inquiry,48,10,0,55,4,5,7844,0,0,4460,3384,Medium,1
+1602,48,Male,Hyderabad,Instagram,Training,Web Development,Internship Inquiry,45,8,0,79,0,1,22055,0,0,5028,17027,Medium,3
+1603,22,Female,Hyderabad,Google,Software Services,Web Development,Service Inquiry,21,5,3,36,4,1,16962,1,0,8972,7990,Low,3
+1604,20,Female,Bengaluru,Direct,Training,Software Development,Technical Support,34,13,4,28,4,2,14196,0,0,9212,4984,Low,0
+1605,40,Female,Other,Google,IT Services,Software Development,Course Inquiry,23,11,4,11,4,10,21813,0,0,9639,12174,Low,0
+1606,54,Female,Pune,Referral,Internship,Web Development,Course Inquiry,69,2,1,16,5,10,20531,0,0,8515,12016,Medium,3
+1607,54,Male,Pune,Facebook,Training,IT Support,Service Inquiry,57,5,1,47,0,5,1531,1,0,14459,-12928,Medium,1
+1608,27,Female,Other,LinkedIn,Digital Services,IT Support,Internship Inquiry,42,6,3,83,0,4,24265,1,0,12831,11434,Medium,3
+1609,27,Male,Pune,Google,Digital Services,Software Development,Technical Support,78,14,1,25,6,1,18956,0,0,2074,16882,High,0
+1610,36,Male,Chennai,Referral,Internship,Cloud Computing,Service Inquiry,94,1,3,82,4,4,23795,1,0,8915,14880,High,3
+1611,34,Male,Hyderabad,Referral,Internship,IT Support,Course Inquiry,47,11,0,11,6,4,15590,1,0,3323,12267,Medium,0
+1612,38,Male,Mysuru,LinkedIn,Digital Services,Web Development,General Inquiry,85,4,1,20,6,10,22972,0,0,4424,18548,High,0
+1613,31,Male,Bengaluru,Facebook,Software Services,AI & ML,Internship Inquiry,27,9,0,41,2,4,16316,0,0,5454,10862,Low,3
+1614,26,Male,Pune,Google,Internship,IT Support,General Inquiry,48,2,2,60,5,1,18368,1,0,3398,14970,Medium,2
+1615,18,Female,Delhi,LinkedIn,IT Services,Cyber Security,Service Inquiry,30,5,3,57,5,9,10937,1,0,11177,-240,Low,2
+1616,30,Male,Pune,Referral,Training,IT Support,Course Inquiry,37,1,2,53,3,3,15953,0,0,7282,8671,Low,3
+1617,21,Male,Pune,Direct,Software Services,Cloud Computing,Technical Support,74,4,1,33,7,4,22722,1,1,10510,12212,High,0
+1618,18,Male,Mumbai,Google,Internship,Software Development,General Inquiry,69,4,0,6,6,5,14758,1,1,14808,-50,Medium,2
+1619,49,Male,Chennai,Referral,Internship,IT Support,Technical Support,33,6,1,34,5,7,2050,0,0,1410,640,Low,2
+1620,51,Male,Bengaluru,LinkedIn,Digital Services,Digital Marketing,Course Inquiry,93,10,2,14,4,6,13477,1,0,9418,4059,High,1
+1621,45,Male,Mumbai,Instagram,Internship,Data Science,General Inquiry,28,9,1,64,7,5,22381,1,0,5604,16777,Low,0
+1622,48,Female,Mumbai,Google,IT Services,Web Development,Technical Support,30,3,4,89,1,8,5182,1,0,4317,865,Low,3
+1623,25,Female,Delhi,Direct,Training,Cyber Security,Technical Support,82,9,2,98,4,1,14939,1,1,12653,2286,High,0
+1624,43,Female,Hyderabad,Google,Training,Cyber Security,General Inquiry,95,6,1,24,0,7,18713,0,0,5629,13084,High,3
+1625,51,Male,Delhi,Instagram,Training,Cyber Security,Course Inquiry,86,7,0,58,5,6,4251,1,1,13988,-9737,High,2
+1626,20,Male,Hyderabad,Instagram,IT Services,Digital Marketing,Technical Support,72,12,1,78,7,5,22965,1,1,8889,14076,High,0
+1627,29,Female,Hyderabad,Direct,Internship,Cyber Security,Service Inquiry,58,10,0,85,5,7,13414,1,0,12921,493,Medium,0
+1628,18,Male,Bengaluru,YouTube,IT Services,Cyber Security,General Inquiry,97,2,4,5,3,3,10723,0,0,11197,-474,High,2
+1629,22,Male,Pune,Referral,Digital Services,Software Development,Internship Inquiry,75,11,1,51,6,1,15898,1,0,14769,1129,High,0
+1630,47,Male,Bengaluru,Instagram,Digital Services,AI & ML,Internship Inquiry,47,10,4,78,1,9,7101,0,0,13324,-6223,Medium,1
+1631,47,Male,Chennai,YouTube,Internship,Data Science,Course Inquiry,94,14,2,87,5,2,21343,0,0,10085,11258,High,0
+1632,34,Male,Hyderabad,LinkedIn,Internship,Digital Marketing,Service Inquiry,58,6,0,20,3,10,4356,0,0,4958,-602,Medium,1
+1633,40,Male,Mumbai,Direct,Training,Data Science,Technical Support,44,6,2,70,3,3,13161,1,0,8382,4779,Medium,3
+1634,32,Female,Pune,Direct,Training,Web Development,Internship Inquiry,40,2,0,92,1,8,16091,0,0,9116,6975,Low,3
+1635,54,Male,Mysuru,Google,Training,Software Development,Course Inquiry,29,2,4,95,4,10,6682,1,0,575,6107,Low,2
+1636,38,Female,Chennai,YouTube,Digital Services,IT Support,Service Inquiry,62,14,3,31,4,9,22967,0,0,7613,15354,Medium,0
+1637,31,Female,Bengaluru,Google,Internship,AI & ML,Service Inquiry,34,2,1,52,4,3,8470,0,0,4598,3872,Low,2
+1638,19,Female,Delhi,LinkedIn,Internship,Software Development,Course Inquiry,67,10,4,58,2,6,15654,0,0,10844,4810,Medium,1
+1639,28,Female,Chennai,Instagram,Training,Data Science,Course Inquiry,40,12,0,68,6,7,2594,0,0,4059,-1465,Low,1
+1640,51,Female,Chennai,Instagram,Digital Services,Digital Marketing,Technical Support,79,1,0,61,7,1,12595,1,1,1886,10709,High,2
+1641,51,Male,Pune,Instagram,Internship,Web Development,Course Inquiry,69,5,0,3,6,7,23122,1,0,13195,9927,Medium,0
+1642,35,Male,Chennai,YouTube,IT Services,Web Development,Technical Support,42,8,0,85,4,4,19916,1,0,5212,14704,Medium,0
+1643,47,Male,Chennai,Instagram,Training,Software Development,Technical Support,32,2,1,17,1,5,14172,1,0,14556,-384,Low,3
+1644,32,Female,Mysuru,Referral,Software Services,IT Support,General Inquiry,88,13,2,98,2,8,18432,1,1,456,17976,High,1
+1645,44,Female,Other,Instagram,Software Services,Digital Marketing,Service Inquiry,23,5,3,80,6,4,14728,1,0,12886,1842,Low,2
+1646,51,Male,Delhi,Google,Training,IT Support,Service Inquiry,97,12,1,55,4,4,9059,0,0,3800,5259,High,1
+1647,50,Female,Delhi,Referral,Internship,IT Support,Service Inquiry,91,8,0,23,2,8,564,1,1,250,314,High,1
+1648,41,Male,Delhi,Instagram,Training,Cyber Security,General Inquiry,28,10,1,65,7,5,3799,1,0,6790,-2991,Low,2
+1649,32,Female,Hyderabad,LinkedIn,Internship,Digital Marketing,Technical Support,54,14,4,12,1,6,5349,0,0,7637,-2288,Medium,1
+1650,47,Male,Mumbai,YouTube,Digital Services,Data Science,Technical Support,40,5,0,61,4,5,6139,0,0,794,5345,Low,2
+1651,34,Male,Other,Instagram,Digital Services,Software Development,Course Inquiry,77,2,3,53,7,1,18919,0,0,13305,5614,High,2
+1652,22,Male,Delhi,Google,Digital Services,Software Development,General Inquiry,37,3,0,14,0,7,11555,1,0,4931,6624,Low,3
+1653,46,Male,Chennai,Instagram,Digital Services,Cyber Security,Course Inquiry,91,6,3,68,7,6,22558,1,1,4073,18485,High,0
+1654,21,Male,Chennai,Facebook,Training,Cloud Computing,General Inquiry,100,11,3,2,5,2,19112,1,0,11828,7284,High,0
+1655,27,Male,Delhi,YouTube,Internship,Software Development,Course Inquiry,62,11,2,36,1,7,22504,1,1,9464,13040,Medium,3
+1656,34,Female,Pune,YouTube,Digital Services,Web Development,Internship Inquiry,25,5,2,36,7,6,17480,1,0,5948,11532,Low,0
+1657,27,Male,Delhi,YouTube,Training,Data Science,Service Inquiry,97,11,1,100,7,5,20490,1,0,5437,15053,High,0
+1658,34,Male,Chennai,Google,Digital Services,Digital Marketing,Service Inquiry,86,4,1,2,3,8,11366,0,0,1676,9690,High,3
+1659,37,Female,Hyderabad,Instagram,Training,Software Development,Technical Support,31,4,3,62,3,5,4389,1,0,5070,-681,Low,2
+1660,41,Female,Bengaluru,Referral,Internship,Data Science,Internship Inquiry,31,5,0,34,7,2,20390,1,0,8232,12158,Low,0
+1661,22,Male,Bengaluru,Google,Software Services,Cyber Security,Service Inquiry,85,2,4,51,7,6,15958,1,1,3220,12738,High,2
+1662,51,Male,Other,Instagram,Internship,Software Development,Technical Support,21,9,4,86,1,1,18279,1,0,6266,12013,Low,3
+1663,23,Male,Other,Instagram,Software Services,Digital Marketing,Internship Inquiry,34,2,0,27,3,5,24413,1,0,8253,16160,Low,3
+1664,19,Male,Delhi,LinkedIn,Software Services,AI & ML,Service Inquiry,42,10,0,93,6,6,952,0,0,10056,-9104,Medium,2
+1665,30,Female,Mysuru,Facebook,Digital Services,Digital Marketing,Course Inquiry,48,2,2,17,1,7,11495,1,0,12884,-1389,Medium,3
+1666,28,Male,Delhi,Google,Digital Services,Digital Marketing,General Inquiry,100,10,4,35,0,2,24220,1,1,11122,13098,High,3
+1667,40,Male,Pune,LinkedIn,IT Services,Digital Marketing,Internship Inquiry,26,14,3,32,1,1,3131,1,0,9787,-6656,Low,1
+1668,33,Female,Delhi,Google,Software Services,Software Development,Technical Support,47,9,1,63,4,6,2686,0,0,8266,-5580,Medium,1
+1669,48,Male,Other,Facebook,Training,Cloud Computing,Internship Inquiry,33,14,2,25,4,3,6467,0,0,12289,-5822,Low,1
+1670,28,Female,Bengaluru,Google,IT Services,Digital Marketing,Technical Support,63,3,4,47,2,5,23258,1,1,13608,9650,Medium,3
+1671,33,Male,Chennai,Instagram,IT Services,Cyber Security,Internship Inquiry,49,10,0,39,3,2,22242,0,0,8367,13875,Medium,0
+1672,25,Female,Delhi,Referral,Training,Web Development,Technical Support,100,7,4,16,7,1,4848,0,0,13016,-8168,High,2
+1673,21,Male,Chennai,Referral,Training,Web Development,Service Inquiry,51,4,3,39,5,1,1959,1,0,4980,-3021,Medium,2
+1674,21,Female,Chennai,Instagram,Training,Cyber Security,Course Inquiry,89,13,2,6,3,4,2442,1,1,4245,-1803,High,1
+1675,42,Female,Mysuru,Instagram,IT Services,Data Science,Service Inquiry,25,13,0,56,6,10,15396,0,0,11052,4344,Low,0
+1676,20,Male,Chennai,Instagram,Software Services,Cloud Computing,Course Inquiry,46,6,3,7,1,2,22306,1,0,2433,19873,Medium,3
+1677,49,Female,Bengaluru,Instagram,Internship,Data Science,Service Inquiry,43,14,1,55,5,1,14907,1,0,8317,6590,Medium,0
+1678,20,Female,Hyderabad,Google,Software Services,Cyber Security,Service Inquiry,53,4,2,30,5,6,16122,0,0,14750,1372,Medium,2
+1679,44,Female,Hyderabad,LinkedIn,Digital Services,Web Development,Internship Inquiry,59,10,3,58,7,4,15057,1,0,11714,3343,Medium,0
+1680,46,Female,Mumbai,Instagram,Digital Services,IT Support,General Inquiry,66,7,3,57,7,10,22080,1,1,6559,15521,Medium,0
+1681,49,Female,Pune,Instagram,IT Services,Web Development,Technical Support,98,1,0,11,3,7,16945,1,1,14564,2381,High,3
+1682,36,Male,Delhi,YouTube,Digital Services,AI & ML,Technical Support,94,3,1,47,5,6,18378,1,1,4397,13981,High,2
+1683,38,Male,Pune,Facebook,Internship,Digital Marketing,Technical Support,43,13,3,30,5,5,18064,1,0,12610,5454,Medium,0
+1684,22,Female,Bengaluru,YouTube,Digital Services,IT Support,Course Inquiry,84,3,2,82,4,10,13593,1,1,10493,3100,High,3
+1685,35,Male,Chennai,Google,Internship,Web Development,Technical Support,37,1,3,62,0,2,23152,0,0,9698,13454,Low,3
+1686,45,Female,Hyderabad,Google,Software Services,Software Development,Technical Support,63,6,4,73,7,5,3288,1,1,10029,-6741,Medium,2
+1687,39,Female,Pune,Facebook,Software Services,Software Development,Internship Inquiry,95,13,2,38,1,9,10900,1,1,9532,1368,High,1
+1688,38,Male,Bengaluru,Instagram,Training,Data Science,Service Inquiry,76,11,2,75,3,9,21520,1,1,815,20705,High,0
+1689,23,Male,Hyderabad,Google,Internship,IT Support,Technical Support,47,14,3,19,7,2,21605,1,0,13044,8561,Medium,0
+1690,18,Female,Chennai,YouTube,Digital Services,Data Science,General Inquiry,90,9,0,100,4,7,22594,0,0,12601,9993,High,0
+1691,22,Male,Pune,YouTube,Training,Digital Marketing,Technical Support,42,8,2,47,6,10,24586,1,0,1766,22820,Medium,0
+1692,29,Female,Hyderabad,YouTube,Software Services,Digital Marketing,Course Inquiry,53,11,4,70,7,4,16989,1,0,9368,7621,Medium,0
+1693,43,Male,Delhi,Instagram,Internship,AI & ML,Course Inquiry,30,7,0,53,6,3,20971,1,0,13188,7783,Low,0
+1694,51,Female,Other,Google,Internship,Cyber Security,Course Inquiry,54,10,0,77,2,1,4425,0,0,9708,-5283,Medium,1
+1695,31,Male,Delhi,Facebook,Software Services,Cyber Security,Technical Support,61,8,0,74,5,3,18792,1,1,2539,16253,Medium,0
+1696,43,Female,Mumbai,Instagram,Digital Services,Cloud Computing,Internship Inquiry,47,6,2,70,5,9,18933,1,0,12748,6185,Medium,0
+1697,44,Male,Mumbai,YouTube,Digital Services,Data Science,General Inquiry,97,9,0,28,3,9,15068,1,1,8309,6759,High,1
+1698,26,Female,Hyderabad,Referral,Training,Digital Marketing,Technical Support,43,3,3,73,0,7,13156,1,0,7574,5582,Medium,3
+1699,43,Male,Other,YouTube,Digital Services,Cyber Security,Internship Inquiry,27,10,0,92,0,3,9966,1,0,6907,3059,Low,1
+1700,39,Female,Bengaluru,Instagram,IT Services,Data Science,Internship Inquiry,72,10,4,72,3,3,4404,1,1,10488,-6084,High,1
+1701,47,Female,Delhi,Instagram,IT Services,Digital Marketing,Technical Support,91,9,1,99,3,4,15967,1,1,13517,2450,High,0
+1702,34,Male,Bengaluru,YouTube,Digital Services,Web Development,Technical Support,23,4,4,47,4,7,10919,1,0,578,10341,Low,3
+1703,43,Male,Other,Direct,IT Services,Data Science,Internship Inquiry,24,7,2,73,6,7,20680,1,0,3665,17015,Low,0
+1704,53,Male,Bengaluru,Facebook,Training,Web Development,Internship Inquiry,68,13,0,82,3,2,17176,1,1,6205,10971,Medium,0
+1705,18,Female,Other,Google,Training,Data Science,Internship Inquiry,49,9,0,55,6,5,10914,1,0,2471,8443,Medium,2
+1706,25,Female,Hyderabad,Google,Digital Services,Cloud Computing,Technical Support,91,2,3,94,7,7,23150,1,0,9438,13712,High,0
+1707,52,Male,Bengaluru,Facebook,Internship,AI & ML,Internship Inquiry,82,2,0,16,7,7,23254,0,0,1207,22047,High,0
+1708,32,Male,Delhi,Referral,Digital Services,Software Development,Course Inquiry,66,9,4,8,2,6,12665,1,1,7000,5665,Medium,1
+1709,39,Male,Chennai,Direct,Internship,Cyber Security,Technical Support,45,12,2,96,6,10,11183,1,0,309,10874,Medium,0
+1710,31,Female,Mumbai,Google,IT Services,Software Development,Course Inquiry,76,13,1,33,4,10,15942,1,0,2971,12971,High,0
+1711,43,Male,Chennai,YouTube,Digital Services,Software Development,Service Inquiry,56,3,0,44,7,8,5360,0,0,4083,1277,Medium,2
+1712,45,Other,Bengaluru,Referral,Internship,Web Development,Technical Support,26,9,1,87,5,3,4229,0,0,2800,1429,Low,2
+1713,40,Male,Chennai,YouTube,Internship,IT Support,Service Inquiry,59,13,0,8,5,1,14900,0,0,5718,9182,Medium,0
+1714,31,Female,Delhi,Instagram,Internship,Digital Marketing,Internship Inquiry,58,5,2,6,7,3,24846,0,0,3443,21403,Medium,0
+1715,41,Male,Delhi,Google,IT Services,Software Development,Internship Inquiry,81,6,4,15,7,2,22394,1,1,1205,21189,High,0
+1716,19,Male,Bengaluru,YouTube,Digital Services,Cloud Computing,General Inquiry,97,2,2,18,7,2,9119,0,0,13185,-4066,High,2
+1717,43,Female,Hyderabad,Instagram,Internship,Software Development,Internship Inquiry,72,8,1,5,6,2,23645,0,0,505,23140,High,0
+1718,31,Female,Chennai,LinkedIn,Digital Services,Data Science,Service Inquiry,23,11,0,10,5,5,11664,0,0,5901,5763,Low,0
+1719,24,Other,Hyderabad,Facebook,Training,Web Development,Internship Inquiry,44,9,1,75,5,1,6610,1,0,14219,-7609,Medium,2
+1720,20,Male,Hyderabad,Instagram,IT Services,IT Support,Technical Support,26,2,4,60,1,10,7455,1,0,1158,6297,Low,3
+1721,40,Male,Other,Direct,Software Services,Data Science,Internship Inquiry,47,6,2,41,7,4,606,0,0,9345,-8739,Medium,2
+1722,35,Female,Mysuru,Google,Training,IT Support,General Inquiry,88,6,1,12,2,10,5254,1,1,5470,-216,High,1
+1723,52,Female,Bengaluru,YouTube,IT Services,Data Science,Internship Inquiry,86,8,1,11,7,5,12025,1,0,7795,4230,High,2
+1724,32,Male,Mumbai,Facebook,Internship,Data Science,Service Inquiry,39,10,4,84,4,2,22162,0,0,11060,11102,Low,0
+1725,42,Male,Delhi,Google,Internship,Cyber Security,Service Inquiry,30,12,0,73,4,5,6908,1,0,3738,3170,Low,1
+1726,54,Male,Delhi,Google,Training,AI & ML,Internship Inquiry,86,5,1,19,5,10,8135,0,0,11069,-2934,High,2
+1727,45,Female,Bengaluru,LinkedIn,Internship,AI & ML,Service Inquiry,26,9,4,49,7,4,1725,1,0,7220,-5495,Low,2
+1728,27,Male,Other,Google,IT Services,Digital Marketing,Service Inquiry,42,1,0,35,0,8,12696,0,0,1830,10866,Medium,3
+1729,34,Male,Pune,Referral,Training,Web Development,General Inquiry,80,9,0,91,4,1,4750,1,1,10183,-5433,High,2
+1730,39,Male,Pune,Direct,IT Services,Cloud Computing,Technical Support,90,10,2,87,7,5,15872,0,0,2803,13069,High,0
+1731,43,Male,Pune,LinkedIn,Internship,Cloud Computing,General Inquiry,53,7,4,68,2,10,17779,1,0,10363,7416,Medium,3
+1732,42,Male,Other,Instagram,Training,Cloud Computing,Course Inquiry,38,4,0,36,3,1,12597,1,0,8458,4139,Low,3
+1733,34,Male,Mumbai,LinkedIn,Digital Services,Cyber Security,General Inquiry,77,3,2,11,7,10,18504,0,0,13667,4837,High,0
+1734,30,Male,Delhi,Referral,Software Services,Data Science,Internship Inquiry,28,14,3,98,2,10,21972,1,0,9226,12746,Low,0
+1735,37,Female,Bengaluru,Google,Internship,AI & ML,Technical Support,67,10,4,39,5,4,12555,1,1,405,12150,Medium,0
+1736,42,Male,Other,YouTube,Software Services,Web Development,Internship Inquiry,60,11,3,53,5,8,5919,1,1,11225,-5306,Medium,1
+1737,21,Male,Delhi,YouTube,IT Services,Data Science,Course Inquiry,67,14,0,1,1,1,18269,0,0,12642,5627,Medium,1
+1738,27,Female,Hyderabad,YouTube,IT Services,IT Support,Technical Support,64,6,4,49,6,2,16213,0,0,10106,6107,Medium,2
+1739,20,Female,Chennai,Google,IT Services,AI & ML,Service Inquiry,44,12,2,40,4,1,12284,1,0,9924,2360,Medium,0
+1740,35,Male,Chennai,Referral,Internship,AI & ML,General Inquiry,97,13,0,44,6,7,2933,1,0,5891,-2958,High,1
+1741,53,Male,Other,Google,Internship,Software Development,Internship Inquiry,44,1,4,8,7,2,11498,1,0,6341,5157,Medium,2
+1742,39,Male,Delhi,Google,IT Services,Software Development,Course Inquiry,38,3,4,61,6,1,12075,0,0,3345,8730,Low,2
+1743,51,Female,Mysuru,Direct,Training,Cyber Security,Service Inquiry,58,2,3,85,4,6,1801,0,0,3320,-1519,Medium,2
+1744,25,Other,Mumbai,Referral,Software Services,Web Development,General Inquiry,98,11,0,46,4,6,7358,1,1,13978,-6620,High,1
+1745,36,Female,Pune,Google,Training,IT Support,Service Inquiry,99,13,2,4,7,10,9450,1,0,6928,2522,High,0
+1746,54,Female,Mumbai,Google,Internship,Web Development,General Inquiry,46,9,2,75,5,2,9438,1,0,9099,339,Medium,2
+1747,23,Female,Mumbai,Google,Digital Services,Web Development,Technical Support,93,3,0,0,4,1,6144,0,0,6230,-86,High,2
+1748,43,Male,Other,Instagram,Training,Cyber Security,Service Inquiry,82,13,0,43,0,10,11578,0,0,378,11200,High,1
+1749,51,Male,Hyderabad,Google,IT Services,Cyber Security,Service Inquiry,87,2,1,21,0,3,21972,0,0,5367,16605,High,3
+1750,23,Female,Mumbai,Google,Digital Services,Data Science,Service Inquiry,38,4,3,37,3,10,9760,0,0,13583,-3823,Low,3
+1751,54,Female,Chennai,LinkedIn,Software Services,Digital Marketing,Technical Support,47,14,0,18,4,5,22324,0,0,312,22012,Medium,0
+1752,50,Male,Hyderabad,Referral,Digital Services,Cyber Security,Course Inquiry,97,2,0,79,1,6,24377,1,1,9148,15229,High,3
+1753,39,Female,Bengaluru,YouTube,Digital Services,Web Development,General Inquiry,52,1,1,30,3,3,23175,1,0,9288,13887,Medium,3
+1754,38,Male,Mumbai,YouTube,Digital Services,Software Development,Service Inquiry,29,6,1,66,5,9,15190,1,0,14414,776,Low,0
+1755,23,Male,Mumbai,Google,Software Services,Digital Marketing,Technical Support,49,10,4,86,4,5,3807,0,0,11260,-7453,Medium,1
+1756,23,Male,Bengaluru,Facebook,Training,Data Science,Course Inquiry,41,8,2,41,0,2,21592,0,0,8550,13042,Medium,3
+1757,21,Male,Mumbai,Direct,Internship,Digital Marketing,General Inquiry,22,10,3,81,1,10,16988,1,0,9177,7811,Low,3
+1758,47,Female,Bengaluru,Referral,Training,Cloud Computing,Technical Support,94,10,4,25,7,6,20717,1,1,2003,18714,High,0
+1759,28,Male,Hyderabad,Direct,Internship,IT Support,General Inquiry,67,2,0,12,3,8,895,1,0,10231,-9336,Medium,2
+1760,47,Female,Chennai,Facebook,Digital Services,Digital Marketing,Service Inquiry,21,14,1,57,1,6,20401,1,0,11560,8841,Low,0
+1761,48,Female,Bengaluru,LinkedIn,IT Services,Web Development,Course Inquiry,95,9,2,17,4,4,11345,1,0,2498,8847,High,1
+1762,41,Female,Mysuru,Google,IT Services,Data Science,Technical Support,73,13,4,66,2,6,3791,1,0,12470,-8679,High,1
+1763,26,Male,Other,YouTube,Internship,IT Support,Course Inquiry,25,3,2,86,1,8,18894,0,0,1742,17152,Low,3
+1764,20,Male,Other,Referral,Digital Services,Web Development,Service Inquiry,59,8,1,2,1,8,13638,1,0,7459,6179,Medium,3
+1765,48,Male,Bengaluru,Referral,Training,IT Support,Course Inquiry,21,12,4,54,5,10,5037,0,0,12600,-7563,Low,1
+1766,54,Other,Other,LinkedIn,Digital Services,Software Development,Course Inquiry,92,8,4,88,0,2,10360,1,1,12746,-2386,High,1
+1767,53,Female,Mumbai,Google,IT Services,Cloud Computing,Internship Inquiry,21,3,2,90,7,8,21852,1,0,2354,19498,Low,0
+1768,41,Male,Pune,Instagram,Training,Software Development,Course Inquiry,93,3,1,57,4,6,21646,1,1,8966,12680,High,3
+1769,48,Female,Pune,Facebook,Internship,Web Development,General Inquiry,74,12,0,62,1,2,17935,0,0,11430,6505,High,1
+1770,23,Male,Other,YouTube,Internship,Web Development,Technical Support,91,6,4,90,4,1,19725,1,1,1581,18144,High,0
+1771,19,Female,Hyderabad,LinkedIn,Digital Services,Web Development,Internship Inquiry,79,1,0,51,0,6,7118,1,1,6102,1016,High,3
+1772,37,Male,Delhi,Instagram,Software Services,AI & ML,Technical Support,25,4,1,88,5,7,5223,1,0,1422,3801,Low,2
+1773,45,Female,Hyderabad,Instagram,IT Services,Cloud Computing,Technical Support,38,1,4,23,4,10,24356,1,0,10866,13490,Low,3
+1774,28,Male,Delhi,Direct,Internship,IT Support,Service Inquiry,46,14,4,71,6,5,24797,1,0,1701,23096,Medium,0
+1775,21,Female,Pune,YouTube,Training,Cyber Security,Service Inquiry,20,3,0,8,0,10,22408,0,0,9250,13158,Low,3
+1776,32,Female,Pune,Referral,Digital Services,Web Development,Internship Inquiry,52,9,3,36,0,8,20468,1,0,3774,16694,Medium,3
+1777,23,Female,Bengaluru,LinkedIn,Digital Services,Web Development,Service Inquiry,59,14,0,93,7,9,15337,0,0,3929,11408,Medium,0
+1778,47,Male,Chennai,YouTube,Internship,IT Support,Service Inquiry,51,14,0,82,3,4,9039,0,0,11357,-2318,Medium,1
+1779,19,Male,Mysuru,Google,Internship,Cyber Security,Service Inquiry,88,5,3,52,5,7,1763,1,1,7940,-6177,High,2
+1780,32,Male,Hyderabad,Referral,Digital Services,Software Development,Technical Support,36,12,1,79,5,8,13805,1,0,3391,10414,Low,0
+1781,28,Male,Mumbai,Instagram,Training,Software Development,Internship Inquiry,27,5,1,23,7,6,21549,0,0,9988,11561,Low,0
+1782,25,Male,Delhi,LinkedIn,Training,Web Development,Technical Support,76,11,4,20,6,2,24898,0,0,7676,17222,High,0
+1783,43,Female,Other,YouTube,Internship,Data Science,General Inquiry,61,4,2,99,4,7,11434,0,0,1761,9673,Medium,2
+1784,22,Female,Mumbai,Facebook,IT Services,AI & ML,Technical Support,28,3,2,39,2,9,10765,1,0,2722,8043,Low,3
+1785,23,Male,Chennai,Google,Software Services,Software Development,General Inquiry,54,5,4,61,6,5,16839,0,0,10991,5848,Medium,0
+1786,43,Male,Delhi,Direct,Software Services,Data Science,Course Inquiry,90,14,2,69,3,2,1851,0,0,2591,-740,High,1
+1787,21,Male,Hyderabad,Instagram,IT Services,AI & ML,Course Inquiry,98,11,0,68,5,4,23864,0,0,2875,20989,High,0
+1788,36,Female,Bengaluru,LinkedIn,IT Services,Web Development,General Inquiry,72,4,0,13,0,3,7690,1,1,2383,5307,High,3
+1789,37,Male,Mumbai,Google,Internship,Cloud Computing,General Inquiry,73,8,3,41,5,4,20711,1,1,8668,12043,High,0
+1790,50,Female,Chennai,Instagram,IT Services,Digital Marketing,Technical Support,44,4,3,49,6,10,19530,0,0,14500,5030,Medium,0
+1791,37,Male,Hyderabad,LinkedIn,Training,Digital Marketing,General Inquiry,86,11,4,60,2,7,17150,1,0,12274,4876,High,1
+1792,29,Other,Pune,Google,IT Services,Web Development,Internship Inquiry,81,12,4,3,1,10,11385,0,0,11996,-611,High,1
+1793,18,Female,Pune,LinkedIn,Training,Software Development,Course Inquiry,74,8,4,71,1,8,7934,1,0,8266,-332,High,1
+1794,43,Male,Hyderabad,Facebook,Internship,Data Science,Course Inquiry,65,6,0,87,7,1,1522,1,1,2278,-756,Medium,2
+1795,31,Female,Hyderabad,Google,Internship,Cloud Computing,General Inquiry,43,14,2,74,5,8,24831,0,0,4542,20289,Medium,0
+1796,54,Male,Hyderabad,Referral,Training,IT Support,Service Inquiry,65,12,4,16,5,5,2537,0,0,12898,-10361,Medium,1
+1797,28,Female,Delhi,Instagram,Internship,AI & ML,Service Inquiry,41,11,4,84,3,7,9256,1,0,12469,-3213,Medium,1
+1798,53,Male,Hyderabad,YouTube,Internship,Web Development,General Inquiry,30,5,0,56,5,1,24662,0,0,14562,10100,Low,0
+1799,30,Female,Mumbai,Instagram,Software Services,Cloud Computing,Internship Inquiry,67,4,0,89,2,2,14058,1,1,12560,1498,Medium,3
+1800,20,Female,Chennai,Google,Training,Cyber Security,Service Inquiry,27,4,0,47,5,1,17943,1,0,1320,16623,Low,2
+1801,50,Female,Delhi,Google,IT Services,Cloud Computing,General Inquiry,58,12,2,43,4,5,1924,0,0,13160,-11236,Medium,1
+1802,23,Female,Hyderabad,Google,Software Services,Software Development,Internship Inquiry,54,4,4,44,6,6,4623,1,0,13857,-9234,Medium,2
+1803,27,Male,Mysuru,Google,Software Services,Cyber Security,Internship Inquiry,68,11,1,90,7,10,17103,1,1,10915,6188,Medium,0
+1804,22,Male,Other,YouTube,IT Services,AI & ML,Technical Support,65,13,1,79,2,9,905,1,0,5619,-4714,Medium,1
+1805,40,Male,Mysuru,Direct,Digital Services,Cyber Security,Internship Inquiry,57,13,4,89,3,8,10329,0,0,3570,6759,Medium,1
+1806,27,Male,Chennai,Referral,Training,Cloud Computing,Service Inquiry,27,9,4,32,4,7,19202,1,0,12774,6428,Low,0
+1807,19,Female,Pune,YouTube,Training,Software Development,Service Inquiry,73,4,4,30,4,5,10451,1,1,2108,8343,High,2
+1808,30,Male,Bengaluru,Google,Training,Cyber Security,General Inquiry,56,12,4,46,6,3,9483,1,0,3720,5763,Medium,0
+1809,19,Female,Bengaluru,Instagram,Digital Services,Data Science,General Inquiry,59,9,2,5,1,9,21942,1,0,4507,17435,Medium,3
+1810,37,Female,Other,Instagram,Digital Services,Software Development,Internship Inquiry,53,13,1,71,2,5,18193,0,0,4696,13497,Medium,0
+1811,18,Female,Pune,Google,Training,Data Science,Course Inquiry,98,10,3,70,6,3,24505,1,1,4950,19555,High,0
+1812,54,Male,Delhi,LinkedIn,Internship,Data Science,Technical Support,36,6,1,33,4,3,12525,1,0,11497,1028,Low,2
+1813,26,Female,Delhi,LinkedIn,IT Services,Cyber Security,Course Inquiry,52,10,1,52,3,3,5429,0,0,697,4732,Medium,1
+1814,34,Female,Delhi,Instagram,Internship,Cyber Security,Internship Inquiry,66,13,0,13,6,6,10022,1,0,7191,2831,Medium,0
+1815,26,Male,Bengaluru,Instagram,IT Services,IT Support,Internship Inquiry,71,7,4,15,1,1,13138,0,0,3787,9351,High,3
+1816,28,Female,Mysuru,Direct,Digital Services,IT Support,Course Inquiry,99,12,4,42,4,4,9202,0,0,13839,-4637,High,1
+1817,32,Female,Bengaluru,Referral,Digital Services,Cloud Computing,Technical Support,28,10,4,72,6,8,11264,1,0,12585,-1321,Low,0
+1818,41,Male,Mumbai,Instagram,Digital Services,Software Development,Course Inquiry,52,3,0,73,2,3,12621,0,0,2613,10008,Medium,3
+1819,52,Male,Hyderabad,Direct,Software Services,IT Support,General Inquiry,79,8,2,80,1,5,14719,0,0,4000,10719,High,3
+1820,47,Male,Delhi,Facebook,IT Services,Data Science,Service Inquiry,96,3,2,11,2,2,2117,1,1,8854,-6737,High,2
+1821,48,Male,Mysuru,Instagram,Digital Services,IT Support,General Inquiry,40,1,3,69,2,2,10748,1,0,6371,4377,Low,3
+1822,22,Male,Chennai,Instagram,IT Services,AI & ML,Service Inquiry,77,13,2,18,2,7,18404,1,0,11152,7252,High,1
+1823,31,Male,Other,LinkedIn,Internship,Cloud Computing,Internship Inquiry,88,13,2,40,6,10,24776,1,1,3657,21119,High,0
+1824,28,Male,Chennai,Facebook,Internship,Software Development,Technical Support,29,10,4,52,1,3,2083,0,0,8664,-6581,Low,1
+1825,26,Male,Hyderabad,Direct,Training,Software Development,Course Inquiry,25,12,1,28,6,5,7204,1,0,7169,35,Low,0
+1826,51,Female,Mysuru,Google,Training,Digital Marketing,Technical Support,32,5,2,69,6,3,8488,1,0,1350,7138,Low,2
+1827,29,Male,Bengaluru,Instagram,IT Services,Software Development,Course Inquiry,84,2,2,58,6,6,23467,1,1,14737,8730,High,0
+1828,52,Female,Bengaluru,LinkedIn,Digital Services,Cloud Computing,General Inquiry,39,10,0,88,4,10,18459,1,0,7654,10805,Low,0
+1829,52,Male,Mumbai,LinkedIn,Internship,AI & ML,General Inquiry,76,14,3,63,5,3,23819,1,0,14985,8834,High,0
+1830,18,Male,Mumbai,Google,Internship,Software Development,Course Inquiry,65,6,0,23,0,8,10453,0,0,5407,5046,Medium,3
+1831,39,Male,Bengaluru,Direct,Software Services,Digital Marketing,Technical Support,27,13,4,88,4,2,23060,1,0,11781,11279,Low,0
+1832,46,Male,Chennai,YouTube,Internship,Cloud Computing,Course Inquiry,29,10,1,15,1,3,3113,1,0,218,2895,Low,1
+1833,25,Male,Other,Direct,IT Services,Data Science,Internship Inquiry,92,9,3,51,0,8,4392,0,0,10008,-5616,High,1
+1834,28,Female,Delhi,Direct,IT Services,Web Development,General Inquiry,86,1,0,79,0,8,12836,0,0,3378,9458,High,3
+1835,54,Male,Chennai,Referral,IT Services,Web Development,Internship Inquiry,30,14,2,5,0,1,7233,1,0,5777,1456,Low,1
+1836,31,Female,Other,LinkedIn,Internship,Data Science,General Inquiry,31,13,2,36,5,8,4931,0,0,4281,650,Low,1
+1837,47,Female,Mumbai,YouTube,Internship,IT Support,General Inquiry,29,4,3,84,6,10,24996,0,0,6654,18342,Low,0
+1838,52,Male,Hyderabad,Google,Internship,Software Development,Service Inquiry,44,1,2,3,7,2,18265,1,0,8803,9462,Medium,2
+1839,38,Male,Other,YouTube,IT Services,Cyber Security,Internship Inquiry,68,1,0,97,3,7,4015,1,1,9133,-5118,Medium,2
+1840,54,Female,Bengaluru,Google,IT Services,Web Development,Internship Inquiry,68,8,0,91,1,6,4954,1,1,2871,2083,Medium,1
+1841,22,Male,Mumbai,YouTube,Internship,IT Support,Service Inquiry,30,14,2,37,7,2,8269,1,0,11171,-2902,Low,0
+1842,36,Male,Mumbai,Google,IT Services,Web Development,Technical Support,81,14,2,40,5,5,23373,1,1,6587,16786,High,0
+1843,31,Other,Delhi,Google,Digital Services,Data Science,Internship Inquiry,55,13,4,91,5,7,8884,1,0,7033,1851,Medium,1
+1844,43,Male,Bengaluru,Google,Internship,Software Development,Course Inquiry,58,14,1,80,3,8,14227,0,0,2824,11403,Medium,1
+1845,21,Female,Delhi,Google,IT Services,Software Development,Service Inquiry,72,11,3,13,0,3,4034,1,0,5699,-1665,High,1
+1846,42,Other,Bengaluru,Referral,Digital Services,IT Support,Internship Inquiry,97,2,0,70,6,1,1255,1,1,714,541,High,2
+1847,42,Male,Delhi,Referral,Training,Data Science,Technical Support,75,1,3,85,3,7,19409,0,0,406,19003,High,3
+1848,35,Male,Other,LinkedIn,Training,IT Support,Internship Inquiry,20,11,4,50,7,5,17711,0,0,1147,16564,Low,0
+1849,25,Male,Chennai,Google,IT Services,Software Development,General Inquiry,75,8,0,64,7,5,21632,1,1,10833,10799,High,0
+1850,31,Male,Hyderabad,Google,Software Services,Cyber Security,Course Inquiry,23,4,4,92,3,7,19217,0,0,2028,17189,Low,3
+1851,49,Male,Hyderabad,Google,Digital Services,Software Development,Service Inquiry,49,3,4,51,5,1,21830,0,0,11990,9840,Medium,3
+1852,50,Female,Bengaluru,Google,IT Services,Cloud Computing,General Inquiry,31,13,2,94,1,8,8802,1,0,7061,1741,Low,1
+1853,40,Male,Mysuru,Direct,Digital Services,Cyber Security,Technical Support,54,12,3,29,2,10,13407,1,0,6294,7113,Medium,1
+1854,32,Male,Pune,Google,Training,IT Support,General Inquiry,96,4,3,56,6,5,24930,1,1,6545,18385,High,0
+1855,50,Other,Mumbai,Instagram,IT Services,Cloud Computing,General Inquiry,71,14,2,78,7,8,9484,0,0,2367,7117,High,0
+1856,42,Female,Mumbai,Google,IT Services,Data Science,Technical Support,50,11,3,81,7,10,14885,0,0,14160,725,Medium,0
+1857,34,Female,Bengaluru,Google,Internship,AI & ML,General Inquiry,87,5,2,98,3,10,7681,1,1,8179,-498,High,1
+1858,50,Male,Other,LinkedIn,Digital Services,Web Development,Service Inquiry,71,1,0,29,6,5,13945,0,0,6126,7819,High,2
+1859,19,Female,Delhi,YouTube,IT Services,Cloud Computing,Internship Inquiry,99,14,4,97,3,7,13375,1,1,6732,6643,High,1
+1860,31,Male,Mysuru,Google,Training,Web Development,General Inquiry,26,11,4,41,0,10,3914,0,0,5856,-1942,Low,1
+1861,23,Male,Chennai,Google,Software Services,Digital Marketing,Service Inquiry,41,1,3,10,6,3,15505,1,0,6143,9362,Medium,2
+1862,23,Male,Delhi,Instagram,Internship,Data Science,Internship Inquiry,94,3,1,26,0,2,10001,1,1,14769,-4768,High,3
+1863,20,Female,Delhi,Google,Training,AI & ML,Internship Inquiry,75,6,4,23,7,6,14745,0,0,10048,4697,High,0
+1864,24,Male,Bengaluru,Google,Internship,Digital Marketing,General Inquiry,77,1,2,98,5,5,6957,1,0,8993,-2036,High,2
+1865,25,Male,Bengaluru,Facebook,Digital Services,Digital Marketing,Service Inquiry,83,14,1,38,0,9,7249,0,0,5639,1610,High,1
+1866,32,Male,Other,YouTube,Digital Services,Software Development,General Inquiry,31,11,1,71,6,10,796,0,0,9103,-8307,Low,1
+1867,46,Male,Mumbai,LinkedIn,Training,Digital Marketing,Technical Support,26,12,4,17,4,4,10321,1,0,13469,-3148,Low,1
+1868,50,Female,Bengaluru,Instagram,Digital Services,Data Science,Internship Inquiry,74,2,4,76,6,3,17452,0,0,1403,16049,High,2
+1869,47,Female,Bengaluru,Instagram,Training,Cloud Computing,General Inquiry,81,12,4,44,3,9,5783,1,1,7200,-1417,High,1
+1870,44,Female,Bengaluru,LinkedIn,Digital Services,Data Science,Internship Inquiry,92,14,2,87,0,8,13619,0,0,9783,3836,High,1
+1871,53,Male,Other,YouTube,IT Services,Cloud Computing,Service Inquiry,96,7,1,86,1,6,8164,0,0,14611,-6447,High,1
+1872,46,Male,Mumbai,Referral,Training,Digital Marketing,Course Inquiry,74,14,3,11,4,1,8011,0,0,11088,-3077,High,1
+1873,50,Male,Chennai,Google,Software Services,Digital Marketing,General Inquiry,55,14,2,48,5,10,5965,1,0,6839,-874,Medium,1
+1874,54,Male,Chennai,LinkedIn,Training,Cyber Security,General Inquiry,43,1,0,93,2,1,13057,1,0,7889,5168,Medium,3
+1875,44,Male,Pune,Instagram,Internship,AI & ML,Internship Inquiry,63,13,4,30,3,6,4882,0,0,11664,-6782,Medium,1
+1876,50,Female,Pune,Direct,IT Services,Cloud Computing,Service Inquiry,36,14,1,91,3,3,16949,0,0,13317,3632,Low,0
+1877,21,Male,Bengaluru,YouTube,Software Services,Digital Marketing,Technical Support,21,7,2,21,1,3,17763,1,0,7713,10050,Low,3
+1878,39,Male,Pune,LinkedIn,Training,Software Development,Service Inquiry,32,4,0,43,2,6,9908,1,0,6826,3082,Low,3
+1879,19,Male,Mumbai,Google,Internship,Cyber Security,General Inquiry,50,10,2,91,7,3,24106,1,0,7586,16520,Medium,0
+1880,27,Male,Other,YouTube,Training,Web Development,Technical Support,47,14,2,63,2,10,14190,1,0,3331,10859,Medium,1
+1881,22,Male,Chennai,Google,IT Services,Cyber Security,Service Inquiry,79,6,3,76,5,6,5569,1,1,7334,-1765,High,2
+1882,27,Female,Delhi,Instagram,Internship,AI & ML,Course Inquiry,46,14,3,24,5,5,20123,0,0,3930,16193,Medium,0
+1883,50,Female,Chennai,Google,Digital Services,Data Science,Internship Inquiry,34,8,2,50,4,4,12172,0,0,2866,9306,Low,2
+1884,30,Female,Chennai,YouTube,Software Services,AI & ML,Service Inquiry,98,9,0,6,7,8,17391,0,0,749,16642,High,0
+1885,48,Male,Mumbai,Google,IT Services,Web Development,Service Inquiry,52,6,1,5,3,2,8204,1,0,4941,3263,Medium,2
+1886,53,Male,Pune,Instagram,Training,Cyber Security,Course Inquiry,39,12,1,23,0,7,18009,1,0,12374,5635,Low,3
+1887,41,Male,Delhi,Direct,Training,Cloud Computing,General Inquiry,61,11,4,18,5,4,17769,1,1,1444,16325,Medium,0
+1888,32,Male,Mumbai,Google,Internship,Data Science,Internship Inquiry,31,13,4,82,1,2,19725,0,0,12278,7447,Low,3
+1889,46,Female,Bengaluru,LinkedIn,Software Services,Data Science,Service Inquiry,92,14,1,99,1,7,8475,1,1,4212,4263,High,1
+1890,25,Male,Other,Instagram,Training,Cloud Computing,Technical Support,42,9,2,8,1,1,12569,1,0,10941,1628,Medium,3
+1891,22,Male,Hyderabad,Google,Training,IT Support,Service Inquiry,91,4,2,35,6,4,7065,1,1,11596,-4531,High,2
+1892,46,Male,Chennai,Referral,Digital Services,IT Support,Internship Inquiry,33,6,3,39,7,9,22967,0,0,9237,13730,Low,0
+1893,21,Male,Hyderabad,Google,Training,AI & ML,Service Inquiry,44,8,3,92,7,4,5370,1,0,6396,-1026,Medium,2
+1894,29,Female,Other,LinkedIn,IT Services,Digital Marketing,Course Inquiry,96,9,4,23,5,3,19409,0,0,4745,14664,High,0
+1895,19,Male,Other,LinkedIn,Internship,IT Support,Service Inquiry,50,3,1,47,5,10,9617,1,0,6405,3212,Medium,2
+1896,44,Male,Mumbai,YouTube,Digital Services,AI & ML,Service Inquiry,73,2,2,62,1,10,21099,1,0,7390,13709,High,3
+1897,48,Male,Mumbai,YouTube,Software Services,IT Support,Technical Support,24,6,1,68,7,2,2438,0,0,8435,-5997,Low,2
+1898,53,Male,Mumbai,Instagram,IT Services,Web Development,Course Inquiry,32,4,0,52,7,3,12054,1,0,14069,-2015,Low,2
+1899,53,Female,Hyderabad,Google,Software Services,Software Development,Course Inquiry,47,1,1,53,5,1,3732,0,0,858,2874,Medium,2
+1900,43,Female,Mumbai,Referral,Internship,Digital Marketing,Service Inquiry,62,8,0,41,6,10,20628,1,0,13215,7413,Medium,0
+1901,44,Female,Other,LinkedIn,IT Services,AI & ML,Technical Support,66,9,3,44,0,8,23105,0,0,7195,15910,Medium,3
+1902,22,Female,Bengaluru,Direct,IT Services,Software Development,Service Inquiry,90,14,3,89,0,1,3965,1,0,14582,-10617,High,1
+1903,37,Male,Mumbai,Direct,IT Services,Software Development,Service Inquiry,57,9,4,13,4,3,940,1,0,12322,-11382,Medium,2
+1904,28,Female,Mysuru,Direct,Training,Cyber Security,Internship Inquiry,86,2,1,28,7,3,17345,0,0,11259,6086,High,2
+1905,27,Male,Pune,LinkedIn,Training,IT Support,Internship Inquiry,81,9,1,5,3,2,5913,1,1,13535,-7622,High,1
+1906,23,Male,Hyderabad,Instagram,Internship,Cyber Security,Technical Support,58,7,0,6,0,5,12163,1,0,5976,6187,Medium,3
+1907,25,Female,Mysuru,Referral,Training,Cloud Computing,General Inquiry,56,5,3,36,4,10,6255,0,0,14624,-8369,Medium,2
+1908,40,Male,Mumbai,LinkedIn,Internship,Web Development,Internship Inquiry,27,7,0,52,2,3,5512,1,0,5493,19,Low,1
+1909,43,Female,Other,Google,Digital Services,Web Development,General Inquiry,100,13,3,17,3,3,20047,1,0,12039,8008,High,0
+1910,29,Male,Bengaluru,Direct,Internship,Web Development,Course Inquiry,71,9,0,86,7,8,16626,1,1,13630,2996,High,0
+1911,43,Female,Chennai,Direct,Internship,Digital Marketing,Internship Inquiry,52,8,3,37,0,4,7252,1,0,11174,-3922,Medium,1
+1912,30,Female,Delhi,LinkedIn,IT Services,Data Science,Internship Inquiry,100,6,0,58,6,4,505,1,1,1891,-1386,High,2
+1913,35,Female,Pune,Google,IT Services,Digital Marketing,Technical Support,61,13,3,0,2,3,5276,1,1,10617,-5341,Medium,1
+1914,42,Female,Delhi,Instagram,Software Services,AI & ML,General Inquiry,95,4,0,67,4,1,7538,1,1,11458,-3920,High,2
+1915,50,Female,Mumbai,Referral,IT Services,Software Development,Internship Inquiry,46,13,1,43,0,8,6914,1,0,14343,-7429,Medium,1
+1916,29,Male,Pune,Direct,Training,Software Development,Internship Inquiry,27,1,4,46,7,1,22623,0,0,10339,12284,Low,2
+1917,53,Male,Pune,Google,Digital Services,Cyber Security,Technical Support,42,6,0,34,0,7,4470,1,0,9757,-5287,Medium,1
+1918,21,Male,Bengaluru,Google,IT Services,Data Science,Technical Support,83,3,4,86,5,5,11550,1,0,7935,3615,High,2
+1919,22,Female,Pune,Direct,Internship,AI & ML,General Inquiry,39,6,1,90,2,4,3106,1,0,3330,-224,Low,1
+1920,54,Male,Hyderabad,Instagram,IT Services,Data Science,Course Inquiry,35,6,1,59,0,4,16982,1,0,7244,9738,Low,3
+1921,25,Female,Mysuru,LinkedIn,Software Services,Software Development,Course Inquiry,36,14,3,89,1,8,1025,0,0,4733,-3708,Low,1
+1922,45,Male,Mysuru,Facebook,Training,IT Support,Service Inquiry,99,4,4,51,6,6,6837,1,0,5747,1090,High,2
+1923,48,Male,Mysuru,Google,Training,Digital Marketing,Internship Inquiry,38,2,2,7,5,1,1680,1,0,12913,-11233,Low,2
+1924,26,Female,Hyderabad,YouTube,Internship,Web Development,General Inquiry,27,9,3,79,5,10,24951,1,0,1167,23784,Low,0
+1925,46,Male,Delhi,Google,Internship,Software Development,Internship Inquiry,57,2,4,40,0,8,21375,0,0,1604,19771,Medium,3
+1926,31,Male,Bengaluru,Instagram,Training,Cloud Computing,General Inquiry,57,3,0,2,6,2,13557,0,0,8877,4680,Medium,2
+1927,39,Male,Pune,Referral,IT Services,Web Development,General Inquiry,72,10,0,95,5,6,6422,1,1,10147,-3725,High,1
+1928,28,Female,Hyderabad,LinkedIn,Internship,Software Development,General Inquiry,50,1,1,68,3,9,3571,1,0,3830,-259,Medium,2
+1929,40,Female,Mysuru,Facebook,Software Services,Digital Marketing,Internship Inquiry,63,7,2,83,2,1,22525,0,0,14995,7530,Medium,3
+1930,18,Male,Mumbai,LinkedIn,Digital Services,Data Science,Technical Support,79,1,0,13,3,6,24265,0,0,3168,21097,High,3
+1931,54,Male,Chennai,Instagram,IT Services,IT Support,Internship Inquiry,95,11,4,95,4,8,3292,1,1,7469,-4177,High,1
+1932,38,Male,Pune,Google,Digital Services,IT Support,General Inquiry,36,9,4,25,3,10,21662,0,0,1779,19883,Low,0
+1933,43,Female,Hyderabad,Instagram,Internship,Web Development,Service Inquiry,98,11,0,69,6,2,14344,0,0,11187,3157,High,0
+1934,53,Female,Other,Instagram,IT Services,Digital Marketing,Course Inquiry,92,11,4,57,1,5,514,1,0,6192,-5678,High,1
+1935,40,Male,Hyderabad,Google,IT Services,IT Support,General Inquiry,58,1,4,99,5,6,19299,1,0,250,19049,Medium,3
+1936,18,Male,Bengaluru,Instagram,Digital Services,IT Support,Service Inquiry,61,5,1,39,6,5,3185,0,0,6652,-3467,Medium,2
+1937,32,Male,Bengaluru,LinkedIn,Digital Services,AI & ML,Technical Support,67,7,2,50,5,3,16712,1,1,5353,11359,Medium,0
+1938,38,Female,Hyderabad,Referral,Training,Cloud Computing,General Inquiry,31,3,1,4,7,4,9928,0,0,10051,-123,Low,2
+1939,26,Female,Mysuru,YouTube,Software Services,Web Development,Service Inquiry,37,9,2,76,1,7,8659,0,0,14100,-5441,Low,1
+1940,26,Male,Chennai,Referral,Internship,Data Science,General Inquiry,98,8,4,31,5,4,24810,0,0,6223,18587,High,0
+1941,27,Male,Pune,Google,Software Services,IT Support,Internship Inquiry,25,13,2,79,3,9,4600,1,0,4500,100,Low,1
+1942,43,Male,Bengaluru,Google,Software Services,AI & ML,Service Inquiry,62,3,4,0,7,10,6874,0,0,2987,3887,Medium,2
+1943,52,Female,Pune,YouTube,Internship,Digital Marketing,Internship Inquiry,54,5,4,76,7,2,6504,1,0,13581,-7077,Medium,2
+1944,42,Male,Mysuru,LinkedIn,Digital Services,IT Support,Internship Inquiry,73,7,1,53,4,5,6021,0,0,13020,-6999,High,2
+1945,43,Female,Pune,Google,Internship,Cyber Security,Service Inquiry,81,12,1,10,7,8,11912,0,0,2355,9557,High,0
+1946,28,Female,Mumbai,Referral,Training,Cloud Computing,Course Inquiry,88,14,3,52,7,5,12255,0,0,7219,5036,High,0
+1947,19,Male,Bengaluru,Referral,IT Services,Data Science,Service Inquiry,35,4,0,7,0,10,24039,1,0,5560,18479,Low,3
+1948,24,Male,Mysuru,LinkedIn,IT Services,Digital Marketing,Course Inquiry,27,5,3,24,1,8,20181,1,0,12738,7443,Low,3
+1949,35,Male,Mysuru,Google,Software Services,Digital Marketing,General Inquiry,50,3,3,39,3,8,19517,1,0,4430,15087,Medium,3
+1950,44,Female,Chennai,Referral,Digital Services,Web Development,General Inquiry,29,9,2,31,6,9,4390,1,0,11553,-7163,Low,2
+1951,51,Female,Chennai,YouTube,IT Services,IT Support,Service Inquiry,75,10,4,87,3,10,17675,0,0,10006,7669,High,0
+1952,44,Female,Mumbai,Referral,Digital Services,Web Development,General Inquiry,95,9,4,27,3,6,9691,1,0,7807,1884,High,1
+1953,34,Male,Mysuru,Referral,Software Services,Data Science,Technical Support,89,7,4,77,0,4,651,0,0,11128,-10477,High,1
+1954,41,Male,Delhi,Referral,Internship,Cyber Security,Internship Inquiry,39,10,0,2,2,3,19947,1,0,8798,11149,Low,3
+1955,42,Female,Mysuru,LinkedIn,Software Services,IT Support,Internship Inquiry,24,2,2,99,5,5,23251,0,0,11771,11480,Low,3
+1956,24,Female,Chennai,Google,Internship,Software Development,Course Inquiry,42,7,2,90,5,6,24788,0,0,4397,20391,Medium,0
+1957,23,Male,Delhi,YouTube,Digital Services,IT Support,General Inquiry,28,7,4,83,6,3,14361,1,0,9776,4585,Low,2
+1958,41,Female,Bengaluru,YouTube,Training,Cyber Security,Course Inquiry,77,11,3,78,7,2,18975,1,1,12087,6888,High,0
+1959,50,Female,Bengaluru,Referral,Internship,Software Development,Internship Inquiry,78,5,0,61,4,7,15532,1,1,14039,1493,High,3
+1960,46,Female,Pune,Google,Training,Digital Marketing,Internship Inquiry,99,9,3,26,6,5,5099,1,1,14119,-9020,High,2
+1961,39,Female,Hyderabad,Google,IT Services,Web Development,General Inquiry,73,13,1,44,2,9,12774,1,1,5612,7162,High,1
+1962,43,Female,Chennai,Direct,Training,Cloud Computing,Technical Support,65,12,2,91,5,3,12718,0,0,4699,8019,Medium,0
+1963,45,Female,Hyderabad,Referral,Internship,IT Support,Technical Support,41,11,2,24,4,8,24292,1,0,5109,19183,Medium,0
+1964,38,Male,Delhi,Direct,IT Services,Cloud Computing,General Inquiry,83,3,3,60,6,6,3477,1,0,7369,-3892,High,2
+1965,24,Male,Chennai,Referral,Software Services,IT Support,General Inquiry,27,4,0,43,4,4,17726,1,0,11294,6432,Low,3
+1966,34,Female,Mumbai,YouTube,Training,Digital Marketing,Course Inquiry,39,1,2,96,3,9,4293,0,0,10021,-5728,Low,2
+1967,37,Male,Mysuru,YouTube,Internship,Web Development,General Inquiry,70,6,3,45,1,5,2159,1,1,3462,-1303,Medium,1
+1968,37,Male,Mumbai,Direct,Training,Data Science,Technical Support,97,4,0,13,3,10,5662,0,0,9418,-3756,High,1
+1969,39,Male,Delhi,LinkedIn,Internship,Data Science,General Inquiry,58,1,3,7,0,6,11205,1,0,3189,8016,Medium,3
+1970,45,Male,Chennai,YouTube,Digital Services,Data Science,Course Inquiry,56,2,0,47,7,9,23330,1,0,13508,9822,Medium,0
+1971,24,Female,Other,Google,Digital Services,IT Support,Course Inquiry,69,3,4,13,5,7,16540,1,1,7854,8686,Medium,2
+1972,18,Female,Delhi,LinkedIn,IT Services,IT Support,Course Inquiry,53,9,0,64,4,5,4770,1,0,2424,2346,Medium,1
+1973,49,Male,Other,Referral,Training,Cloud Computing,Course Inquiry,94,13,1,79,6,2,13786,1,1,5576,8210,High,0
+1974,30,Male,Mysuru,Instagram,Digital Services,Web Development,Service Inquiry,52,8,4,81,7,4,4103,0,0,3120,983,Medium,2
+1975,47,Male,Bengaluru,Google,IT Services,Cyber Security,General Inquiry,50,7,3,6,1,2,14272,1,0,7901,6371,Medium,3
+1976,40,Female,Bengaluru,Instagram,Digital Services,IT Support,Internship Inquiry,73,13,4,78,6,3,23648,1,0,6741,16907,High,0
+1977,36,Female,Delhi,Google,IT Services,Web Development,General Inquiry,63,11,4,87,5,10,18100,1,1,5815,12285,Medium,0
+1978,49,Male,Hyderabad,Google,Digital Services,Cloud Computing,Service Inquiry,53,12,3,48,4,3,2791,1,0,4515,-1724,Medium,1
+1979,47,Female,Chennai,Instagram,IT Services,IT Support,Course Inquiry,90,14,3,54,4,4,13623,1,0,6300,7323,High,1
+1980,46,Female,Chennai,Direct,Training,Data Science,Service Inquiry,81,4,1,12,3,6,4311,0,0,12660,-8349,High,2
+1981,46,Female,Bengaluru,LinkedIn,Software Services,Data Science,Technical Support,42,1,3,72,1,3,13847,1,0,2983,10864,Medium,3
+1982,47,Female,Pune,Google,IT Services,Digital Marketing,Technical Support,65,8,2,55,1,10,21877,0,0,9805,12072,Medium,3
+1983,33,Male,Mumbai,Google,IT Services,Software Development,General Inquiry,75,4,2,55,5,1,14351,1,1,12989,1362,High,2
+1984,36,Female,Pune,YouTube,Internship,AI & ML,General Inquiry,26,3,1,14,4,1,16013,1,0,12040,3973,Low,3
+1985,35,Male,Mysuru,Instagram,IT Services,Cyber Security,Internship Inquiry,80,9,0,56,7,9,5642,0,0,14300,-8658,High,2
+1986,18,Female,Mumbai,Direct,IT Services,Software Development,Internship Inquiry,22,10,0,57,1,9,23746,1,0,3008,20738,Low,3
+1987,31,Female,Mumbai,YouTube,Internship,IT Support,Technical Support,57,4,2,34,1,5,23417,1,0,3531,19886,Medium,3
+1988,19,Female,Delhi,Referral,Internship,Web Development,Course Inquiry,53,4,3,87,6,9,12694,1,0,2378,10316,Medium,2
+1989,45,Female,Bengaluru,Instagram,IT Services,IT Support,Service Inquiry,63,14,1,96,5,7,8026,0,0,997,7029,Medium,1
+1990,47,Male,Pune,YouTube,Digital Services,Web Development,Internship Inquiry,49,9,0,15,3,9,19862,0,0,3046,16816,Medium,0
+1991,21,Male,Pune,Instagram,IT Services,Web Development,Internship Inquiry,36,13,0,7,6,7,22231,1,0,1129,21102,Low,0
+1992,18,Other,Bengaluru,Facebook,Internship,Software Development,Course Inquiry,78,12,4,92,6,9,14013,0,0,5018,8995,High,0
+1993,25,Female,Pune,YouTube,Digital Services,AI & ML,Course Inquiry,29,11,2,86,2,2,12584,1,0,3291,9293,Low,1
+1994,46,Male,Other,Instagram,Internship,Digital Marketing,General Inquiry,37,12,3,44,0,8,24817,1,0,2462,22355,Low,3
+1995,20,Male,Bengaluru,Instagram,Training,Software Development,Service Inquiry,64,14,1,94,2,7,13849,0,0,9725,4124,Medium,1
+1996,49,Male,Delhi,Google,Internship,AI & ML,Course Inquiry,78,2,0,39,1,6,15568,1,1,9666,5902,High,3
+1997,27,Female,Hyderabad,YouTube,Internship,Data Science,Internship Inquiry,81,14,4,53,4,5,5095,1,1,12975,-7880,High,1
+1998,27,Female,Mumbai,Google,Internship,Data Science,Internship Inquiry,78,12,2,13,0,4,15902,1,1,7749,8153,High,1
+1999,36,Male,Delhi,YouTube,Training,Web Development,Technical Support,68,5,2,58,0,7,23095,1,1,3680,19415,Medium,3
+2000,51,Male,Chennai,Instagram,Internship,Cloud Computing,Course Inquiry,82,4,1,93,4,3,10455,1,1,3542,6913,High,2
