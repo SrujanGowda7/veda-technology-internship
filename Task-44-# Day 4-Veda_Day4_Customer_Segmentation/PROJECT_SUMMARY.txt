@@ -1,0 +1,15 @@
+
+VEDA TECHNOLOGY
+Day 4 - Customer Segmentation & Service Recommendation System
+
+Project Features:
+- Customer behavior analysis
+- Feature engineering
+- StandardScaler preprocessing
+- K-Means clustering
+- Silhouette score evaluation
+- PCA
+- Customer segment profiling
+- Rule-based service recommendations
+- Interactive Streamlit dashboard
+- Business recommendations
